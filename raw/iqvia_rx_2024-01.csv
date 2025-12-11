@@ -1,0 +1,1501 @@
+month_year,npi_num,first_name,last_name,specialty,state,territory_code,region,hcp_segment,is_target,channel_name,payer_group,strength_mg,trx,nrx,units,net_product_sales,conversion_rate,payer_reimb_rate
+2024-01,000000000,Amber,Pace,Neurology,AL,AL01,South,A,1,Commercial,Commercial,200,20,9,40,11346.88,0.45,0.549
+2024-01,000000001,Emily,Williamson,Psychiatry,AL,AL01,South,C,0,Commercial,Commercial,200,5,2,10,2282.63,0.4,0.533
+2024-01,000000002,Andrew,Yoder,Psychiatry,AL,AL01,South,C,0,Commercial,Commercial,200,4,1,4,1624.66,0.25,0.745
+2024-01,000000003,Charles,Spears,Internal Medicine,AL,AL01,South,A,1,Managed Medicaid,Government,200,16,8,32,13774.46,0.5,0.502
+2024-01,000000004,Erika,Burns,Psychiatry,AL,AL01,South,C,0,Managed Medicaid,Government,150,13,3,26,6771.04,0.231,0.835
+2024-01,000000005,Michele,Mullins,Internal Medicine,AL,AL01,South,A,1,Commercial,Commercial,150,21,11,21,6580.03,0.524,0.62
+2024-01,000000006,Amy,Chang,Internal Medicine,AL,AL01,South,A,1,Managed Medicaid,Government,200,15,4,15,7095.15,0.267,0.632
+2024-01,000000007,Kenneth,Holmes,Neurology,AL,AL01,South,B,1,Medicare,Government,200,20,6,20,8063.77,0.3,0.516
+2024-01,000000008,Jesus,Castro,Psychiatry,AL,AL01,South,B,1,Commercial,Commercial,100,19,7,19,6057.82,0.368,0.659
+2024-01,000000009,Sarah,Jackson,Internal Medicine,AL,AL01,South,A,1,Medicare,Government,150,8,2,8,3153.96,0.25,0.746
+2024-01,000000010,Laura,Barrera,Neurology,AL,AL01,South,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.586
+2024-01,000000011,Laura,Carrillo,Internal Medicine,AL,AL01,South,B,1,Medicare,Government,200,19,6,19,7561.99,0.316,0.795
+2024-01,000000012,Linda,White,Psychiatry,AL,AL01,South,A,1,Commercial,Commercial,150,25,7,50,14480.63,0.28,0.574
+2024-01,000000013,Tina,Miller,Neurology,AL,AL01,South,C,0,Medicare,Government,100,4,1,8,2582.91,0.25,0.82
+2024-01,000000014,Paul,Macdonald,Internal Medicine,AL,AL01,South,A,1,Medicare,Government,100,15,6,15,6205.46,0.4,0.689
+2024-01,000000015,Craig,Nguyen,Neurology,AL,AL01,South,C,0,Managed Medicaid,Government,200,6,1,12,3769.43,0.167,0.849
+2024-01,000000016,Anthony,Perez,Psychiatry,AL,AL01,South,C,0,Managed Medicaid,Government,100,2,0,2,887.77,0.0,0.553
+2024-01,000000017,Brian,Parker,Psychiatry,AL,AL01,South,C,0,Managed Medicaid,Government,200,4,1,4,1280.16,0.25,0.709
+2024-01,000000018,Priscilla,Beck,Internal Medicine,AL,AL01,South,C,0,Medicare,Government,200,5,1,5,1984.37,0.2,0.54
+2024-01,000000019,Jeffrey,Hendricks,Neurology,AL,AL01,South,B,1,Medicare,Government,100,12,6,24,7992.94,0.5,0.659
+2024-01,000000020,Julia,Smith,Neurology,AL,AL01,South,C,0,Medicare,Government,200,10,3,10,3519.97,0.3,0.537
+2024-01,000000021,Joshua,Taylor,Neurology,AL,AL01,South,B,1,Medicaid,Government,100,11,4,22,9201.56,0.364,0.689
+2024-01,000000022,Jim,Moreno,Neurology,AL,AL01,South,A,1,Medicare,Government,150,11,5,11,2739.94,0.455,0.627
+2024-01,000000023,Rachel,Hester,Internal Medicine,AL,AL01,South,A,1,Commercial,Commercial,100,18,8,18,4360.86,0.444,0.67
+2024-01,000000024,Alexander,Cooper,Psychiatry,AL,AL01,South,C,0,Medicaid,Government,100,9,2,18,8391.25,0.222,0.558
+2024-01,000000025,Emily,Smith,Neurology,AL,AL01,South,C,0,Managed Medicaid,Government,100,6,1,6,2432.2,0.167,0.64
+2024-01,000000026,Roberta,Hamilton,Neurology,AL,AL01,South,C,0,Medicare,Government,150,5,1,10,2514.61,0.2,0.579
+2024-01,000000027,Gregory,Alvarez,Internal Medicine,AL,AL01,South,A,1,Medicaid,Government,200,16,5,16,3549.91,0.312,0.748
+2024-01,000000028,Jessica,Lynch,Psychiatry,AL,AL01,South,A,1,Commercial,Commercial,100,15,5,30,7152.69,0.333,0.583
+2024-01,000000029,Jeffrey,Booker,Neurology,AL,AL01,South,B,1,Medicaid,Government,200,23,9,23,9385.65,0.391,0.809
+2024-01,010000000,Robert,Larson,Neurology,AK,AK01,West,B,1,Medicaid,Government,150,19,5,38,10241.25,0.263,0.534
+2024-01,010000001,Danny,Hayden,Internal Medicine,AK,AK01,West,B,1,Managed Medicaid,Government,150,16,8,32,14227.12,0.5,0.519
+2024-01,010000002,Samantha,Ellis,Neurology,AK,AK01,West,C,0,Commercial,Commercial,100,2,0,4,1637.34,0.0,0.78
+2024-01,010000003,Robin,Walker,Psychiatry,AK,AK01,West,A,1,Medicaid,Government,100,21,10,42,10770.79,0.476,0.564
+2024-01,010000004,Steve,Barnes,Internal Medicine,AK,AK01,West,A,1,Commercial,Commercial,150,23,11,23,5362.52,0.478,0.85
+2024-01,010000005,Kathleen,Meyers,Psychiatry,AK,AK01,West,A,1,Medicaid,Government,100,22,5,44,15235.73,0.227,0.575
+2024-01,010000006,Jamie,Stephens,Internal Medicine,AK,AK01,West,A,1,Medicaid,Government,150,13,6,13,6190.34,0.462,0.593
+2024-01,010000007,David,Mullen,Internal Medicine,AK,AK01,West,B,1,Managed Medicaid,Government,200,16,6,32,8327.91,0.375,0.604
+2024-01,010000008,Lisa,Hansen,Psychiatry,AK,AK01,West,C,0,Commercial,Commercial,200,3,1,6,1409.18,0.333,0.704
+2024-01,010000009,Anne,Tran,Neurology,AK,AK01,West,C,0,Medicaid,Government,100,5,1,5,2206.75,0.2,0.524
+2024-01,010000010,Stacey,Houston,Psychiatry,AK,AK01,West,C,0,Medicaid,Government,150,10,5,10,4648.15,0.5,0.699
+2024-01,010000011,Stefanie,Lopez,Neurology,AK,AK01,West,C,0,Commercial,Commercial,200,12,4,12,3947.98,0.333,0.704
+2024-01,010000012,Jordan,Brown,Neurology,AK,AK01,West,B,1,Medicare,Government,100,19,9,38,10718.22,0.474,0.639
+2024-01,010000013,Katherine,Keller,Neurology,AK,AK01,West,C,0,Medicare,Government,150,2,0,4,1846.18,0.0,0.828
+2024-01,010000014,Andrew,Jones,Psychiatry,AK,AK01,West,B,1,Commercial,Commercial,100,17,6,17,5976.01,0.353,0.546
+2024-01,010000015,Linda,Williams,Internal Medicine,AK,AK01,West,A,1,Medicaid,Government,150,25,9,50,13050.71,0.36,0.792
+2024-01,010000016,Stacey,Stewart,Neurology,AK,AK01,West,B,1,Commercial,Commercial,200,18,6,36,16641.24,0.333,0.536
+2024-01,010000017,Nicholas,Sanchez,Psychiatry,AK,AK01,West,B,1,Commercial,Commercial,100,16,6,16,4652.97,0.375,0.712
+2024-01,010000018,Alyssa,Horn,Neurology,AK,AK01,West,B,1,Medicaid,Government,200,16,5,32,11245.0,0.312,0.588
+2024-01,010000019,Terry,Webb,Psychiatry,AK,AK01,West,A,1,Managed Medicaid,Government,150,19,9,19,4197.52,0.474,0.77
+2024-01,010000020,Anthony,Morton,Neurology,AK,AK01,West,B,1,Medicaid,Government,200,13,6,26,9449.36,0.462,0.65
+2024-01,010000021,Sarah,Russo,Psychiatry,AK,AK01,West,A,1,Commercial,Commercial,200,15,7,15,5427.8,0.467,0.792
+2024-01,010000022,Levi,Anderson,Neurology,AK,AK01,West,C,0,Medicaid,Government,150,10,4,10,2308.76,0.4,0.628
+2024-01,010000023,Dr.,Kennedy,Psychiatry,AK,AK01,West,B,1,Medicaid,Government,200,19,5,19,7474.65,0.263,0.624
+2024-01,010000024,Walter,Martinez,Neurology,AK,AK01,West,B,1,Medicaid,Government,100,18,8,18,8528.64,0.444,0.784
+2024-01,010000025,Cheryl,Montoya,Internal Medicine,AK,AK01,West,A,1,Medicaid,Government,200,22,11,44,18630.5,0.5,0.644
+2024-01,010000026,Susan,Guerra,Neurology,AK,AK01,West,C,0,Medicaid,Government,150,2,0,2,849.43,0.0,0.538
+2024-01,010000027,William,Russell,Psychiatry,AK,AK01,West,B,1,Medicaid,Government,100,16,6,32,9949.16,0.375,0.787
+2024-01,010000028,Larry,Gomez,Psychiatry,AK,AK01,West,A,1,Commercial,Commercial,200,19,4,19,6148.42,0.211,0.598
+2024-01,010000029,Tina,Ramos,Psychiatry,AK,AK01,West,B,1,Medicare,Government,200,19,7,38,15073.64,0.368,0.795
+2024-01,020000000,Nicole,Moore,Internal Medicine,AZ,AZ01,West,A,1,Commercial,Commercial,150,10,2,10,3709.53,0.2,0.844
+2024-01,020000001,Ellen,Baker,Psychiatry,AZ,AZ01,West,A,1,Managed Medicaid,Government,150,15,5,30,10003.87,0.333,0.844
+2024-01,020000002,Amy,Dillon,Psychiatry,AZ,AZ01,West,B,1,Medicaid,Government,150,17,6,17,6872.83,0.353,0.501
+2024-01,020000003,Dennis,Doyle,Neurology,AZ,AZ01,West,C,0,Medicaid,Government,150,8,3,16,3811.09,0.375,0.732
+2024-01,020000004,Patricia,Brown,Internal Medicine,AZ,AZ01,West,C,0,Medicare,Government,200,7,3,7,2849.95,0.429,0.605
+2024-01,020000005,Jennifer,Fisher,Internal Medicine,AZ,AZ01,West,C,0,Managed Medicaid,Government,150,5,1,10,4012.74,0.2,0.694
+2024-01,020000006,Michele,Lara,Psychiatry,AZ,AZ01,West,B,1,Managed Medicaid,Government,200,8,2,8,3040.27,0.25,0.605
+2024-01,020000007,Brenda,Barrett,Neurology,AZ,AZ01,West,A,1,Medicare,Government,150,17,4,17,5640.11,0.235,0.703
+2024-01,020000008,Lori,Henry,Neurology,AZ,AZ01,West,B,1,Managed Medicaid,Government,150,18,4,36,14243.87,0.222,0.679
+2024-01,020000009,Tracy,Duran,Neurology,AZ,AZ01,West,A,1,Commercial,Commercial,150,30,10,60,14656.84,0.333,0.833
+2024-01,020000010,Sarah,Dixon,Psychiatry,AZ,AZ01,West,C,0,Medicare,Government,100,5,1,5,1291.56,0.2,0.516
+2024-01,020000011,Deborah,Johns,Internal Medicine,AZ,AZ01,West,C,0,Commercial,Commercial,150,7,2,14,6305.54,0.286,0.701
+2024-01,020000012,Jessica,Rodriguez,Neurology,AZ,AZ01,West,C,0,Managed Medicaid,Government,150,11,3,22,6235.59,0.273,0.73
+2024-01,020000013,Jamie,Richards,Psychiatry,AZ,AZ01,West,A,1,Managed Medicaid,Government,100,21,9,21,9010.44,0.429,0.744
+2024-01,020000014,Michael,Lucero,Internal Medicine,AZ,AZ01,West,A,1,Medicaid,Government,100,25,11,50,12733.41,0.44,0.663
+2024-01,020000015,Matthew,Blair,Neurology,AZ,AZ01,West,C,0,Medicare,Government,150,0,0,0,0.0,0.0,0.692
+2024-01,020000016,Kevin,Friedman,Psychiatry,AZ,AZ01,West,C,0,Managed Medicaid,Government,150,1,0,2,830.92,0.0,0.794
+2024-01,020000017,Nathaniel,Wallace,Internal Medicine,AZ,AZ01,West,C,0,Managed Medicaid,Government,200,3,1,3,874.19,0.333,0.527
+2024-01,020000018,Megan,Miranda,Internal Medicine,AZ,AZ01,West,A,1,Medicare,Government,150,10,4,20,9043.74,0.4,0.528
+2024-01,020000019,Joshua,Pierce,Psychiatry,AZ,AZ01,West,A,1,Managed Medicaid,Government,200,18,5,18,7266.04,0.278,0.522
+2024-01,020000020,Andrew,Snyder,Internal Medicine,AZ,AZ01,West,B,1,Managed Medicaid,Government,150,13,6,13,3559.1,0.462,0.647
+2024-01,020000021,Cody,Francis,Neurology,AZ,AZ01,West,C,0,Commercial,Commercial,200,13,3,26,8944.38,0.231,0.83
+2024-01,020000022,Alex,Gonzalez,Internal Medicine,AZ,AZ01,West,B,1,Managed Medicaid,Government,200,14,7,14,4857.16,0.5,0.596
+2024-01,020000023,Michael,Martinez,Internal Medicine,AZ,AZ01,West,A,1,Managed Medicaid,Government,150,16,8,32,13065.19,0.5,0.794
+2024-01,020000024,Brenda,Meyer,Psychiatry,AZ,AZ01,West,C,0,Commercial,Commercial,150,10,4,10,2418.26,0.4,0.65
+2024-01,020000025,Richard,Cole,Internal Medicine,AZ,AZ01,West,A,1,Commercial,Commercial,150,11,4,22,6712.46,0.364,0.659
+2024-01,020000026,Charles,Smith,Internal Medicine,AZ,AZ01,West,B,1,Medicare,Government,150,9,2,18,7867.38,0.222,0.665
+2024-01,020000027,Kimberly,Snow,Neurology,AZ,AZ01,West,C,0,Commercial,Commercial,150,6,3,6,2334.22,0.5,0.773
+2024-01,020000028,Amber,Calderon,Neurology,AZ,AZ01,West,A,1,Commercial,Commercial,100,19,6,19,8325.79,0.316,0.717
+2024-01,020000029,Gregory,Sutton,Psychiatry,AZ,AZ01,West,A,1,Managed Medicaid,Government,200,21,7,21,7699.27,0.333,0.576
+2024-01,030000000,Russell,Abbott,Neurology,AR,AR01,South,B,1,Medicare,Government,100,20,10,20,8444.52,0.5,0.557
+2024-01,030000001,Donna,Harrison,Internal Medicine,AR,AR01,South,A,1,Commercial,Commercial,150,19,9,38,12278.95,0.474,0.75
+2024-01,030000002,Holly,Lopez,Psychiatry,AR,AR01,South,C,0,Medicaid,Government,100,2,0,4,1764.3,0.0,0.71
+2024-01,030000003,Michael,Patterson,Psychiatry,AR,AR01,South,C,0,Commercial,Commercial,150,7,3,14,5487.94,0.429,0.524
+2024-01,030000004,Justin,Nash,Neurology,AR,AR01,South,B,1,Commercial,Commercial,150,19,4,38,9402.72,0.211,0.836
+2024-01,030000005,Robert,Stevens,Neurology,AR,AR01,South,B,1,Medicaid,Government,150,14,4,14,5751.01,0.286,0.838
+2024-01,030000006,Elizabeth,Vance,Internal Medicine,AR,AR01,South,C,0,Managed Medicaid,Government,150,15,6,30,13040.73,0.4,0.707
+2024-01,030000007,Michelle,Ortiz,Internal Medicine,AR,AR01,South,A,1,Commercial,Commercial,150,20,6,40,11336.18,0.3,0.663
+2024-01,030000008,Kimberly,Morales,Neurology,AR,AR01,South,C,0,Managed Medicaid,Government,150,1,0,1,348.52,0.0,0.614
+2024-01,030000009,Jennifer,Whitaker,Internal Medicine,AR,AR01,South,A,1,Medicare,Government,150,21,9,42,12293.87,0.429,0.709
+2024-01,030000010,Janice,Fitzgerald,Internal Medicine,AR,AR01,South,C,0,Commercial,Commercial,200,10,4,10,2422.59,0.4,0.752
+2024-01,030000011,Jennifer,Henderson,Internal Medicine,AR,AR01,South,C,0,Medicaid,Government,200,8,3,16,6206.96,0.375,0.672
+2024-01,030000012,Jessica,Dickson,Psychiatry,AR,AR01,South,A,1,Medicare,Government,100,16,5,32,12795.67,0.312,0.607
+2024-01,030000013,Peter,Snyder,Neurology,AR,AR01,South,B,1,Managed Medicaid,Government,200,14,4,28,9257.67,0.286,0.761
+2024-01,030000014,Daniel,Vazquez,Internal Medicine,AR,AR01,South,B,1,Managed Medicaid,Government,150,17,8,34,9702.41,0.471,0.542
+2024-01,030000015,Robin,PhD,Psychiatry,AR,AR01,South,B,1,Commercial,Commercial,200,19,8,19,5126.21,0.421,0.759
+2024-01,030000016,John,Hernandez,Internal Medicine,AR,AR01,South,C,0,Medicare,Government,100,6,2,6,1782.14,0.333,0.626
+2024-01,030000017,Sara,Smith,Internal Medicine,AR,AR01,South,A,1,Medicaid,Government,150,25,9,25,11832.92,0.36,0.694
+2024-01,030000018,Terri,Delgado,Neurology,AR,AR01,South,A,1,Managed Medicaid,Government,100,21,7,21,7754.39,0.333,0.664
+2024-01,030000019,Alicia,Pierce,Internal Medicine,AR,AR01,South,B,1,Medicaid,Government,100,13,3,26,12081.59,0.231,0.667
+2024-01,030000020,David,Santiago,Psychiatry,AR,AR01,South,B,1,Managed Medicaid,Government,100,12,6,12,3113.39,0.5,0.784
+2024-01,030000021,Angela,Hamilton,Internal Medicine,AR,AR01,South,A,1,Medicaid,Government,100,20,10,40,15105.7,0.5,0.777
+2024-01,030000022,Erin,Thomas,Psychiatry,AR,AR01,South,C,0,Managed Medicaid,Government,150,4,1,8,2378.49,0.25,0.706
+2024-01,030000023,Michelle,Contreras,Internal Medicine,AR,AR01,South,B,1,Commercial,Commercial,200,21,11,21,9793.84,0.524,0.573
+2024-01,030000024,Michael,Wilson,Psychiatry,AR,AR01,South,B,1,Commercial,Commercial,100,20,10,20,5303.83,0.5,0.526
+2024-01,030000025,Holly,Spencer,Psychiatry,AR,AR01,South,B,1,Managed Medicaid,Government,200,17,8,34,10054.73,0.471,0.581
+2024-01,030000026,Samuel,Erickson,Neurology,AR,AR01,South,B,1,Managed Medicaid,Government,100,13,6,13,5982.82,0.462,0.776
+2024-01,030000027,Jennifer,White,Neurology,AR,AR01,South,C,0,Medicaid,Government,150,0,0,0,0.0,0.0,0.727
+2024-01,030000028,Stephanie,Peters,Internal Medicine,AR,AR01,South,A,1,Commercial,Commercial,100,19,10,19,8095.59,0.526,0.708
+2024-01,030000029,Rodney,Johnson,Neurology,AR,AR01,South,B,1,Managed Medicaid,Government,100,11,5,22,8779.24,0.455,0.745
+2024-01,040000000,Eileen,Simpson,Internal Medicine,CA,CA01,West,C,0,Managed Medicaid,Government,150,1,0,1,375.49,0.0,0.811
+2024-01,040000001,Chelsea,Payne,Neurology,CA,CA01,West,B,1,Medicare,Government,100,18,9,18,5031.37,0.5,0.736
+2024-01,040000002,Emily,Lambert,Neurology,CA,CA01,West,C,0,Commercial,Commercial,200,6,3,12,4437.89,0.5,0.767
+2024-01,040000003,Heather,Mendoza,Psychiatry,CA,CA01,West,B,1,Managed Medicaid,Government,150,12,5,12,5750.47,0.417,0.653
+2024-01,040000004,Eric,Benton,Internal Medicine,CA,CA01,West,A,1,Managed Medicaid,Government,150,23,8,46,14106.37,0.348,0.735
+2024-01,040000005,Richard,Gonzalez,Psychiatry,CA,CA01,West,B,1,Managed Medicaid,Government,200,23,7,46,13567.08,0.304,0.831
+2024-01,040000006,Travis,Wilson,Neurology,CA,CA01,West,A,1,Managed Medicaid,Government,100,20,10,40,11424.95,0.5,0.541
+2024-01,040000007,John,Jackson,Internal Medicine,CA,CA01,West,C,0,Commercial,Commercial,200,8,4,16,5239.11,0.5,0.566
+2024-01,040000008,Jessica,Kramer,Internal Medicine,CA,CA01,West,C,0,Managed Medicaid,Government,200,8,3,16,6681.56,0.375,0.571
+2024-01,040000009,Mrs.,Smith,Neurology,CA,CA01,West,A,1,Medicare,Government,150,37,16,74,18616.24,0.432,0.841
+2024-01,040000010,Tiffany,Lopez,Neurology,CA,CA01,West,A,1,Medicaid,Government,150,22,11,22,7998.88,0.5,0.533
+2024-01,040000011,Kelly,Williams,Psychiatry,CA,CA01,West,B,1,Commercial,Commercial,200,21,7,21,7341.13,0.333,0.751
+2024-01,040000012,Michael,Turner,Neurology,CA,CA01,West,C,0,Medicare,Government,150,2,0,4,1899.45,0.0,0.585
+2024-01,040000013,Tamara,Wong,Neurology,CA,CA01,West,A,1,Managed Medicaid,Government,100,16,4,16,7114.35,0.25,0.597
+2024-01,040000014,Sylvia,Jones,Internal Medicine,CA,CA01,West,B,1,Medicare,Government,100,29,9,58,23708.85,0.31,0.793
+2024-01,040000015,Michael,Davis,Neurology,CA,CA01,West,C,0,Managed Medicaid,Government,100,0,0,0,0.0,0.0,0.621
+2024-01,040000016,Richard,Whitaker,Neurology,CA,CA01,West,C,0,Managed Medicaid,Government,150,3,0,6,2676.58,0.0,0.843
+2024-01,040000017,Victoria,Walker,Psychiatry,CA,CA01,West,C,0,Managed Medicaid,Government,100,11,4,22,5089.66,0.364,0.761
+2024-01,040000018,Aaron,Stevens,Neurology,CA,CA01,West,B,1,Managed Medicaid,Government,200,14,6,14,4883.0,0.429,0.513
+2024-01,040000019,Andrew,West,Neurology,CA,CA01,West,C,0,Medicare,Government,100,9,2,18,4426.65,0.222,0.819
+2024-01,040000020,Elizabeth,Brown,Psychiatry,CA,CA01,West,C,0,Medicaid,Government,150,6,2,6,1436.73,0.333,0.774
+2024-01,040000021,Paul,Hunt,Internal Medicine,CA,CA01,West,B,1,Managed Medicaid,Government,200,14,6,14,6180.43,0.429,0.798
+2024-01,040000022,Robert,Turner,Neurology,CA,CA01,West,B,1,Medicare,Government,200,7,3,14,6255.47,0.429,0.513
+2024-01,040000023,Jeffrey,Cameron,Psychiatry,CA,CA01,West,A,1,Medicare,Government,100,18,5,18,5990.99,0.278,0.534
+2024-01,040000024,Mindy,Gross,Neurology,CA,CA01,West,C,0,Commercial,Commercial,150,2,0,2,800.88,0.0,0.816
+2024-01,040000025,Mary,Zamora,Psychiatry,CA,CA01,West,B,1,Commercial,Commercial,150,17,9,34,10793.6,0.529,0.551
+2024-01,040000026,Chad,Sanders,Neurology,CA,CA01,West,B,1,Medicaid,Government,100,20,7,20,4810.64,0.35,0.805
+2024-01,040000027,Melinda,Caldwell,Neurology,CA,CA01,West,C,0,Medicaid,Government,150,10,3,10,2803.69,0.3,0.723
+2024-01,040000028,Diane,Morgan,Internal Medicine,CA,CA01,West,B,1,Commercial,Commercial,150,15,6,30,11885.36,0.4,0.555
+2024-01,040000029,Tony,White,Internal Medicine,CA,CA01,West,B,1,Medicare,Government,200,14,6,28,11185.48,0.429,0.66
+2024-01,050000000,Jamie,Guzman,Internal Medicine,CO,CO01,West,A,1,Managed Medicaid,Government,150,11,5,11,3098.41,0.455,0.7
+2024-01,050000001,William,Mcpherson,Neurology,CO,CO01,West,B,1,Medicare,Government,100,22,10,44,12820.06,0.455,0.698
+2024-01,050000002,Robin,Grant,Neurology,CO,CO01,West,C,0,Commercial,Commercial,200,16,6,32,13969.22,0.375,0.816
+2024-01,050000003,Jesse,Holloway,Psychiatry,CO,CO01,West,C,0,Medicare,Government,100,11,3,11,4195.75,0.273,0.737
+2024-01,050000004,Michael,Mcmahon,Neurology,CO,CO01,West,C,0,Medicaid,Government,200,12,3,12,5458.62,0.25,0.726
+2024-01,050000005,Karina,Roberts,Internal Medicine,CO,CO01,West,B,1,Commercial,Commercial,200,14,3,28,11491.58,0.214,0.532
+2024-01,050000006,Willie,Maldonado,Internal Medicine,CO,CO01,West,B,1,Managed Medicaid,Government,100,20,7,20,5087.23,0.35,0.689
+2024-01,050000007,Dr.,Giles,Internal Medicine,CO,CO01,West,C,0,Medicare,Government,100,9,2,18,8237.75,0.222,0.83
+2024-01,050000008,Ryan,Hanson,Internal Medicine,CO,CO01,West,C,0,Medicare,Government,100,0,0,0,0.0,0.0,0.549
+2024-01,050000009,Melissa,Clay,Psychiatry,CO,CO01,West,C,0,Managed Medicaid,Government,200,0,0,0,0.0,0.0,0.638
+2024-01,050000010,Chris,Mccarthy,Internal Medicine,CO,CO01,West,C,0,Commercial,Commercial,150,14,6,28,11058.19,0.429,0.735
+2024-01,050000011,Kathleen,Zavala,Neurology,CO,CO01,West,B,1,Medicare,Government,100,10,2,10,3425.84,0.2,0.717
+2024-01,050000012,Adam,Lopez,Neurology,CO,CO01,West,B,1,Medicaid,Government,200,25,10,25,9630.13,0.4,0.662
+2024-01,050000013,Alicia,Kerr,Neurology,CO,CO01,West,B,1,Managed Medicaid,Government,100,10,5,10,2317.9,0.5,0.513
+2024-01,050000014,David,Thompson,Internal Medicine,CO,CO01,West,A,1,Commercial,Commercial,100,13,3,13,4173.62,0.231,0.63
+2024-01,050000015,Eric,Fox,Neurology,CO,CO01,West,C,0,Managed Medicaid,Government,200,8,3,8,3601.66,0.375,0.729
+2024-01,050000016,Jennifer,Pearson,Internal Medicine,CO,CO01,West,C,0,Managed Medicaid,Government,150,6,3,6,2396.84,0.5,0.576
+2024-01,050000017,Ashley,Williams,Internal Medicine,CO,CO01,West,A,1,Medicare,Government,100,16,6,32,11569.96,0.375,0.842
+2024-01,050000018,Bradley,Weber,Internal Medicine,CO,CO01,West,A,1,Managed Medicaid,Government,150,25,9,25,11793.34,0.36,0.832
+2024-01,050000019,Andrew,Myers,Internal Medicine,CO,CO01,West,A,1,Medicaid,Government,200,11,4,11,2564.65,0.364,0.617
+2024-01,050000020,Richard,Sandoval,Psychiatry,CO,CO01,West,C,0,Medicaid,Government,100,5,2,5,1862.3,0.4,0.785
+2024-01,050000021,James,Daugherty,Psychiatry,CO,CO01,West,B,1,Medicaid,Government,200,20,10,20,5841.83,0.5,0.844
+2024-01,050000022,Jamie,Miller,Psychiatry,CO,CO01,West,C,0,Medicare,Government,100,7,1,7,2743.12,0.143,0.509
+2024-01,050000023,James,Roy,Psychiatry,CO,CO01,West,B,1,Medicaid,Government,200,14,4,28,6274.89,0.286,0.593
+2024-01,050000024,Amanda,Cross,Psychiatry,CO,CO01,West,C,0,Managed Medicaid,Government,200,3,0,3,1241.62,0.0,0.667
+2024-01,050000025,Zachary,Stephenson,Internal Medicine,CO,CO01,West,C,0,Commercial,Commercial,150,10,4,10,4658.08,0.4,0.515
+2024-01,050000026,Monica,Jones,Neurology,CO,CO01,West,C,0,Medicare,Government,150,10,4,10,2358.15,0.4,0.668
+2024-01,050000027,Judith,Rodriguez,Internal Medicine,CO,CO01,West,B,1,Commercial,Commercial,150,19,9,38,9086.09,0.474,0.528
+2024-01,050000028,Jeffery,Robertson,Neurology,CO,CO01,West,A,1,Commercial,Commercial,100,13,6,26,9940.39,0.462,0.705
+2024-01,050000029,Troy,Chambers,Neurology,CO,CO01,West,B,1,Managed Medicaid,Government,200,15,7,30,10138.98,0.467,0.712
+2024-01,060000000,Katrina,Wise,Psychiatry,CT,CT01,Northeast,C,0,Commercial,Commercial,200,5,1,5,1659.09,0.2,0.811
+2024-01,060000001,Cynthia,Perez,Internal Medicine,CT,CT01,Northeast,B,1,Managed Medicaid,Government,150,18,8,36,14749.17,0.444,0.609
+2024-01,060000002,Felicia,Ortiz,Internal Medicine,CT,CT01,Northeast,C,0,Medicare,Government,150,8,4,8,3188.59,0.5,0.666
+2024-01,060000003,Diana,Gonzalez,Psychiatry,CT,CT01,Northeast,A,1,Commercial,Commercial,150,16,6,16,6617.49,0.375,0.63
+2024-01,060000004,Donna,Lowery,Psychiatry,CT,CT01,Northeast,C,0,Commercial,Commercial,200,10,2,20,7884.07,0.2,0.644
+2024-01,060000005,James,Salazar,Neurology,CT,CT01,Northeast,B,1,Commercial,Commercial,150,22,11,44,13702.83,0.5,0.702
+2024-01,060000006,Ricky,Hernandez,Psychiatry,CT,CT01,Northeast,A,1,Managed Medicaid,Government,100,24,8,24,7464.71,0.333,0.695
+2024-01,060000007,William,Garza,Psychiatry,CT,CT01,Northeast,B,1,Medicaid,Government,150,18,9,18,6810.1,0.5,0.73
+2024-01,060000008,Natalie,Arnold,Neurology,CT,CT01,Northeast,B,1,Commercial,Commercial,100,19,10,38,15302.66,0.526,0.608
+2024-01,060000009,Mark,Singh,Internal Medicine,CT,CT01,Northeast,B,1,Commercial,Commercial,100,17,7,17,6243.14,0.412,0.64
+2024-01,060000010,Amanda,Rivers,Psychiatry,CT,CT01,Northeast,C,0,Commercial,Commercial,100,1,0,1,317.81,0.0,0.659
+2024-01,060000011,Tamara,Hunter,Psychiatry,CT,CT01,Northeast,B,1,Medicare,Government,200,28,9,56,23630.73,0.321,0.699
+2024-01,060000012,David,Mitchell,Psychiatry,CT,CT01,Northeast,A,1,Medicaid,Government,100,23,11,23,9090.33,0.478,0.595
+2024-01,060000013,Jenny,Murillo,Neurology,CT,CT01,Northeast,B,1,Managed Medicaid,Government,200,21,10,42,13762.89,0.476,0.575
+2024-01,060000014,Jacqueline,Greene,Neurology,CT,CT01,Northeast,A,1,Medicare,Government,150,17,4,17,4991.95,0.235,0.737
+2024-01,060000015,Bruce,Holmes,Internal Medicine,CT,CT01,Northeast,C,0,Medicare,Government,100,1,0,1,322.77,0.0,0.71
+2024-01,060000016,Tony,Mccullough,Psychiatry,CT,CT01,Northeast,A,1,Medicare,Government,100,22,7,22,9211.0,0.318,0.601
+2024-01,060000017,Tyler,Campbell,Psychiatry,CT,CT01,Northeast,A,1,Managed Medicaid,Government,200,17,4,34,9033.14,0.235,0.633
+2024-01,060000018,Courtney,Sanchez,Neurology,CT,CT01,Northeast,A,1,Medicare,Government,100,20,8,40,17762.35,0.4,0.515
+2024-01,060000019,Amanda,Ray,Psychiatry,CT,CT01,Northeast,B,1,Commercial,Commercial,150,15,4,30,11072.52,0.267,0.748
+2024-01,060000020,David,Cherry,Internal Medicine,CT,CT01,Northeast,B,1,Commercial,Commercial,150,19,5,19,8953.03,0.263,0.56
+2024-01,060000021,Kenneth,Hudson,Neurology,CT,CT01,Northeast,B,1,Medicare,Government,100,15,7,30,13186.98,0.467,0.585
+2024-01,060000022,Katherine,Myers,Neurology,CT,CT01,Northeast,B,1,Commercial,Commercial,150,15,4,30,12417.28,0.267,0.578
+2024-01,060000023,Tiffany,Perkins,Psychiatry,CT,CT01,Northeast,A,1,Commercial,Commercial,200,19,10,19,8655.26,0.526,0.622
+2024-01,060000024,Kelly,Miller,Neurology,CT,CT01,Northeast,C,0,Medicaid,Government,100,0,0,0,0.0,0.0,0.569
+2024-01,060000025,Brian,Huffman,Neurology,CT,CT01,Northeast,A,1,Commercial,Commercial,100,10,5,20,6812.56,0.5,0.697
+2024-01,060000026,Miguel,Walton,Neurology,CT,CT01,Northeast,B,1,Medicare,Government,200,14,6,28,7258.97,0.429,0.524
+2024-01,060000027,Anthony,Reyes,Internal Medicine,CT,CT01,Northeast,C,0,Medicare,Government,150,4,1,4,1246.02,0.25,0.526
+2024-01,060000028,Julia,Hart,Internal Medicine,CT,CT01,Northeast,B,1,Commercial,Commercial,100,22,6,44,19194.61,0.273,0.527
+2024-01,060000029,Francisco,Gould,Psychiatry,CT,CT01,Northeast,C,0,Managed Medicaid,Government,150,5,1,5,1684.65,0.2,0.783
+2024-01,070000000,Tara,Cuevas,Neurology,DE,DE01,South,A,1,Medicare,Government,200,17,4,34,11912.09,0.235,0.835
+2024-01,070000001,Cynthia,Miller,Internal Medicine,DE,DE01,South,A,1,Medicare,Government,200,16,4,16,5618.92,0.25,0.56
+2024-01,070000002,Kyle,Salazar,Psychiatry,DE,DE01,South,C,0,Managed Medicaid,Government,150,7,3,7,2202.29,0.429,0.821
+2024-01,070000003,Matthew,Burns,Internal Medicine,DE,DE01,South,B,1,Medicare,Government,200,13,5,13,5527.59,0.385,0.727
+2024-01,070000004,Jeffrey,Walker,Psychiatry,DE,DE01,South,B,1,Commercial,Commercial,200,17,5,34,9991.86,0.294,0.753
+2024-01,070000005,Todd,Alvarez,Neurology,DE,DE01,South,C,0,Medicaid,Government,150,8,4,8,2972.1,0.5,0.549
+2024-01,070000006,Albert,Flowers,Internal Medicine,DE,DE01,South,B,1,Managed Medicaid,Government,100,19,5,19,5709.33,0.263,0.632
+2024-01,070000007,Scott,Cummings,Internal Medicine,DE,DE01,South,A,1,Commercial,Commercial,200,18,7,36,12679.45,0.389,0.506
+2024-01,070000008,Patrick,Cole,Internal Medicine,DE,DE01,South,A,1,Medicaid,Government,150,18,7,36,9717.17,0.389,0.85
+2024-01,070000009,Jamie,Jones,Psychiatry,DE,DE01,South,A,1,Medicare,Government,100,20,9,20,7842.03,0.45,0.807
+2024-01,070000010,Christopher,Vazquez,Neurology,DE,DE01,South,A,1,Managed Medicaid,Government,100,28,11,28,7476.56,0.393,0.742
+2024-01,070000011,Stephanie,Donovan,Neurology,DE,DE01,South,A,1,Managed Medicaid,Government,100,14,7,28,8812.1,0.5,0.752
+2024-01,070000012,Pamela,Davis,Internal Medicine,DE,DE01,South,C,0,Medicare,Government,200,16,5,32,8986.9,0.312,0.584
+2024-01,070000013,Veronica,Vasquez,Internal Medicine,DE,DE01,South,A,1,Medicare,Government,200,13,3,26,8840.96,0.231,0.599
+2024-01,070000014,Katherine,Sandoval,Internal Medicine,DE,DE01,South,C,0,Managed Medicaid,Government,100,0,0,0,0.0,0.0,0.548
+2024-01,070000015,Alexandra,Reynolds,Internal Medicine,DE,DE01,South,A,1,Managed Medicaid,Government,150,15,4,15,6074.46,0.267,0.681
+2024-01,070000016,Julia,Phillips,Psychiatry,DE,DE01,South,B,1,Commercial,Commercial,100,19,6,38,12799.27,0.316,0.68
+2024-01,070000017,Sarah,Martin,Internal Medicine,DE,DE01,South,A,1,Medicaid,Government,150,27,13,54,24943.83,0.481,0.645
+2024-01,070000018,Nicholas,Williams,Internal Medicine,DE,DE01,South,C,0,Medicare,Government,100,1,0,2,957.15,0.0,0.631
+2024-01,070000019,Edwin,Miller,Psychiatry,DE,DE01,South,B,1,Commercial,Commercial,200,20,9,40,17030.36,0.45,0.548
+2024-01,070000020,April,Le,Internal Medicine,DE,DE01,South,B,1,Medicaid,Government,200,11,5,22,7406.0,0.455,0.502
+2024-01,070000021,Anne,Gordon,Psychiatry,DE,DE01,South,A,1,Medicare,Government,100,27,13,27,9792.61,0.481,0.755
+2024-01,070000022,Antonio,Benton,Neurology,DE,DE01,South,B,1,Commercial,Commercial,150,23,12,23,6860.88,0.522,0.517
+2024-01,070000023,Alyssa,Rowe,Internal Medicine,DE,DE01,South,C,0,Managed Medicaid,Government,100,3,0,3,1312.62,0.0,0.675
+2024-01,070000024,Susan,Stephenson,Neurology,DE,DE01,South,A,1,Medicaid,Government,200,9,4,9,2661.58,0.444,0.501
+2024-01,070000025,Victoria,Mckenzie,Internal Medicine,DE,DE01,South,A,1,Managed Medicaid,Government,100,24,12,24,8546.54,0.5,0.626
+2024-01,070000026,Robert,Sutton,Neurology,DE,DE01,South,C,0,Commercial,Commercial,150,5,1,10,2313.19,0.2,0.635
+2024-01,070000027,Mary,Brown,Internal Medicine,DE,DE01,South,B,1,Commercial,Commercial,150,24,7,24,7431.57,0.292,0.757
+2024-01,070000028,Colin,Nguyen,Neurology,DE,DE01,South,A,1,Medicare,Government,100,18,8,18,5608.76,0.444,0.618
+2024-01,070000029,John,Mcfarland,Neurology,DE,DE01,South,A,1,Managed Medicaid,Government,200,18,9,36,13833.05,0.5,0.784
+2024-01,080000000,Terri,Cabrera,Psychiatry,FL,FL01,South,C,0,Managed Medicaid,Government,100,3,1,6,1634.48,0.333,0.777
+2024-01,080000001,Brooke,Diaz,Psychiatry,FL,FL01,South,B,1,Medicare,Government,200,21,6,42,20041.22,0.286,0.69
+2024-01,080000002,Luis,West,Internal Medicine,FL,FL01,South,A,1,Medicaid,Government,150,18,5,36,15989.62,0.278,0.517
+2024-01,080000003,Thomas,Fields,Neurology,FL,FL01,South,B,1,Medicare,Government,100,20,9,40,13344.29,0.45,0.64
+2024-01,080000004,Allison,Prince,Internal Medicine,FL,FL01,South,B,1,Medicare,Government,100,10,2,20,7998.76,0.2,0.629
+2024-01,080000005,Stephanie,Chambers,Neurology,FL,FL01,South,B,1,Commercial,Commercial,200,24,10,48,11545.01,0.417,0.711
+2024-01,080000006,Charles,Rivera,Psychiatry,FL,FL01,South,C,0,Medicare,Government,150,13,5,13,3130.63,0.385,0.731
+2024-01,080000007,Julie,Richardson,Internal Medicine,FL,FL01,South,B,1,Managed Medicaid,Government,100,18,9,36,11210.48,0.5,0.515
+2024-01,080000008,Eric,Davis,Internal Medicine,FL,FL01,South,C,0,Managed Medicaid,Government,150,16,8,16,3832.17,0.5,0.723
+2024-01,080000009,Leslie,Robinson,Internal Medicine,FL,FL01,South,C,0,Medicaid,Government,100,14,5,14,6169.16,0.357,0.737
+2024-01,080000010,Michael,Perry,Internal Medicine,FL,FL01,South,A,1,Medicaid,Government,100,21,9,21,8870.69,0.429,0.628
+2024-01,080000011,Jennifer,Brown,Internal Medicine,FL,FL01,South,C,0,Commercial,Commercial,200,12,3,12,4758.67,0.25,0.832
+2024-01,080000012,Richard,Andrews,Internal Medicine,FL,FL01,South,B,1,Commercial,Commercial,200,23,8,23,8226.17,0.348,0.639
+2024-01,080000013,Shirley,Short,Neurology,FL,FL01,South,B,1,Medicaid,Government,100,9,3,9,3701.48,0.333,0.675
+2024-01,080000014,Deborah,Mercer,Internal Medicine,FL,FL01,South,C,0,Commercial,Commercial,150,4,1,8,3224.4,0.25,0.575
+2024-01,080000015,Donna,Malone,Neurology,FL,FL01,South,B,1,Managed Medicaid,Government,100,21,10,21,5361.08,0.476,0.526
+2024-01,080000016,Henry,Williams,Psychiatry,FL,FL01,South,C,0,Managed Medicaid,Government,100,14,7,28,11021.87,0.5,0.748
+2024-01,080000017,Michael,Wade,Neurology,FL,FL01,South,C,0,Medicare,Government,150,0,0,0,0.0,0.0,0.825
+2024-01,080000018,Eric,Potter,Neurology,FL,FL01,South,A,1,Medicare,Government,200,9,3,9,2263.99,0.333,0.57
+2024-01,080000019,Connie,Crosby,Psychiatry,FL,FL01,South,A,1,Managed Medicaid,Government,100,17,9,34,12377.55,0.529,0.629
+2024-01,080000020,Jeffrey,DVM,Neurology,FL,FL01,South,A,1,Commercial,Commercial,100,7,3,14,4529.3,0.429,0.751
+2024-01,080000021,Danielle,Bell,Internal Medicine,FL,FL01,South,C,0,Managed Medicaid,Government,150,5,1,5,1262.92,0.2,0.611
+2024-01,080000022,Jackson,Sims,Psychiatry,FL,FL01,South,B,1,Managed Medicaid,Government,200,19,5,38,9627.95,0.263,0.79
+2024-01,080000023,Debra,Burke,Neurology,FL,FL01,South,C,0,Medicaid,Government,100,1,0,2,701.49,0.0,0.804
+2024-01,080000024,Michael,Hicks,Psychiatry,FL,FL01,South,C,0,Medicaid,Government,150,5,2,5,1310.56,0.4,0.827
+2024-01,080000025,Robert,Nixon,Psychiatry,FL,FL01,South,B,1,Medicare,Government,100,22,6,44,11925.69,0.273,0.835
+2024-01,080000026,Allison,Gonzalez,Internal Medicine,FL,FL01,South,A,1,Medicare,Government,200,15,4,15,5260.04,0.267,0.559
+2024-01,080000027,Jasmine,Cook,Neurology,FL,FL01,South,A,1,Medicaid,Government,200,14,3,28,12293.62,0.214,0.697
+2024-01,080000028,Shannon,Le,Psychiatry,FL,FL01,South,A,1,Commercial,Commercial,200,17,5,34,13235.99,0.294,0.768
+2024-01,080000029,Judy,Gibson,Internal Medicine,FL,FL01,South,C,0,Commercial,Commercial,150,0,0,0,0.0,0.0,0.606
+2024-01,090000000,Charles,Howard,Psychiatry,GA,GA01,South,C,0,Managed Medicaid,Government,150,15,3,30,7169.19,0.2,0.521
+2024-01,090000001,Nicole,Graham,Internal Medicine,GA,GA01,South,B,1,Managed Medicaid,Government,150,18,8,18,5552.1,0.444,0.55
+2024-01,090000002,Elizabeth,Jones,Neurology,GA,GA01,South,B,1,Medicare,Government,150,14,7,14,5848.82,0.5,0.68
+2024-01,090000003,Courtney,Bauer,Psychiatry,GA,GA01,South,B,1,Medicaid,Government,150,19,9,19,5501.31,0.474,0.587
+2024-01,090000004,Andrew,DDS,Psychiatry,GA,GA01,South,A,1,Medicare,Government,150,17,8,34,9674.71,0.471,0.803
+2024-01,090000005,Stephanie,Lucas,Psychiatry,GA,GA01,South,B,1,Medicare,Government,100,16,7,16,5592.78,0.438,0.68
+2024-01,090000006,Shane,Camacho,Internal Medicine,GA,GA01,South,B,1,Managed Medicaid,Government,100,15,5,15,6986.41,0.333,0.677
+2024-01,090000007,Tiffany,Dixon,Psychiatry,GA,GA01,South,A,1,Medicare,Government,100,15,5,15,4397.29,0.333,0.709
+2024-01,090000008,Kristen,Bullock,Neurology,GA,GA01,South,C,0,Managed Medicaid,Government,150,0,0,0,0.0,0.0,0.651
+2024-01,090000009,Emily,Lopez,Internal Medicine,GA,GA01,South,C,0,Medicare,Government,150,12,5,24,5562.31,0.417,0.518
+2024-01,090000010,Gregory,Peters,Neurology,GA,GA01,South,A,1,Medicare,Government,200,20,8,40,9564.73,0.4,0.676
+2024-01,090000011,Karen,Crosby,Neurology,GA,GA01,South,B,1,Commercial,Commercial,100,19,7,19,6125.88,0.368,0.778
+2024-01,090000012,Billy,Franco,Internal Medicine,GA,GA01,South,C,0,Medicare,Government,100,5,2,5,1883.2,0.4,0.64
+2024-01,090000013,Willie,Ferguson,Psychiatry,GA,GA01,South,A,1,Commercial,Commercial,100,13,4,26,11154.81,0.308,0.682
+2024-01,090000014,Jesse,Mclean,Psychiatry,GA,GA01,South,C,0,Medicaid,Government,150,2,0,4,1049.0,0.0,0.847
+2024-01,090000015,Stephanie,Cox,Neurology,GA,GA01,South,B,1,Medicare,Government,200,10,3,20,8085.45,0.3,0.605
+2024-01,090000016,Thomas,Alvarez,Psychiatry,GA,GA01,South,B,1,Medicare,Government,200,14,4,14,6646.83,0.286,0.704
+2024-01,090000017,Kenneth,Smith,Neurology,GA,GA01,South,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.729
+2024-01,090000018,Mark,Chen,Neurology,GA,GA01,South,C,0,Medicaid,Government,200,14,6,14,5204.02,0.429,0.56
+2024-01,090000019,Dawn,Ruiz,Neurology,GA,GA01,South,C,0,Managed Medicaid,Government,100,10,3,10,2282.08,0.3,0.832
+2024-01,090000020,Lisa,Stephenson,Psychiatry,GA,GA01,South,A,1,Commercial,Commercial,150,18,7,36,11839.78,0.389,0.645
+2024-01,090000021,Rebecca,Morales,Psychiatry,GA,GA01,South,B,1,Managed Medicaid,Government,200,13,6,13,5245.52,0.462,0.682
+2024-01,090000022,Mitchell,Harris,Neurology,GA,GA01,South,B,1,Managed Medicaid,Government,200,12,4,24,7237.82,0.333,0.561
+2024-01,090000023,Margaret,James,Neurology,GA,GA01,South,B,1,Medicare,Government,200,17,6,34,12873.08,0.353,0.567
+2024-01,090000024,Travis,Meyer,Psychiatry,GA,GA01,South,B,1,Medicare,Government,100,22,7,44,18502.23,0.318,0.747
+2024-01,090000025,Alicia,Shaw,Neurology,GA,GA01,South,C,0,Managed Medicaid,Government,150,15,8,30,9320.66,0.533,0.827
+2024-01,090000026,John,Miller,Neurology,GA,GA01,South,B,1,Medicare,Government,100,11,3,22,9963.75,0.273,0.638
+2024-01,090000027,Lydia,Hall,Internal Medicine,GA,GA01,South,A,1,Medicare,Government,100,20,5,40,18735.26,0.25,0.528
+2024-01,090000028,Megan,Williams,Internal Medicine,GA,GA01,South,C,0,Medicare,Government,200,2,0,4,1102.55,0.0,0.79
+2024-01,090000029,Heather,Jordan,Internal Medicine,GA,GA01,South,C,0,Medicare,Government,100,3,1,3,1140.23,0.333,0.705
+2024-01,100000000,Thomas,Ball,Psychiatry,HI,HI01,West,A,1,Medicaid,Government,200,18,6,18,4205.66,0.333,0.645
+2024-01,100000001,Susan,Peterson,Neurology,HI,HI01,West,B,1,Commercial,Commercial,200,13,7,13,2877.51,0.538,0.693
+2024-01,100000002,Teresa,Anderson,Psychiatry,HI,HI01,West,B,1,Managed Medicaid,Government,150,16,8,16,6664.59,0.5,0.601
+2024-01,100000003,Isabella,Edwards,Internal Medicine,HI,HI01,West,C,0,Commercial,Commercial,100,1,0,1,359.14,0.0,0.753
+2024-01,100000004,Natalie,Villarreal,Psychiatry,HI,HI01,West,A,1,Managed Medicaid,Government,100,15,4,15,7188.97,0.267,0.639
+2024-01,100000005,Traci,Proctor,Internal Medicine,HI,HI01,West,A,1,Medicare,Government,100,21,9,21,6249.22,0.429,0.711
+2024-01,100000006,Jonathan,Wilson,Internal Medicine,HI,HI01,West,B,1,Managed Medicaid,Government,200,18,7,36,16243.47,0.389,0.547
+2024-01,100000007,Lisa,Rios,Neurology,HI,HI01,West,B,1,Medicare,Government,100,21,7,21,6425.54,0.333,0.756
+2024-01,100000008,Harry,Bates,Neurology,HI,HI01,West,B,1,Medicaid,Government,100,14,4,28,11916.79,0.286,0.699
+2024-01,100000009,Alicia,Taylor,Psychiatry,HI,HI01,West,A,1,Managed Medicaid,Government,150,20,7,40,9702.07,0.35,0.734
+2024-01,100000010,Paul,Mckenzie,Psychiatry,HI,HI01,West,A,1,Managed Medicaid,Government,150,9,2,9,1995.98,0.222,0.634
+2024-01,100000011,Randall,Perez,Internal Medicine,HI,HI01,West,B,1,Medicare,Government,150,18,7,18,5184.07,0.389,0.626
+2024-01,100000012,James,Jackson,Psychiatry,HI,HI01,West,A,1,Commercial,Commercial,150,21,6,42,10984.11,0.286,0.74
+2024-01,100000013,Monica,Pratt,Neurology,HI,HI01,West,B,1,Commercial,Commercial,200,9,3,18,5680.11,0.333,0.577
+2024-01,100000014,Patricia,Smith,Psychiatry,HI,HI01,West,B,1,Medicaid,Government,150,14,4,28,9187.36,0.286,0.692
+2024-01,100000015,Tracey,DDS,Internal Medicine,HI,HI01,West,C,0,Medicaid,Government,100,6,1,6,2139.79,0.167,0.685
+2024-01,100000016,Katherine,Gomez,Internal Medicine,HI,HI01,West,A,1,Commercial,Commercial,100,23,7,23,8484.76,0.304,0.552
+2024-01,100000017,Kristin,Kaufman,Internal Medicine,HI,HI01,West,C,0,Managed Medicaid,Government,100,3,1,3,1219.2,0.333,0.671
+2024-01,100000018,Theresa,Mcdonald,Neurology,HI,HI01,West,B,1,Commercial,Commercial,150,20,7,20,7068.89,0.35,0.66
+2024-01,100000019,Hector,Fox,Psychiatry,HI,HI01,West,C,0,Managed Medicaid,Government,200,13,4,26,10609.37,0.308,0.639
+2024-01,100000020,Ronald,Holmes,Psychiatry,HI,HI01,West,C,0,Medicaid,Government,200,8,3,8,1854.2,0.375,0.621
+2024-01,100000021,Ashley,Foster,Psychiatry,HI,HI01,West,C,0,Commercial,Commercial,100,4,2,8,1826.01,0.5,0.643
+2024-01,100000022,Cheryl,Miller,Psychiatry,HI,HI01,West,C,0,Managed Medicaid,Government,150,7,3,14,4712.68,0.429,0.821
+2024-01,100000023,Wesley,Logan,Internal Medicine,HI,HI01,West,B,1,Commercial,Commercial,200,14,4,14,5458.86,0.286,0.622
+2024-01,100000024,James,Brown,Psychiatry,HI,HI01,West,C,0,Managed Medicaid,Government,200,6,2,6,2455.46,0.333,0.578
+2024-01,100000025,Jeffrey,Jackson,Psychiatry,HI,HI01,West,A,1,Medicare,Government,150,17,8,34,12182.29,0.471,0.788
+2024-01,100000026,Amy,Harper,Psychiatry,HI,HI01,West,B,1,Medicare,Government,100,19,5,38,10222.19,0.263,0.806
+2024-01,100000027,Bryan,Barber,Psychiatry,HI,HI01,West,A,1,Managed Medicaid,Government,200,15,4,15,4238.6,0.267,0.524
+2024-01,100000028,Chad,Chandler,Neurology,HI,HI01,West,A,1,Managed Medicaid,Government,200,19,8,19,5388.99,0.421,0.515
+2024-01,100000029,Kevin,Hawkins,Internal Medicine,HI,HI01,West,A,1,Medicaid,Government,100,15,6,15,5265.19,0.4,0.601
+2024-01,110000000,Charles,Hart,Neurology,ID,ID01,West,C,0,Medicare,Government,200,10,3,20,5631.9,0.3,0.807
+2024-01,110000001,Mackenzie,Brock,Neurology,ID,ID01,West,C,0,Medicaid,Government,150,4,1,8,2332.32,0.25,0.695
+2024-01,110000002,Larry,Barber,Neurology,ID,ID01,West,C,0,Medicaid,Government,200,0,0,0,0.0,0.0,0.516
+2024-01,110000003,Vicki,DVM,Internal Medicine,ID,ID01,West,C,0,Managed Medicaid,Government,200,0,0,0,0.0,0.0,0.643
+2024-01,110000004,Edward,Kelly,Internal Medicine,ID,ID01,West,B,1,Medicaid,Government,200,18,5,36,10175.46,0.278,0.579
+2024-01,110000005,Frank,Bolton,Neurology,ID,ID01,West,A,1,Managed Medicaid,Government,100,26,13,52,24524.47,0.5,0.695
+2024-01,110000006,Mathew,Smith,Psychiatry,ID,ID01,West,B,1,Medicaid,Government,150,22,11,22,6729.1,0.5,0.528
+2024-01,110000007,Margaret,Jenkins,Internal Medicine,ID,ID01,West,B,1,Commercial,Commercial,200,6,2,6,1400.4,0.333,0.632
+2024-01,110000008,Scott,Stevens,Neurology,ID,ID01,West,C,0,Commercial,Commercial,100,0,0,0,0.0,0.0,0.706
+2024-01,110000009,Shannon,Melton,Neurology,ID,ID01,West,C,0,Medicaid,Government,150,11,5,11,4906.7,0.455,0.617
+2024-01,110000010,Jordan,Roberts,Psychiatry,ID,ID01,West,A,1,Medicaid,Government,200,21,10,21,8697.96,0.476,0.764
+2024-01,110000011,Johnny,Bailey,Psychiatry,ID,ID01,West,C,0,Medicaid,Government,150,17,8,17,6180.19,0.471,0.771
+2024-01,110000012,Ian,Baxter,Internal Medicine,ID,ID01,West,B,1,Medicare,Government,150,15,4,30,9405.23,0.267,0.809
+2024-01,110000013,Patrick,Lane,Internal Medicine,ID,ID01,West,A,1,Managed Medicaid,Government,150,13,6,13,4112.98,0.462,0.645
+2024-01,110000014,Tiffany,Palmer,Neurology,ID,ID01,West,A,1,Medicaid,Government,100,18,8,36,13099.0,0.444,0.704
+2024-01,110000015,Angela,Jacobs,Neurology,ID,ID01,West,B,1,Medicare,Government,100,15,7,15,4586.47,0.467,0.633
+2024-01,110000016,Trevor,Mendez,Psychiatry,ID,ID01,West,B,1,Medicare,Government,150,23,6,46,21679.44,0.261,0.725
+2024-01,110000017,Matthew,Thomas,Internal Medicine,ID,ID01,West,B,1,Medicaid,Government,200,15,7,30,7920.27,0.467,0.752
+2024-01,110000018,Mr.,Johnson,Internal Medicine,ID,ID01,West,A,1,Commercial,Commercial,200,16,7,16,7010.52,0.438,0.526
+2024-01,110000019,Jeremy,Kim,Neurology,ID,ID01,West,A,1,Commercial,Commercial,150,13,3,13,5707.8,0.231,0.581
+2024-01,110000020,Jeremy,Soto,Neurology,ID,ID01,West,A,1,Commercial,Commercial,100,21,9,42,13315.35,0.429,0.716
+2024-01,110000021,Lori,Ramirez,Neurology,ID,ID01,West,C,0,Managed Medicaid,Government,200,1,0,2,448.18,0.0,0.686
+2024-01,110000022,Tammy,Reeves,Internal Medicine,ID,ID01,West,A,1,Commercial,Commercial,200,20,6,40,14371.68,0.3,0.6
+2024-01,110000023,Jacob,Holden,Neurology,ID,ID01,West,C,0,Managed Medicaid,Government,100,15,5,15,6880.39,0.333,0.684
+2024-01,110000024,Travis,Ruiz,Psychiatry,ID,ID01,West,A,1,Medicare,Government,150,9,3,18,7680.3,0.333,0.528
+2024-01,110000025,Sandra,Adams,Internal Medicine,ID,ID01,West,B,1,Medicaid,Government,200,25,13,25,7449.84,0.52,0.79
+2024-01,110000026,Nichole,Young,Psychiatry,ID,ID01,West,C,0,Commercial,Commercial,100,7,2,14,4460.52,0.286,0.693
+2024-01,110000027,Christine,Cabrera,Psychiatry,ID,ID01,West,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.796
+2024-01,110000028,James,Parker,Neurology,ID,ID01,West,B,1,Commercial,Commercial,200,18,8,18,5035.31,0.444,0.815
+2024-01,110000029,Jessica,Howell,Neurology,ID,ID01,West,C,0,Managed Medicaid,Government,150,9,4,9,4142.53,0.444,0.74
+2024-01,120000000,Kevin,Larson,Internal Medicine,IL,IL01,Midwest,C,0,Commercial,Commercial,100,2,0,4,896.28,0.0,0.573
+2024-01,120000001,Karen,Young,Psychiatry,IL,IL01,Midwest,C,0,Managed Medicaid,Government,100,8,3,16,4195.79,0.375,0.584
+2024-01,120000002,Jason,Johnson,Internal Medicine,IL,IL01,Midwest,C,0,Medicare,Government,150,13,6,13,5531.88,0.462,0.741
+2024-01,120000003,Donald,Kelly,Psychiatry,IL,IL01,Midwest,C,0,Medicare,Government,100,3,1,3,1000.93,0.333,0.794
+2024-01,120000004,Michael,Brown,Internal Medicine,IL,IL01,Midwest,C,0,Managed Medicaid,Government,150,1,0,1,384.87,0.0,0.774
+2024-01,120000005,Dennis,Summers,Internal Medicine,IL,IL01,Midwest,B,1,Medicaid,Government,150,17,8,34,11297.54,0.471,0.738
+2024-01,120000006,Joshua,Gilmore,Neurology,IL,IL01,Midwest,B,1,Commercial,Commercial,200,18,7,36,15389.8,0.389,0.75
+2024-01,120000007,Laura,Wyatt,Psychiatry,IL,IL01,Midwest,B,1,Medicaid,Government,150,23,8,23,9483.14,0.348,0.611
+2024-01,120000008,Elijah,Silva,Psychiatry,IL,IL01,Midwest,A,1,Commercial,Commercial,150,17,8,34,10661.67,0.471,0.594
+2024-01,120000009,Diana,Miller,Psychiatry,IL,IL01,Midwest,A,1,Medicaid,Government,150,15,3,30,10944.48,0.2,0.679
+2024-01,120000010,Patricia,Francis,Psychiatry,IL,IL01,Midwest,A,1,Commercial,Commercial,150,12,4,12,4502.4,0.333,0.775
+2024-01,120000011,Tony,PhD,Internal Medicine,IL,IL01,Midwest,A,1,Medicare,Government,150,9,4,18,7606.51,0.444,0.754
+2024-01,120000012,Victor,Gordon,Neurology,IL,IL01,Midwest,A,1,Medicaid,Government,200,11,5,22,5809.55,0.455,0.594
+2024-01,120000013,Stanley,Alvarez,Internal Medicine,IL,IL01,Midwest,B,1,Medicaid,Government,100,11,4,11,3663.17,0.364,0.647
+2024-01,120000014,Dale,Cox,Internal Medicine,IL,IL01,Midwest,A,1,Medicare,Government,150,16,4,16,6518.94,0.25,0.674
+2024-01,120000015,Darren,Schneider,Neurology,IL,IL01,Midwest,A,1,Managed Medicaid,Government,100,10,3,10,2992.11,0.3,0.832
+2024-01,120000016,Matthew,Boyd,Internal Medicine,IL,IL01,Midwest,C,0,Managed Medicaid,Government,150,0,0,0,0.0,0.0,0.785
+2024-01,120000017,Brian,Garcia,Neurology,IL,IL01,Midwest,C,0,Medicaid,Government,150,5,1,10,3768.35,0.2,0.743
+2024-01,120000018,Johnny,Phillips,Internal Medicine,IL,IL01,Midwest,B,1,Medicaid,Government,150,27,6,54,15971.93,0.222,0.743
+2024-01,120000019,Christopher,Sparks,Internal Medicine,IL,IL01,Midwest,C,0,Medicaid,Government,150,11,4,22,6443.32,0.364,0.775
+2024-01,120000020,Richard,Anderson,Internal Medicine,IL,IL01,Midwest,A,1,Medicaid,Government,200,16,4,16,6355.92,0.25,0.693
+2024-01,120000021,Gina,Williams,Neurology,IL,IL01,Midwest,B,1,Medicaid,Government,150,12,6,24,10467.2,0.5,0.524
+2024-01,120000022,Rachel,Ellis,Internal Medicine,IL,IL01,Midwest,C,0,Managed Medicaid,Government,100,18,4,36,10185.32,0.222,0.731
+2024-01,120000023,Austin,Bush,Neurology,IL,IL01,Midwest,B,1,Managed Medicaid,Government,100,18,8,36,17192.96,0.444,0.668
+2024-01,120000024,Bradley,Morgan,Internal Medicine,IL,IL01,Midwest,C,0,Managed Medicaid,Government,200,6,1,6,2553.52,0.167,0.626
+2024-01,120000025,Phyllis,Mills,Neurology,IL,IL01,Midwest,C,0,Commercial,Commercial,100,5,1,5,1954.88,0.2,0.624
+2024-01,120000026,Christopher,Mcdowell,Neurology,IL,IL01,Midwest,C,0,Commercial,Commercial,200,5,2,10,4713.71,0.4,0.616
+2024-01,120000027,Patrick,Cooper,Internal Medicine,IL,IL01,Midwest,A,1,Commercial,Commercial,100,15,4,30,8331.61,0.267,0.761
+2024-01,120000028,Matthew,Duncan,Neurology,IL,IL01,Midwest,C,0,Medicaid,Government,150,4,1,8,2573.56,0.25,0.77
+2024-01,120000029,Mary,Carter,Neurology,IL,IL01,Midwest,C,0,Medicaid,Government,150,13,4,13,4491.77,0.308,0.603
+2024-01,130000000,Cesar,Ramsey,Psychiatry,IN,IN01,Midwest,A,1,Medicaid,Government,150,24,7,48,14841.47,0.292,0.774
+2024-01,130000001,Joshua,Alvarez,Neurology,IN,IN01,Midwest,B,1,Medicare,Government,150,7,2,7,2337.46,0.286,0.744
+2024-01,130000002,Melinda,Harvey,Internal Medicine,IN,IN01,Midwest,A,1,Medicare,Government,100,10,4,10,2258.72,0.4,0.62
+2024-01,130000003,Daniel,Glass,Psychiatry,IN,IN01,Midwest,C,0,Medicaid,Government,200,2,0,2,708.32,0.0,0.693
+2024-01,130000004,Brian,Bennett,Internal Medicine,IN,IN01,Midwest,C,0,Managed Medicaid,Government,150,10,2,10,4274.17,0.2,0.72
+2024-01,130000005,Lauren,Ramirez,Psychiatry,IN,IN01,Midwest,C,0,Managed Medicaid,Government,150,12,3,12,4940.65,0.25,0.809
+2024-01,130000006,Dawn,Long,Internal Medicine,IN,IN01,Midwest,C,0,Managed Medicaid,Government,150,9,2,9,3629.08,0.222,0.572
+2024-01,130000007,Christine,Davis,Neurology,IN,IN01,Midwest,A,1,Commercial,Commercial,200,12,3,12,3781.27,0.25,0.569
+2024-01,130000008,Michelle,Davis,Psychiatry,IN,IN01,Midwest,B,1,Managed Medicaid,Government,200,15,6,30,11256.37,0.4,0.714
+2024-01,130000009,Aaron,Zimmerman,Neurology,IN,IN01,Midwest,A,1,Medicare,Government,150,20,6,40,15220.57,0.3,0.785
+2024-01,130000010,Debbie,White,Neurology,IN,IN01,Midwest,B,1,Commercial,Commercial,200,16,7,16,4822.85,0.438,0.584
+2024-01,130000011,Sally,Johns,Psychiatry,IN,IN01,Midwest,A,1,Medicare,Government,200,16,8,16,5645.03,0.5,0.646
+2024-01,130000012,Alexis,Lawrence,Psychiatry,IN,IN01,Midwest,C,0,Managed Medicaid,Government,150,4,1,4,1386.14,0.25,0.688
+2024-01,130000013,Kathryn,Riggs,Neurology,IN,IN01,Midwest,A,1,Medicaid,Government,150,23,7,46,11797.95,0.304,0.61
+2024-01,130000014,Jeremy,Williamson,Internal Medicine,IN,IN01,Midwest,C,0,Commercial,Commercial,150,8,2,8,2767.99,0.25,0.568
+2024-01,130000015,Sarah,Rowland,Internal Medicine,IN,IN01,Midwest,C,0,Managed Medicaid,Government,150,4,1,8,2624.51,0.25,0.794
+2024-01,130000016,Joshua,Johnson,Internal Medicine,IN,IN01,Midwest,A,1,Commercial,Commercial,200,19,7,19,8111.65,0.368,0.577
+2024-01,130000017,April,Cobb,Psychiatry,IN,IN01,Midwest,B,1,Medicaid,Government,200,11,5,22,5802.16,0.455,0.66
+2024-01,130000018,Kristy,Skinner,Neurology,IN,IN01,Midwest,B,1,Commercial,Commercial,200,15,4,15,4344.77,0.267,0.69
+2024-01,130000019,Valerie,Reed,Internal Medicine,IN,IN01,Midwest,C,0,Commercial,Commercial,200,11,4,22,7965.14,0.364,0.846
+2024-01,130000020,Evelyn,Foster,Psychiatry,IN,IN01,Midwest,C,0,Medicaid,Government,150,0,0,0,0.0,0.0,0.622
+2024-01,130000021,Deborah,Young,Psychiatry,IN,IN01,Midwest,B,1,Commercial,Commercial,100,21,7,21,9046.44,0.333,0.706
+2024-01,130000022,Wendy,Smith,Internal Medicine,IN,IN01,Midwest,C,0,Managed Medicaid,Government,100,0,0,0,0.0,0.0,0.785
+2024-01,130000023,Zachary,Jackson,Psychiatry,IN,IN01,Midwest,C,0,Medicare,Government,200,14,7,28,10505.12,0.5,0.559
+2024-01,130000024,Maria,Miller,Neurology,IN,IN01,Midwest,B,1,Medicare,Government,200,15,7,30,14028.7,0.467,0.68
+2024-01,130000025,Steven,Miller,Neurology,IN,IN01,Midwest,A,1,Medicaid,Government,150,19,7,19,9082.88,0.368,0.803
+2024-01,130000026,Melanie,Harper,Psychiatry,IN,IN01,Midwest,C,0,Medicaid,Government,100,6,2,6,2429.78,0.333,0.79
+2024-01,130000027,Angela,Bishop,Neurology,IN,IN01,Midwest,B,1,Managed Medicaid,Government,100,18,4,36,13796.33,0.222,0.631
+2024-01,130000028,Isaiah,Stokes,Psychiatry,IN,IN01,Midwest,C,0,Commercial,Commercial,150,7,3,14,5608.72,0.429,0.807
+2024-01,130000029,Olivia,Hughes,Internal Medicine,IN,IN01,Midwest,B,1,Medicare,Government,200,9,2,9,4013.24,0.222,0.797
+2024-01,140000000,Ryan,Tyler,Psychiatry,IA,IA01,Midwest,C,0,Managed Medicaid,Government,200,6,3,12,5292.33,0.5,0.778
+2024-01,140000001,Francisco,Berry,Internal Medicine,IA,IA01,Midwest,A,1,Managed Medicaid,Government,100,17,6,34,9853.87,0.353,0.79
+2024-01,140000002,Wendy,Hurley,Internal Medicine,IA,IA01,Midwest,C,0,Medicaid,Government,200,3,0,6,2549.75,0.0,0.813
+2024-01,140000003,Amy,Rodriguez,Psychiatry,IA,IA01,Midwest,A,1,Commercial,Commercial,200,14,7,28,6278.53,0.5,0.825
+2024-01,140000004,Robert,Frye,Psychiatry,IA,IA01,Midwest,B,1,Managed Medicaid,Government,100,18,5,36,9813.7,0.278,0.741
+2024-01,140000005,Jesse,Oliver,Psychiatry,IA,IA01,Midwest,C,0,Medicare,Government,100,1,0,2,488.54,0.0,0.626
+2024-01,140000006,Christopher,Brown,Psychiatry,IA,IA01,Midwest,B,1,Medicaid,Government,100,23,7,46,17602.23,0.304,0.754
+2024-01,140000007,Mary,Tran,Psychiatry,IA,IA01,Midwest,B,1,Commercial,Commercial,200,20,5,20,4405.65,0.25,0.667
+2024-01,140000008,Ronald,Palmer,Psychiatry,IA,IA01,Midwest,C,0,Medicaid,Government,200,7,3,14,3113.8,0.429,0.743
+2024-01,140000009,Annette,Sanchez,Psychiatry,IA,IA01,Midwest,B,1,Medicaid,Government,150,22,9,22,6149.58,0.409,0.531
+2024-01,140000010,Victor,Tapia,Psychiatry,IA,IA01,Midwest,A,1,Medicare,Government,150,8,3,16,4090.46,0.375,0.771
+2024-01,140000011,Kathryn,Baker,Psychiatry,IA,IA01,Midwest,C,0,Medicaid,Government,100,0,0,0,0.0,0.0,0.557
+2024-01,140000012,Brandon,Griffin,Internal Medicine,IA,IA01,Midwest,C,0,Medicaid,Government,200,8,2,8,3673.38,0.25,0.716
+2024-01,140000013,Michelle,Moore,Internal Medicine,IA,IA01,Midwest,A,1,Commercial,Commercial,100,14,6,14,5818.9,0.429,0.706
+2024-01,140000014,Megan,Gomez,Internal Medicine,IA,IA01,Midwest,B,1,Managed Medicaid,Government,150,14,4,14,3981.94,0.286,0.726
+2024-01,140000015,Mr.,Chavez,Psychiatry,IA,IA01,Midwest,C,0,Medicare,Government,200,0,0,0,0.0,0.0,0.73
+2024-01,140000016,Marco,Reese,Internal Medicine,IA,IA01,Midwest,A,1,Medicaid,Government,200,13,5,26,7717.86,0.385,0.519
+2024-01,140000017,Jordan,Watkins,Psychiatry,IA,IA01,Midwest,B,1,Managed Medicaid,Government,100,23,9,23,8047.5,0.391,0.708
+2024-01,140000018,Christopher,Hernandez,Neurology,IA,IA01,Midwest,A,1,Medicare,Government,150,20,9,20,6411.56,0.45,0.794
+2024-01,140000019,Alexander,Smith,Internal Medicine,IA,IA01,Midwest,B,1,Medicaid,Government,150,18,5,18,4038.11,0.278,0.524
+2024-01,140000020,Mary,DDS,Internal Medicine,IA,IA01,Midwest,A,1,Commercial,Commercial,100,15,5,30,10551.56,0.333,0.72
+2024-01,140000021,Daniel,Fry,Neurology,IA,IA01,Midwest,B,1,Managed Medicaid,Government,200,18,7,36,8691.52,0.389,0.688
+2024-01,140000022,Jose,Bell,Neurology,IA,IA01,Midwest,A,1,Medicare,Government,100,23,6,46,11065.1,0.261,0.822
+2024-01,140000023,Lisa,Taylor,Psychiatry,IA,IA01,Midwest,C,0,Medicare,Government,150,2,0,2,601.29,0.0,0.653
+2024-01,140000024,Edward,Page,Psychiatry,IA,IA01,Midwest,A,1,Medicaid,Government,100,17,7,34,8505.32,0.412,0.714
+2024-01,140000025,Melody,Miller,Psychiatry,IA,IA01,Midwest,B,1,Medicaid,Government,100,26,9,26,10505.41,0.346,0.746
+2024-01,140000026,Ashlee,Solomon,Psychiatry,IA,IA01,Midwest,B,1,Medicare,Government,200,21,10,42,11063.24,0.476,0.544
+2024-01,140000027,Matthew,Howard,Internal Medicine,IA,IA01,Midwest,C,0,Commercial,Commercial,100,3,1,6,2579.09,0.333,0.595
+2024-01,140000028,Steven,Dillon,Psychiatry,IA,IA01,Midwest,B,1,Commercial,Commercial,150,21,7,42,14817.74,0.333,0.519
+2024-01,140000029,Samantha,Burnett,Neurology,IA,IA01,Midwest,A,1,Medicare,Government,100,10,2,20,8421.31,0.2,0.813
+2024-01,150000000,Brian,Vaughan,Neurology,KS,KS01,Midwest,C,0,Commercial,Commercial,100,5,1,5,1157.25,0.2,0.802
+2024-01,150000001,Sharon,Shields,Psychiatry,KS,KS01,Midwest,A,1,Managed Medicaid,Government,150,21,8,42,19288.87,0.381,0.563
+2024-01,150000002,Lauren,Joseph,Psychiatry,KS,KS01,Midwest,C,0,Managed Medicaid,Government,100,7,3,14,3983.68,0.429,0.821
+2024-01,150000003,William,Collins,Internal Medicine,KS,KS01,Midwest,B,1,Commercial,Commercial,200,21,9,42,10543.86,0.429,0.736
+2024-01,150000004,Mr.,Zhang,Psychiatry,KS,KS01,Midwest,A,1,Medicaid,Government,200,22,7,22,10297.33,0.318,0.524
+2024-01,150000005,Courtney,Howard,Internal Medicine,KS,KS01,Midwest,B,1,Medicare,Government,150,20,7,20,7276.08,0.35,0.503
+2024-01,150000006,Gregory,Carlson,Psychiatry,KS,KS01,Midwest,B,1,Medicare,Government,200,20,6,20,6812.42,0.3,0.707
+2024-01,150000007,Martin,Gould,Internal Medicine,KS,KS01,Midwest,A,1,Medicaid,Government,100,19,7,19,8786.04,0.368,0.508
+2024-01,150000008,Todd,Alexander,Neurology,KS,KS01,Midwest,B,1,Commercial,Commercial,150,12,6,12,5007.86,0.5,0.632
+2024-01,150000009,Trevor,Ramirez,Neurology,KS,KS01,Midwest,C,0,Medicare,Government,100,11,5,11,3935.27,0.455,0.583
+2024-01,150000010,Courtney,Martinez,Internal Medicine,KS,KS01,Midwest,A,1,Medicaid,Government,200,17,8,34,8302.36,0.471,0.822
+2024-01,150000011,Susan,Williams,Neurology,KS,KS01,Midwest,B,1,Medicare,Government,150,21,10,21,7791.01,0.476,0.677
+2024-01,150000012,Natalie,Watson,Neurology,KS,KS01,Midwest,B,1,Commercial,Commercial,200,22,5,22,7328.1,0.227,0.837
+2024-01,150000013,Anne,White,Psychiatry,KS,KS01,Midwest,B,1,Medicare,Government,150,15,6,30,12065.66,0.4,0.757
+2024-01,150000014,Shannon,Mathis,Internal Medicine,KS,KS01,Midwest,B,1,Medicare,Government,100,15,4,15,6979.86,0.267,0.548
+2024-01,150000015,Brandon,Moon,Neurology,KS,KS01,Midwest,A,1,Medicaid,Government,100,16,7,16,5390.2,0.438,0.61
+2024-01,150000016,Diane,Miller,Psychiatry,KS,KS01,Midwest,C,0,Medicare,Government,100,12,3,24,7203.84,0.25,0.593
+2024-01,150000017,Marcia,Garcia,Psychiatry,KS,KS01,Midwest,A,1,Medicaid,Government,200,13,4,26,11306.37,0.308,0.744
+2024-01,150000018,Mr.,II,Psychiatry,KS,KS01,Midwest,A,1,Medicare,Government,100,25,8,25,10122.52,0.32,0.839
+2024-01,150000019,Charles,Patel,Internal Medicine,KS,KS01,Midwest,C,0,Commercial,Commercial,200,6,2,12,3451.72,0.333,0.847
+2024-01,150000020,Andrew,Zimmerman,Psychiatry,KS,KS01,Midwest,B,1,Managed Medicaid,Government,200,19,6,19,4647.94,0.316,0.536
+2024-01,150000021,Caitlin,Goodman,Psychiatry,KS,KS01,Midwest,A,1,Commercial,Commercial,100,22,5,22,5587.69,0.227,0.788
+2024-01,150000022,Jordan,Clay,Internal Medicine,KS,KS01,Midwest,C,0,Commercial,Commercial,200,6,3,12,5502.38,0.5,0.526
+2024-01,150000023,Michelle,Mitchell,Psychiatry,KS,KS01,Midwest,A,1,Managed Medicaid,Government,100,23,11,23,10472.37,0.478,0.79
+2024-01,150000024,Meghan,Reynolds,Internal Medicine,KS,KS01,Midwest,A,1,Commercial,Commercial,150,15,5,15,3955.16,0.333,0.701
+2024-01,150000025,Michael,Hernandez,Neurology,KS,KS01,Midwest,B,1,Managed Medicaid,Government,100,25,10,50,19881.77,0.4,0.56
+2024-01,150000026,Katherine,Williams,Psychiatry,KS,KS01,Midwest,A,1,Medicare,Government,150,15,5,30,13490.71,0.333,0.512
+2024-01,150000027,Jose,Gomez,Neurology,KS,KS01,Midwest,C,0,Medicaid,Government,200,13,6,26,9092.51,0.462,0.809
+2024-01,150000028,Heidi,Christian,Internal Medicine,KS,KS01,Midwest,A,1,Commercial,Commercial,150,15,5,30,7670.44,0.333,0.57
+2024-01,150000029,Jacqueline,Medina,Neurology,KS,KS01,Midwest,A,1,Commercial,Commercial,150,16,5,32,11030.97,0.312,0.774
+2024-01,160000000,Taylor,Hubbard,Internal Medicine,KY,KY01,South,C,0,Medicare,Government,150,0,0,0,0.0,0.0,0.612
+2024-01,160000001,Matthew,Lawson,Psychiatry,KY,KY01,South,A,1,Medicare,Government,100,14,3,28,10014.27,0.214,0.768
+2024-01,160000002,Kaitlyn,Baker,Psychiatry,KY,KY01,South,A,1,Commercial,Commercial,100,17,6,17,4918.05,0.353,0.786
+2024-01,160000003,Brad,Daniels,Neurology,KY,KY01,South,A,1,Medicaid,Government,200,19,8,38,11865.47,0.421,0.794
+2024-01,160000004,Erin,Christian,Psychiatry,KY,KY01,South,A,1,Medicaid,Government,200,22,11,44,18903.04,0.5,0.744
+2024-01,160000005,Scott,Garcia,Neurology,KY,KY01,South,A,1,Medicare,Government,200,16,6,16,5862.53,0.375,0.566
+2024-01,160000006,Alicia,Williams,Internal Medicine,KY,KY01,South,C,0,Medicare,Government,100,0,0,0,0.0,0.0,0.52
+2024-01,160000007,Jill,Davis,Neurology,KY,KY01,South,A,1,Commercial,Commercial,200,19,6,38,8366.75,0.316,0.821
+2024-01,160000008,Tara,Peck,Psychiatry,KY,KY01,South,A,1,Medicare,Government,200,18,7,18,8259.89,0.389,0.795
+2024-01,160000009,Shawn,Reynolds,Internal Medicine,KY,KY01,South,A,1,Commercial,Commercial,100,20,8,20,8426.71,0.4,0.796
+2024-01,160000010,Nicole,Johnson,Internal Medicine,KY,KY01,South,A,1,Medicare,Government,200,14,4,28,10426.2,0.286,0.618
+2024-01,160000011,Sophia,Monroe,Internal Medicine,KY,KY01,South,A,1,Medicaid,Government,200,15,4,30,12776.37,0.267,0.836
+2024-01,160000012,Stacy,Johnson,Neurology,KY,KY01,South,B,1,Medicaid,Government,200,14,3,28,7785.17,0.214,0.706
+2024-01,160000013,Christine,Jones,Psychiatry,KY,KY01,South,B,1,Medicare,Government,200,23,12,46,11643.09,0.522,0.755
+2024-01,160000014,Sarah,Ho,Neurology,KY,KY01,South,C,0,Managed Medicaid,Government,200,13,5,13,3475.44,0.385,0.611
+2024-01,160000015,Tanya,Wright,Neurology,KY,KY01,South,A,1,Commercial,Commercial,150,15,4,15,4591.56,0.267,0.527
+2024-01,160000016,Kimberly,Wright,Internal Medicine,KY,KY01,South,B,1,Medicaid,Government,200,15,4,15,6504.48,0.267,0.735
+2024-01,160000017,Eric,Bates,Neurology,KY,KY01,South,B,1,Managed Medicaid,Government,100,21,8,42,11529.75,0.381,0.743
+2024-01,160000018,Maria,Bolton,Internal Medicine,KY,KY01,South,B,1,Commercial,Commercial,200,25,6,25,5812.96,0.24,0.653
+2024-01,160000019,Jill,Mejia,Internal Medicine,KY,KY01,South,A,1,Managed Medicaid,Government,150,26,13,52,16188.65,0.5,0.631
+2024-01,160000020,Eric,Knight,Internal Medicine,KY,KY01,South,C,0,Medicaid,Government,100,2,1,4,956.66,0.5,0.796
+2024-01,160000021,Joshua,Myers,Internal Medicine,KY,KY01,South,A,1,Medicare,Government,150,16,8,16,3828.67,0.5,0.56
+2024-01,160000022,Johnny,Coleman,Internal Medicine,KY,KY01,South,A,1,Commercial,Commercial,200,19,8,19,5849.48,0.421,0.845
+2024-01,160000023,Sara,Franklin,Internal Medicine,KY,KY01,South,C,0,Commercial,Commercial,150,7,2,7,2645.32,0.286,0.652
+2024-01,160000024,Cody,Brock,Psychiatry,KY,KY01,South,A,1,Medicare,Government,100,17,6,17,5549.02,0.353,0.694
+2024-01,160000025,Darren,Thompson,Neurology,KY,KY01,South,C,0,Medicare,Government,200,2,0,4,1189.3,0.0,0.534
+2024-01,160000026,Mrs.,Becker,Internal Medicine,KY,KY01,South,C,0,Managed Medicaid,Government,100,5,1,5,1569.08,0.2,0.65
+2024-01,160000027,Misty,Garcia,Internal Medicine,KY,KY01,South,C,0,Managed Medicaid,Government,100,14,4,14,3173.68,0.286,0.56
+2024-01,160000028,Lisa,Martin,Internal Medicine,KY,KY01,South,A,1,Managed Medicaid,Government,100,15,7,30,12722.04,0.467,0.665
+2024-01,160000029,Joseph,Orozco,Neurology,KY,KY01,South,B,1,Commercial,Commercial,200,19,7,38,10186.63,0.368,0.81
+2024-01,170000000,Nicole,Chan,Internal Medicine,LA,LA01,South,A,1,Managed Medicaid,Government,100,30,14,60,20059.95,0.467,0.592
+2024-01,170000001,Courtney,Huang,Internal Medicine,LA,LA01,South,C,0,Commercial,Commercial,100,3,1,3,726.85,0.333,0.62
+2024-01,170000002,Lee,Jones,Neurology,LA,LA01,South,B,1,Medicaid,Government,200,21,6,21,9210.75,0.286,0.786
+2024-01,170000003,Kaylee,Holmes,Internal Medicine,LA,LA01,South,C,0,Managed Medicaid,Government,200,15,7,15,5157.42,0.467,0.528
+2024-01,170000004,Francisco,Lucas,Neurology,LA,LA01,South,A,1,Medicaid,Government,100,20,10,40,10597.94,0.5,0.845
+2024-01,170000005,Eric,Silva,Psychiatry,LA,LA01,South,A,1,Medicaid,Government,100,23,11,46,11057.29,0.478,0.739
+2024-01,170000006,Christine,Knight,Psychiatry,LA,LA01,South,C,0,Medicaid,Government,200,10,4,20,6062.7,0.4,0.754
+2024-01,170000007,Emily,Shea,Psychiatry,LA,LA01,South,A,1,Managed Medicaid,Government,200,20,9,40,14541.36,0.45,0.8
+2024-01,170000008,Kimberly,Reyes,Neurology,LA,LA01,South,B,1,Commercial,Commercial,200,24,7,48,11964.24,0.292,0.552
+2024-01,170000009,Joyce,Anderson,Neurology,LA,LA01,South,C,0,Commercial,Commercial,100,9,4,9,3818.64,0.444,0.804
+2024-01,170000010,Melanie,Lucas,Internal Medicine,LA,LA01,South,B,1,Medicare,Government,150,17,5,34,12536.69,0.294,0.666
+2024-01,170000011,Roger,Holt,Psychiatry,LA,LA01,South,B,1,Managed Medicaid,Government,100,18,8,36,8283.0,0.444,0.811
+2024-01,170000012,Jennifer,Richardson,Internal Medicine,LA,LA01,South,C,0,Medicaid,Government,100,7,3,14,6431.84,0.429,0.814
+2024-01,170000013,Rhonda,Fletcher,Psychiatry,LA,LA01,South,B,1,Medicare,Government,150,16,6,32,14052.48,0.375,0.8
+2024-01,170000014,Joseph,Wall,Neurology,LA,LA01,South,A,1,Medicaid,Government,100,18,7,36,17038.69,0.389,0.655
+2024-01,170000015,Taylor,Ellis,Internal Medicine,LA,LA01,South,B,1,Managed Medicaid,Government,200,18,5,18,4839.54,0.278,0.574
+2024-01,170000016,James,Galloway,Internal Medicine,LA,LA01,South,C,0,Managed Medicaid,Government,200,9,4,18,7802.36,0.444,0.68
+2024-01,170000017,Antonio,Mccarthy,Psychiatry,LA,LA01,South,A,1,Medicare,Government,200,28,7,56,14295.06,0.25,0.798
+2024-01,170000018,Sally,Gilmore,Neurology,LA,LA01,South,A,1,Medicaid,Government,100,19,10,19,8314.66,0.526,0.587
+2024-01,170000019,Leslie,Foster,Internal Medicine,LA,LA01,South,A,1,Medicare,Government,200,25,8,25,7280.85,0.32,0.788
+2024-01,170000020,Jeremy,Yang,Neurology,LA,LA01,South,B,1,Commercial,Commercial,200,21,5,21,5940.98,0.238,0.671
+2024-01,170000021,Susan,Ashley,Internal Medicine,LA,LA01,South,A,1,Managed Medicaid,Government,200,18,9,36,11142.17,0.5,0.793
+2024-01,170000022,William,Wagner,Internal Medicine,LA,LA01,South,C,0,Commercial,Commercial,150,3,1,3,961.52,0.333,0.557
+2024-01,170000023,Richard,Jones,Neurology,LA,LA01,South,A,1,Medicaid,Government,200,18,8,18,7131.61,0.444,0.594
+2024-01,170000024,Larry,Mays,Internal Medicine,LA,LA01,South,C,0,Commercial,Commercial,200,6,2,6,2059.59,0.333,0.546
+2024-01,170000025,Manuel,Smith,Psychiatry,LA,LA01,South,C,0,Commercial,Commercial,100,2,0,4,1512.68,0.0,0.83
+2024-01,170000026,Leslie,Robinson,Neurology,LA,LA01,South,C,0,Medicare,Government,150,3,1,6,2648.47,0.333,0.661
+2024-01,170000027,Chad,Barnes,Psychiatry,LA,LA01,South,B,1,Medicare,Government,200,19,4,38,14134.73,0.211,0.503
+2024-01,170000028,Richard,Robinson,Neurology,LA,LA01,South,B,1,Medicare,Government,150,25,11,25,8631.3,0.44,0.618
+2024-01,170000029,Tamara,Taylor,Internal Medicine,LA,LA01,South,C,0,Medicare,Government,150,5,1,10,3905.91,0.2,0.833
+2024-01,180000000,Bailey,Diaz,Neurology,ME,ME01,Northeast,B,1,Medicaid,Government,100,10,2,10,4539.19,0.2,0.782
+2024-01,180000001,Brenda,Perez,Neurology,ME,ME01,Northeast,B,1,Medicare,Government,200,7,3,7,2852.74,0.429,0.729
+2024-01,180000002,Shawn,Allen,Internal Medicine,ME,ME01,Northeast,B,1,Managed Medicaid,Government,150,12,3,24,9877.21,0.25,0.704
+2024-01,180000003,Christopher,Turner,Neurology,ME,ME01,Northeast,A,1,Medicare,Government,200,21,9,21,8367.3,0.429,0.723
+2024-01,180000004,Karen,Johnson,Internal Medicine,ME,ME01,Northeast,C,0,Medicare,Government,200,0,0,0,0.0,0.0,0.794
+2024-01,180000005,Dr.,Johnson,Neurology,ME,ME01,Northeast,A,1,Medicare,Government,100,22,6,44,11143.68,0.273,0.591
+2024-01,180000006,Ryan,Hale,Neurology,ME,ME01,Northeast,A,1,Medicare,Government,200,21,7,21,5833.5,0.333,0.578
+2024-01,180000007,Christopher,Shaffer,Internal Medicine,ME,ME01,Northeast,B,1,Medicare,Government,150,17,7,34,12656.44,0.412,0.662
+2024-01,180000008,Michael,Stewart,Psychiatry,ME,ME01,Northeast,B,1,Commercial,Commercial,200,10,5,10,3427.77,0.5,0.568
+2024-01,180000009,Amber,Ingram,Psychiatry,ME,ME01,Northeast,C,0,Managed Medicaid,Government,200,2,0,4,1309.63,0.0,0.805
+2024-01,180000010,Monica,Shepherd,Psychiatry,ME,ME01,Northeast,A,1,Medicaid,Government,150,16,5,32,15253.43,0.312,0.812
+2024-01,180000011,Janet,Lee,Internal Medicine,ME,ME01,Northeast,A,1,Medicare,Government,200,19,4,19,8027.97,0.211,0.671
+2024-01,180000012,Amy,Ingram,Neurology,ME,ME01,Northeast,A,1,Medicare,Government,200,11,5,11,2433.48,0.455,0.596
+2024-01,180000013,Ashley,Medina,Psychiatry,ME,ME01,Northeast,C,0,Medicaid,Government,150,13,5,13,3297.39,0.385,0.652
+2024-01,180000014,Adam,Burns,Internal Medicine,ME,ME01,Northeast,B,1,Managed Medicaid,Government,150,19,9,38,8406.13,0.474,0.687
+2024-01,180000015,John,Mcneil,Neurology,ME,ME01,Northeast,B,1,Commercial,Commercial,150,20,10,20,4493.16,0.5,0.501
+2024-01,180000016,Mr.,Conrad,Neurology,ME,ME01,Northeast,A,1,Medicaid,Government,200,21,6,42,12648.05,0.286,0.536
+2024-01,180000017,Joseph,Peterson,Neurology,ME,ME01,Northeast,C,0,Medicare,Government,100,12,3,12,5210.39,0.25,0.604
+2024-01,180000018,Marcus,Hansen,Internal Medicine,ME,ME01,Northeast,B,1,Medicare,Government,150,18,8,18,5563.99,0.444,0.815
+2024-01,180000019,Walter,Gibson,Internal Medicine,ME,ME01,Northeast,A,1,Medicaid,Government,150,21,8,21,5867.16,0.381,0.755
+2024-01,180000020,Jennifer,Lewis,Psychiatry,ME,ME01,Northeast,A,1,Commercial,Commercial,200,14,4,14,3528.31,0.286,0.749
+2024-01,180000021,Michael,May,Psychiatry,ME,ME01,Northeast,B,1,Medicare,Government,200,27,10,27,10109.35,0.37,0.517
+2024-01,180000022,Adam,Silva,Psychiatry,ME,ME01,Northeast,C,0,Commercial,Commercial,100,6,1,6,1970.17,0.167,0.633
+2024-01,180000023,Helen,White,Neurology,ME,ME01,Northeast,B,1,Managed Medicaid,Government,200,14,6,14,3828.0,0.429,0.74
+2024-01,180000024,Timothy,Reeves,Psychiatry,ME,ME01,Northeast,B,1,Managed Medicaid,Government,200,15,3,15,5883.68,0.2,0.594
+2024-01,180000025,Joshua,Lowe,Neurology,ME,ME01,Northeast,C,0,Medicaid,Government,150,0,0,0,0.0,0.0,0.716
+2024-01,180000026,Charles,Lamb,Internal Medicine,ME,ME01,Northeast,A,1,Commercial,Commercial,150,15,6,15,5675.11,0.4,0.772
+2024-01,180000027,Cynthia,Munoz,Neurology,ME,ME01,Northeast,A,1,Medicare,Government,200,5,1,10,2967.91,0.2,0.514
+2024-01,180000028,Amber,Boyd,Internal Medicine,ME,ME01,Northeast,A,1,Managed Medicaid,Government,150,21,10,21,4634.95,0.476,0.735
+2024-01,180000029,Nathan,Estrada,Psychiatry,ME,ME01,Northeast,C,0,Managed Medicaid,Government,100,8,2,8,3381.41,0.25,0.526
+2024-01,190000000,Edward,Arias,Neurology,MD,MD01,South,A,1,Medicare,Government,200,13,4,13,4403.82,0.308,0.842
+2024-01,190000001,Andre,Hensley,Internal Medicine,MD,MD01,South,B,1,Commercial,Commercial,100,17,9,17,7603.7,0.529,0.798
+2024-01,190000002,Joanna,Stafford,Internal Medicine,MD,MD01,South,C,0,Medicare,Government,150,5,2,5,1223.5,0.4,0.765
+2024-01,190000003,Kelly,Smith,Psychiatry,MD,MD01,South,A,1,Medicaid,Government,200,12,5,12,3665.42,0.417,0.813
+2024-01,190000004,Gregory,Peterson,Neurology,MD,MD01,South,B,1,Commercial,Commercial,150,16,5,32,8561.47,0.312,0.64
+2024-01,190000005,Leslie,Larson,Internal Medicine,MD,MD01,South,B,1,Managed Medicaid,Government,200,18,7,36,15407.06,0.389,0.727
+2024-01,190000006,Arthur,Burton,Psychiatry,MD,MD01,South,A,1,Medicaid,Government,200,16,4,16,7603.33,0.25,0.796
+2024-01,190000007,James,Arnold,Psychiatry,MD,MD01,South,B,1,Managed Medicaid,Government,200,14,3,28,7479.58,0.214,0.633
+2024-01,190000008,Brandon,Perkins,Internal Medicine,MD,MD01,South,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.671
+2024-01,190000009,Kenneth,Castillo,Internal Medicine,MD,MD01,South,B,1,Commercial,Commercial,100,16,7,32,12489.38,0.438,0.504
+2024-01,190000010,Kevin,Zhang,Neurology,MD,MD01,South,C,0,Medicaid,Government,200,3,0,6,2129.8,0.0,0.741
+2024-01,190000011,Tanya,Torres,Neurology,MD,MD01,South,A,1,Managed Medicaid,Government,200,20,5,20,6906.03,0.25,0.732
+2024-01,190000012,Julie,Harris,Neurology,MD,MD01,South,B,1,Medicaid,Government,200,24,6,24,5352.66,0.25,0.827
+2024-01,190000013,Tammy,Perkins,Neurology,MD,MD01,South,B,1,Managed Medicaid,Government,100,22,11,22,9138.18,0.5,0.612
+2024-01,190000014,Theresa,Cooper,Internal Medicine,MD,MD01,South,B,1,Commercial,Commercial,200,18,8,18,6536.32,0.444,0.633
+2024-01,190000015,Douglas,Wong,Psychiatry,MD,MD01,South,A,1,Managed Medicaid,Government,150,14,7,28,6800.78,0.5,0.674
+2024-01,190000016,Michael,Nelson,Internal Medicine,MD,MD01,South,A,1,Managed Medicaid,Government,200,22,7,22,5427.12,0.318,0.644
+2024-01,190000017,Jesse,Mccullough,Neurology,MD,MD01,South,C,0,Commercial,Commercial,100,9,4,18,8125.72,0.444,0.697
+2024-01,190000018,David,Lee,Neurology,MD,MD01,South,C,0,Managed Medicaid,Government,150,12,4,24,10429.94,0.333,0.786
+2024-01,190000019,Timothy,Owens,Internal Medicine,MD,MD01,South,B,1,Managed Medicaid,Government,200,18,7,36,14620.95,0.389,0.54
+2024-01,190000020,Thomas,Richardson,Neurology,MD,MD01,South,A,1,Commercial,Commercial,150,26,7,52,22660.03,0.269,0.838
+2024-01,190000021,Lindsey,Norman,Internal Medicine,MD,MD01,South,C,0,Medicare,Government,200,6,1,6,1391.41,0.167,0.557
+2024-01,190000022,Kathleen,Wallace,Psychiatry,MD,MD01,South,C,0,Managed Medicaid,Government,100,2,1,4,1515.29,0.5,0.566
+2024-01,190000023,James,Evans,Internal Medicine,MD,MD01,South,A,1,Managed Medicaid,Government,100,15,4,30,7440.57,0.267,0.645
+2024-01,190000024,Jennifer,Myers,Neurology,MD,MD01,South,C,0,Commercial,Commercial,150,8,3,16,6259.18,0.375,0.835
+2024-01,190000025,Rose,Freeman,Psychiatry,MD,MD01,South,B,1,Commercial,Commercial,200,15,5,15,5457.58,0.333,0.651
+2024-01,190000026,Casey,Johnson,Neurology,MD,MD01,South,B,1,Medicaid,Government,200,26,8,26,10658.14,0.308,0.545
+2024-01,190000027,Tony,PhD,Internal Medicine,MD,MD01,South,C,0,Medicare,Government,200,8,4,16,5261.65,0.5,0.713
+2024-01,190000028,Heather,Barrera,Neurology,MD,MD01,South,A,1,Medicare,Government,150,18,5,36,17003.8,0.278,0.658
+2024-01,190000029,Dominique,Johnson,Psychiatry,MD,MD01,South,A,1,Managed Medicaid,Government,200,18,8,36,15811.18,0.444,0.692
+2024-01,200000000,Kelly,Sanchez,Internal Medicine,MA,MA01,Northeast,C,0,Medicaid,Government,100,4,2,4,1529.13,0.5,0.602
+2024-01,200000001,Brittany,Morgan,Internal Medicine,MA,MA01,Northeast,C,0,Medicaid,Government,200,0,0,0,0.0,0.0,0.743
+2024-01,200000002,Dana,Wagner,Internal Medicine,MA,MA01,Northeast,C,0,Commercial,Commercial,150,3,1,6,2229.18,0.333,0.83
+2024-01,200000003,Dan,Thomas,Neurology,MA,MA01,Northeast,B,1,Medicare,Government,150,25,9,25,8897.74,0.36,0.509
+2024-01,200000004,Elizabeth,Williams,Psychiatry,MA,MA01,Northeast,A,1,Commercial,Commercial,100,19,7,38,15771.83,0.368,0.556
+2024-01,200000005,Chelsea,Hamilton,Internal Medicine,MA,MA01,Northeast,C,0,Medicare,Government,100,11,5,11,4395.1,0.455,0.603
+2024-01,200000006,Teresa,Patterson,Neurology,MA,MA01,Northeast,A,1,Medicare,Government,150,23,11,23,8744.33,0.478,0.736
+2024-01,200000007,Alexander,Bailey,Neurology,MA,MA01,Northeast,A,1,Managed Medicaid,Government,100,17,6,34,13605.55,0.353,0.516
+2024-01,200000008,Amanda,Martinez,Internal Medicine,MA,MA01,Northeast,B,1,Managed Medicaid,Government,200,21,10,42,19786.9,0.476,0.519
+2024-01,200000009,David,Jones,Neurology,MA,MA01,Northeast,B,1,Medicaid,Government,200,10,3,20,8715.91,0.3,0.819
+2024-01,200000010,Sara,Lindsey,Neurology,MA,MA01,Northeast,C,0,Medicare,Government,200,13,6,13,5483.38,0.462,0.838
+2024-01,200000011,John,Ray,Internal Medicine,MA,MA01,Northeast,B,1,Medicaid,Government,200,24,6,24,6446.73,0.25,0.561
+2024-01,200000012,Sandra,Turner,Neurology,MA,MA01,Northeast,A,1,Managed Medicaid,Government,100,20,6,40,11702.77,0.3,0.592
+2024-01,200000013,David,Duncan,Psychiatry,MA,MA01,Northeast,C,0,Medicare,Government,100,7,2,14,4777.45,0.286,0.828
+2024-01,200000014,Erin,DDS,Psychiatry,MA,MA01,Northeast,A,1,Medicare,Government,200,17,5,17,7159.58,0.294,0.719
+2024-01,200000015,Adam,Cisneros,Neurology,MA,MA01,Northeast,B,1,Managed Medicaid,Government,200,23,11,46,10991.65,0.478,0.748
+2024-01,200000016,Mary,Thomas,Neurology,MA,MA01,Northeast,A,1,Medicaid,Government,200,21,7,21,8912.97,0.333,0.556
+2024-01,200000017,Dawn,Smith,Neurology,MA,MA01,Northeast,C,0,Managed Medicaid,Government,100,0,0,0,0.0,0.0,0.575
+2024-01,200000018,David,King,Internal Medicine,MA,MA01,Northeast,B,1,Medicare,Government,150,16,8,16,7473.28,0.5,0.716
+2024-01,200000019,Lawrence,Sparks,Internal Medicine,MA,MA01,Northeast,C,0,Commercial,Commercial,100,0,0,0,0.0,0.0,0.817
+2024-01,200000020,Jeffrey,Alexander,Neurology,MA,MA01,Northeast,C,0,Medicaid,Government,100,0,0,0,0.0,0.0,0.779
+2024-01,200000021,Misty,Larson,Psychiatry,MA,MA01,Northeast,B,1,Medicare,Government,200,23,6,46,10415.48,0.261,0.681
+2024-01,200000022,Jennifer,Cruz,Internal Medicine,MA,MA01,Northeast,C,0,Managed Medicaid,Government,150,5,1,5,1485.36,0.2,0.728
+2024-01,200000023,Nichole,Baxter,Internal Medicine,MA,MA01,Northeast,C,0,Commercial,Commercial,100,8,2,8,3780.99,0.25,0.771
+2024-01,200000024,Rachel,Johnson,Neurology,MA,MA01,Northeast,A,1,Commercial,Commercial,100,18,6,18,8007.97,0.333,0.648
+2024-01,200000025,Madison,Phillips,Psychiatry,MA,MA01,Northeast,A,1,Managed Medicaid,Government,200,11,5,11,4556.11,0.455,0.554
+2024-01,200000026,Luis,Jordan,Internal Medicine,MA,MA01,Northeast,C,0,Medicare,Government,100,0,0,0,0.0,0.0,0.562
+2024-01,200000027,Ricky,Stewart,Internal Medicine,MA,MA01,Northeast,C,0,Commercial,Commercial,200,3,1,3,1370.57,0.333,0.643
+2024-01,200000028,Anthony,Ray,Internal Medicine,MA,MA01,Northeast,C,0,Managed Medicaid,Government,150,4,1,8,1795.13,0.25,0.736
+2024-01,200000029,William,Williams,Neurology,MA,MA01,Northeast,A,1,Commercial,Commercial,200,16,7,16,6435.67,0.438,0.525
+2024-01,210000000,Kelly,Mooney,Neurology,MI,MI01,Midwest,A,1,Medicare,Government,200,16,8,32,12086.63,0.5,0.599
+2024-01,210000001,Michael,Sweeney,Internal Medicine,MI,MI01,Midwest,B,1,Managed Medicaid,Government,200,28,13,28,9610.63,0.464,0.687
+2024-01,210000002,Holly,Maynard,Psychiatry,MI,MI01,Midwest,C,0,Managed Medicaid,Government,200,11,3,22,10331.97,0.273,0.55
+2024-01,210000003,Sherry,Grant,Neurology,MI,MI01,Midwest,C,0,Medicare,Government,100,7,1,7,1764.29,0.143,0.502
+2024-01,210000004,Ashley,Robertson,Neurology,MI,MI01,Midwest,B,1,Commercial,Commercial,150,17,6,17,7047.47,0.353,0.816
+2024-01,210000005,Maria,PhD,Internal Medicine,MI,MI01,Midwest,A,1,Managed Medicaid,Government,200,17,9,17,4451.42,0.529,0.577
+2024-01,210000006,James,Edwards,Internal Medicine,MI,MI01,Midwest,A,1,Commercial,Commercial,100,21,7,21,9268.58,0.333,0.826
+2024-01,210000007,Andrew,Casey,Neurology,MI,MI01,Midwest,B,1,Commercial,Commercial,150,17,6,17,4848.04,0.353,0.569
+2024-01,210000008,Shirley,Tran,Neurology,MI,MI01,Midwest,B,1,Medicare,Government,150,22,8,22,8679.81,0.364,0.582
+2024-01,210000009,Timothy,Cline,Internal Medicine,MI,MI01,Midwest,C,0,Commercial,Commercial,100,7,2,14,4848.53,0.286,0.615
+2024-01,210000010,Eric,Brooks,Neurology,MI,MI01,Midwest,B,1,Medicaid,Government,200,28,8,56,24080.11,0.286,0.836
+2024-01,210000011,Joyce,Gomez,Psychiatry,MI,MI01,Midwest,A,1,Medicare,Government,100,17,4,17,6887.92,0.235,0.724
+2024-01,210000012,Theresa,Clark,Internal Medicine,MI,MI01,Midwest,B,1,Medicaid,Government,200,23,7,46,20619.51,0.304,0.662
+2024-01,210000013,Chad,Brown,Internal Medicine,MI,MI01,Midwest,B,1,Managed Medicaid,Government,200,12,5,12,3188.4,0.417,0.712
+2024-01,210000014,Timothy,Lopez,Internal Medicine,MI,MI01,Midwest,A,1,Medicaid,Government,150,14,7,14,5727.83,0.5,0.812
+2024-01,210000015,Robert,Pittman,Neurology,MI,MI01,Midwest,C,0,Commercial,Commercial,200,15,4,30,12599.76,0.267,0.574
+2024-01,210000016,Eric,Brown,Psychiatry,MI,MI01,Midwest,C,0,Medicare,Government,200,10,5,20,7800.32,0.5,0.552
+2024-01,210000017,Jeffrey,Johnson,Internal Medicine,MI,MI01,Midwest,A,1,Medicare,Government,100,20,9,40,14011.68,0.45,0.532
+2024-01,210000018,Ruth,Moore,Internal Medicine,MI,MI01,Midwest,C,0,Commercial,Commercial,200,18,9,18,7928.56,0.5,0.782
+2024-01,210000019,Ryan,Davis,Neurology,MI,MI01,Midwest,C,0,Medicaid,Government,200,5,2,5,1680.09,0.4,0.563
+2024-01,210000020,William,Mahoney,Neurology,MI,MI01,Midwest,C,0,Medicaid,Government,200,11,3,22,10212.08,0.273,0.514
+2024-01,210000021,Molly,Scott,Internal Medicine,MI,MI01,Midwest,A,1,Commercial,Commercial,150,23,10,46,12918.86,0.435,0.734
+2024-01,210000022,Kayla,Grant,Neurology,MI,MI01,Midwest,B,1,Managed Medicaid,Government,150,26,7,52,23358.58,0.269,0.514
+2024-01,210000023,Nancy,Bartlett,Neurology,MI,MI01,Midwest,B,1,Commercial,Commercial,200,12,5,24,10489.6,0.417,0.592
+2024-01,210000024,Belinda,Perry,Neurology,MI,MI01,Midwest,C,0,Medicaid,Government,150,5,2,10,3149.77,0.4,0.729
+2024-01,210000025,James,Gutierrez,Psychiatry,MI,MI01,Midwest,C,0,Medicare,Government,150,7,3,7,2479.8,0.429,0.624
+2024-01,210000026,Lisa,Anderson,Internal Medicine,MI,MI01,Midwest,B,1,Managed Medicaid,Government,200,26,13,26,9112.42,0.5,0.549
+2024-01,210000027,Erin,Jones,Psychiatry,MI,MI01,Midwest,A,1,Commercial,Commercial,200,20,7,40,10999.78,0.35,0.565
+2024-01,210000028,Daniel,Parker,Internal Medicine,MI,MI01,Midwest,C,0,Commercial,Commercial,200,11,5,11,3605.8,0.455,0.616
+2024-01,210000029,Scott,Cruz,Psychiatry,MI,MI01,Midwest,B,1,Managed Medicaid,Government,150,11,5,11,4109.66,0.455,0.727
+2024-01,220000000,Stacy,Miller,Internal Medicine,MN,MN01,Midwest,A,1,Medicaid,Government,100,16,7,16,5905.7,0.438,0.556
+2024-01,220000001,Thomas,Young,Neurology,MN,MN01,Midwest,C,0,Commercial,Commercial,200,12,3,12,2814.45,0.25,0.59
+2024-01,220000002,Kelli,Rogers,Psychiatry,MN,MN01,Midwest,C,0,Managed Medicaid,Government,200,5,1,5,2242.06,0.2,0.755
+2024-01,220000003,James,Jackson,Internal Medicine,MN,MN01,Midwest,A,1,Medicaid,Government,150,18,6,36,16037.95,0.333,0.56
+2024-01,220000004,Mark,Jones,Internal Medicine,MN,MN01,Midwest,C,0,Medicaid,Government,200,13,4,13,4966.46,0.308,0.679
+2024-01,220000005,Rhonda,Gallegos,Psychiatry,MN,MN01,Midwest,C,0,Medicare,Government,150,1,0,1,279.75,0.0,0.635
+2024-01,220000006,Tonya,Ball,Psychiatry,MN,MN01,Midwest,A,1,Medicaid,Government,200,14,4,28,12177.02,0.286,0.712
+2024-01,220000007,Henry,Horton,Psychiatry,MN,MN01,Midwest,B,1,Commercial,Commercial,200,11,2,11,2686.52,0.182,0.731
+2024-01,220000008,Roger,Mcdonald,Neurology,MN,MN01,Midwest,C,0,Commercial,Commercial,200,14,6,28,9960.48,0.429,0.63
+2024-01,220000009,Paula,Hall,Psychiatry,MN,MN01,Midwest,C,0,Managed Medicaid,Government,100,11,4,22,9356.26,0.364,0.633
+2024-01,220000010,Deborah,DDS,Neurology,MN,MN01,Midwest,C,0,Commercial,Commercial,150,10,4,10,2861.75,0.4,0.768
+2024-01,220000011,Michael,Mack,Psychiatry,MN,MN01,Midwest,B,1,Managed Medicaid,Government,150,16,6,16,3542.75,0.375,0.76
+2024-01,220000012,Rebecca,Randall,Psychiatry,MN,MN01,Midwest,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.572
+2024-01,220000013,Justin,Kane,Internal Medicine,MN,MN01,Midwest,B,1,Medicare,Government,100,9,3,9,2977.01,0.333,0.705
+2024-01,220000014,Kelsey,Perry,Internal Medicine,MN,MN01,Midwest,C,0,Managed Medicaid,Government,200,12,5,24,9098.14,0.417,0.847
+2024-01,220000015,Michael,Jackson,Internal Medicine,MN,MN01,Midwest,A,1,Managed Medicaid,Government,200,20,9,40,10658.68,0.45,0.696
+2024-01,220000016,Leslie,Armstrong,Internal Medicine,MN,MN01,Midwest,B,1,Medicare,Government,200,21,6,42,17694.2,0.286,0.639
+2024-01,220000017,Christine,Watson,Psychiatry,MN,MN01,Midwest,C,0,Commercial,Commercial,200,7,3,7,2352.8,0.429,0.745
+2024-01,220000018,Randy,Reese,Psychiatry,MN,MN01,Midwest,A,1,Medicaid,Government,200,14,5,28,11882.67,0.357,0.78
+2024-01,220000019,Patricia,Green,Neurology,MN,MN01,Midwest,C,0,Commercial,Commercial,100,4,1,8,3766.31,0.25,0.502
+2024-01,220000020,Gregory,Fritz,Psychiatry,MN,MN01,Midwest,A,1,Managed Medicaid,Government,200,13,6,26,6315.83,0.462,0.592
+2024-01,220000021,Sheryl,Whitney,Internal Medicine,MN,MN01,Midwest,A,1,Commercial,Commercial,200,12,4,24,11087.47,0.333,0.64
+2024-01,220000022,Tiffany,Chambers,Neurology,MN,MN01,Midwest,C,0,Medicare,Government,200,10,4,10,4658.86,0.4,0.787
+2024-01,220000023,Justin,Davis,Neurology,MN,MN01,Midwest,B,1,Managed Medicaid,Government,100,10,3,10,4411.48,0.3,0.826
+2024-01,220000024,Anthony,Delacruz,Neurology,MN,MN01,Midwest,B,1,Medicaid,Government,100,13,3,13,4939.34,0.231,0.736
+2024-01,220000025,Mark,Davis,Internal Medicine,MN,MN01,Midwest,A,1,Commercial,Commercial,100,16,7,16,7666.76,0.438,0.773
+2024-01,220000026,Cynthia,Barajas,Internal Medicine,MN,MN01,Midwest,C,0,Managed Medicaid,Government,150,6,2,6,2127.68,0.333,0.758
+2024-01,220000027,Paula,Barnett,Psychiatry,MN,MN01,Midwest,A,1,Medicare,Government,200,11,3,22,6827.56,0.273,0.785
+2024-01,220000028,Kimberly,Sanders,Psychiatry,MN,MN01,Midwest,C,0,Medicaid,Government,150,0,0,0,0.0,0.0,0.591
+2024-01,220000029,Tanya,Moore,Internal Medicine,MN,MN01,Midwest,C,0,Commercial,Commercial,200,8,3,8,2806.59,0.375,0.619
+2024-01,230000000,Patrick,Campos,Psychiatry,MS,MS01,South,C,0,Medicare,Government,200,7,1,14,5606.86,0.143,0.838
+2024-01,230000001,Jennifer,Salazar,Neurology,MS,MS01,South,B,1,Medicaid,Government,150,24,10,48,19066.3,0.417,0.814
+2024-01,230000002,Christy,Harris,Psychiatry,MS,MS01,South,B,1,Commercial,Commercial,150,18,8,18,5750.91,0.444,0.776
+2024-01,230000003,Matthew,Avery,Psychiatry,MS,MS01,South,C,0,Medicaid,Government,150,8,4,16,7494.65,0.5,0.681
+2024-01,230000004,Maria,Shaffer,Psychiatry,MS,MS01,South,C,0,Medicare,Government,100,2,0,4,976.73,0.0,0.736
+2024-01,230000005,Samantha,Parker,Internal Medicine,MS,MS01,South,A,1,Medicaid,Government,150,14,5,28,8733.76,0.357,0.813
+2024-01,230000006,Stephanie,Erickson,Internal Medicine,MS,MS01,South,A,1,Medicaid,Government,150,11,5,11,3091.7,0.455,0.585
+2024-01,230000007,Jennifer,Logan,Internal Medicine,MS,MS01,South,A,1,Medicaid,Government,100,14,4,14,6124.26,0.286,0.625
+2024-01,230000008,Ricardo,Mccann,Psychiatry,MS,MS01,South,A,1,Commercial,Commercial,200,16,7,32,12147.04,0.438,0.767
+2024-01,230000009,Stephanie,Bond,Neurology,MS,MS01,South,A,1,Managed Medicaid,Government,150,24,6,48,16704.41,0.25,0.845
+2024-01,230000010,Jeremiah,Baker,Neurology,MS,MS01,South,B,1,Managed Medicaid,Government,100,13,5,26,8409.67,0.385,0.763
+2024-01,230000011,Eric,Zimmerman,Psychiatry,MS,MS01,South,A,1,Managed Medicaid,Government,150,28,8,28,9818.02,0.286,0.638
+2024-01,230000012,Barbara,Chen,Neurology,MS,MS01,South,A,1,Managed Medicaid,Government,100,21,6,42,12686.91,0.286,0.503
+2024-01,230000013,Darrell,Moore,Neurology,MS,MS01,South,A,1,Managed Medicaid,Government,200,20,5,20,6092.27,0.25,0.714
+2024-01,230000014,Jennifer,Hall,Internal Medicine,MS,MS01,South,A,1,Medicare,Government,100,18,7,36,12331.79,0.389,0.715
+2024-01,230000015,Tonya,Mejia,Internal Medicine,MS,MS01,South,A,1,Managed Medicaid,Government,150,17,7,17,5592.39,0.412,0.763
+2024-01,230000016,David,Sanchez,Internal Medicine,MS,MS01,South,B,1,Medicare,Government,150,15,6,15,5528.5,0.4,0.843
+2024-01,230000017,Sarah,Thomas,Neurology,MS,MS01,South,A,1,Commercial,Commercial,200,11,4,22,9439.38,0.364,0.694
+2024-01,230000018,Alisha,Webb,Internal Medicine,MS,MS01,South,A,1,Medicaid,Government,200,13,4,13,4458.7,0.308,0.503
+2024-01,230000019,Brandy,Jenkins,Internal Medicine,MS,MS01,South,B,1,Medicaid,Government,200,26,12,52,22057.7,0.462,0.605
+2024-01,230000020,Emily,Washington,Neurology,MS,MS01,South,C,0,Commercial,Commercial,150,8,2,8,3196.33,0.25,0.521
+2024-01,230000021,Paul,Howard,Internal Medicine,MS,MS01,South,B,1,Commercial,Commercial,150,26,7,52,14952.08,0.269,0.626
+2024-01,230000022,Rachel,Salas,Neurology,MS,MS01,South,B,1,Medicare,Government,100,15,4,30,7545.65,0.267,0.804
+2024-01,230000023,Jennifer,Maldonado,Neurology,MS,MS01,South,A,1,Medicaid,Government,150,12,4,24,7308.56,0.333,0.679
+2024-01,230000024,Duane,Jones,Neurology,MS,MS01,South,B,1,Commercial,Commercial,150,18,4,36,12260.72,0.222,0.835
+2024-01,230000025,Timothy,Ingram,Psychiatry,MS,MS01,South,C,0,Medicare,Government,150,2,0,4,1762.86,0.0,0.525
+2024-01,230000026,Antonio,Hernandez,Psychiatry,MS,MS01,South,B,1,Medicaid,Government,150,19,9,38,14811.77,0.474,0.749
+2024-01,230000027,Michele,Torres,Neurology,MS,MS01,South,C,0,Managed Medicaid,Government,150,0,0,0,0.0,0.0,0.829
+2024-01,230000028,John,Brown,Neurology,MS,MS01,South,C,0,Managed Medicaid,Government,150,0,0,0,0.0,0.0,0.508
+2024-01,230000029,Brittney,Wilson,Neurology,MS,MS01,South,A,1,Medicare,Government,200,19,8,19,5220.22,0.421,0.639
+2024-01,240000000,Sandra,Little,Psychiatry,MO,MO01,Midwest,A,1,Managed Medicaid,Government,200,26,10,26,5898.23,0.385,0.639
+2024-01,240000001,Steve,Guerrero,Psychiatry,MO,MO01,Midwest,A,1,Medicare,Government,200,20,5,20,4838.42,0.25,0.826
+2024-01,240000002,Douglas,Clark,Internal Medicine,MO,MO01,Midwest,B,1,Medicaid,Government,100,20,6,40,13408.87,0.3,0.544
+2024-01,240000003,Jonathan,MD,Neurology,MO,MO01,Midwest,A,1,Commercial,Commercial,100,18,8,36,15973.05,0.444,0.614
+2024-01,240000004,Michelle,Castaneda,Internal Medicine,MO,MO01,Midwest,B,1,Medicare,Government,200,18,5,36,9184.68,0.278,0.832
+2024-01,240000005,George,Daniels,Neurology,MO,MO01,Midwest,A,1,Managed Medicaid,Government,200,10,3,20,7121.99,0.3,0.724
+2024-01,240000006,Wendy,Herrera,Internal Medicine,MO,MO01,Midwest,B,1,Managed Medicaid,Government,200,14,6,14,6009.14,0.429,0.655
+2024-01,240000007,Nicholas,Kelley,Internal Medicine,MO,MO01,Midwest,B,1,Medicare,Government,100,24,11,48,10691.74,0.458,0.683
+2024-01,240000008,Joseph,Mcdonald,Psychiatry,MO,MO01,Midwest,B,1,Medicare,Government,150,12,6,12,4785.84,0.5,0.672
+2024-01,240000009,Alan,Mcconnell,Internal Medicine,MO,MO01,Midwest,B,1,Commercial,Commercial,150,16,8,32,12007.07,0.5,0.779
+2024-01,240000010,Shawn,Warren,Neurology,MO,MO01,Midwest,B,1,Medicaid,Government,150,24,9,48,15486.51,0.375,0.557
+2024-01,240000011,Whitney,Keller,Neurology,MO,MO01,Midwest,C,0,Managed Medicaid,Government,150,6,2,6,1730.25,0.333,0.648
+2024-01,240000012,Melissa,Gould,Psychiatry,MO,MO01,Midwest,C,0,Medicare,Government,150,6,1,12,3928.26,0.167,0.799
+2024-01,240000013,Willie,Johnson,Psychiatry,MO,MO01,Midwest,A,1,Medicare,Government,100,16,7,32,12179.51,0.438,0.595
+2024-01,240000014,Michael,Rios,Neurology,MO,MO01,Midwest,B,1,Medicaid,Government,150,21,5,21,5450.74,0.238,0.839
+2024-01,240000015,Hannah,Lang,Psychiatry,MO,MO01,Midwest,A,1,Commercial,Commercial,150,22,7,44,11110.45,0.318,0.653
+2024-01,240000016,John,Mcdonald,Psychiatry,MO,MO01,Midwest,A,1,Commercial,Commercial,100,14,3,14,4876.63,0.214,0.62
+2024-01,240000017,Timothy,Prince,Internal Medicine,MO,MO01,Midwest,B,1,Medicare,Government,150,11,5,11,3364.51,0.455,0.795
+2024-01,240000018,Tara,Ellison,Psychiatry,MO,MO01,Midwest,A,1,Medicare,Government,150,8,2,8,2889.84,0.25,0.564
+2024-01,240000019,Nicole,Gross,Internal Medicine,MO,MO01,Midwest,B,1,Commercial,Commercial,100,20,7,20,6400.95,0.35,0.841
+2024-01,240000020,Curtis,Spencer,Psychiatry,MO,MO01,Midwest,C,0,Commercial,Commercial,100,7,3,14,5756.57,0.429,0.533
+2024-01,240000021,Kevin,Silva,Neurology,MO,MO01,Midwest,A,1,Managed Medicaid,Government,150,30,11,60,27804.96,0.367,0.556
+2024-01,240000022,Kenneth,Johnson,Neurology,MO,MO01,Midwest,A,1,Commercial,Commercial,150,18,6,36,13896.55,0.333,0.57
+2024-01,240000023,Robin,Maxwell,Psychiatry,MO,MO01,Midwest,C,0,Medicaid,Government,100,5,2,5,1922.78,0.4,0.614
+2024-01,240000024,Cory,Allen,Psychiatry,MO,MO01,Midwest,B,1,Commercial,Commercial,150,19,9,19,4224.11,0.474,0.515
+2024-01,240000025,Christian,Williams,Neurology,MO,MO01,Midwest,B,1,Medicaid,Government,150,19,6,19,5408.69,0.316,0.675
+2024-01,240000026,Erin,Brown,Neurology,MO,MO01,Midwest,C,0,Medicare,Government,200,5,1,5,1177.71,0.2,0.726
+2024-01,240000027,Bethany,Perkins,Neurology,MO,MO01,Midwest,C,0,Commercial,Commercial,100,2,0,4,1121.98,0.0,0.844
+2024-01,240000028,Sarah,Chandler,Neurology,MO,MO01,Midwest,B,1,Managed Medicaid,Government,200,18,7,18,4059.93,0.389,0.632
+2024-01,240000029,Lindsey,Kent,Neurology,MO,MO01,Midwest,A,1,Medicare,Government,100,17,8,34,13726.57,0.471,0.696
+2024-01,250000000,Rebecca,Goodwin,Neurology,MT,MT01,West,C,0,Managed Medicaid,Government,100,5,2,5,1806.71,0.4,0.613
+2024-01,250000001,Darlene,Turner,Internal Medicine,MT,MT01,West,B,1,Medicaid,Government,100,22,10,22,7410.48,0.455,0.787
+2024-01,250000002,Thomas,Ballard,Neurology,MT,MT01,West,B,1,Managed Medicaid,Government,100,18,6,36,14787.04,0.333,0.809
+2024-01,250000003,Katie,Palmer,Neurology,MT,MT01,West,B,1,Medicaid,Government,150,11,3,11,4302.71,0.273,0.689
+2024-01,250000004,Zachary,Mcgee,Internal Medicine,MT,MT01,West,A,1,Managed Medicaid,Government,200,14,3,14,5311.46,0.214,0.613
+2024-01,250000005,Linda,Pittman,Neurology,MT,MT01,West,B,1,Commercial,Commercial,100,17,4,17,3933.5,0.235,0.828
+2024-01,250000006,Denise,Sanders,Psychiatry,MT,MT01,West,A,1,Medicaid,Government,100,18,9,36,9713.53,0.5,0.511
+2024-01,250000007,Stephen,Cooke,Neurology,MT,MT01,West,B,1,Managed Medicaid,Government,200,20,7,40,9310.49,0.35,0.577
+2024-01,250000008,Kendra,Nelson,Neurology,MT,MT01,West,A,1,Commercial,Commercial,100,18,6,36,16609.86,0.333,0.791
+2024-01,250000009,Diane,Rosario,Internal Medicine,MT,MT01,West,C,0,Commercial,Commercial,150,0,0,0,0.0,0.0,0.778
+2024-01,250000010,Alicia,Roberts,Psychiatry,MT,MT01,West,C,0,Medicare,Government,200,0,0,0,0.0,0.0,0.792
+2024-01,250000011,Amber,Williams,Psychiatry,MT,MT01,West,A,1,Commercial,Commercial,100,20,8,20,7164.64,0.4,0.566
+2024-01,250000012,Latoya,Patel,Neurology,MT,MT01,West,C,0,Medicaid,Government,200,4,1,4,1460.76,0.25,0.695
+2024-01,250000013,David,Spencer,Neurology,MT,MT01,West,A,1,Medicare,Government,200,25,13,50,20133.16,0.52,0.649
+2024-01,250000014,Kimberly,Vargas,Psychiatry,MT,MT01,West,A,1,Medicaid,Government,200,18,9,36,12643.92,0.5,0.73
+2024-01,250000015,Jamie,Cunningham,Neurology,MT,MT01,West,C,0,Managed Medicaid,Government,150,4,1,8,2904.17,0.25,0.849
+2024-01,250000016,Zachary,Lynch,Internal Medicine,MT,MT01,West,B,1,Managed Medicaid,Government,200,14,6,28,10589.25,0.429,0.697
+2024-01,250000017,Bailey,Mcgee,Psychiatry,MT,MT01,West,B,1,Medicare,Government,150,16,4,32,10763.2,0.25,0.639
+2024-01,250000018,Robyn,Douglas,Neurology,MT,MT01,West,A,1,Medicare,Government,200,18,8,18,6382.41,0.444,0.848
+2024-01,250000019,Arthur,Anthony,Internal Medicine,MT,MT01,West,A,1,Medicare,Government,100,18,7,18,7964.77,0.389,0.508
+2024-01,250000020,Stephanie,Armstrong,Neurology,MT,MT01,West,B,1,Medicaid,Government,100,22,8,22,7473.32,0.364,0.555
+2024-01,250000021,Chad,Miller,Internal Medicine,MT,MT01,West,B,1,Medicaid,Government,100,10,3,20,8617.59,0.3,0.532
+2024-01,250000022,Shelley,Mccullough,Internal Medicine,MT,MT01,West,C,0,Medicaid,Government,200,0,0,0,0.0,0.0,0.778
+2024-01,250000023,Brandon,Griffin,Psychiatry,MT,MT01,West,B,1,Commercial,Commercial,200,16,5,32,7350.93,0.312,0.783
+2024-01,250000024,Julie,Stewart,Internal Medicine,MT,MT01,West,A,1,Commercial,Commercial,150,20,9,40,17949.84,0.45,0.652
+2024-01,250000025,Garrett,Jr.,Psychiatry,MT,MT01,West,A,1,Commercial,Commercial,200,21,5,42,9831.08,0.238,0.684
+2024-01,250000026,Timothy,Campbell,Internal Medicine,MT,MT01,West,C,0,Medicaid,Government,150,3,0,3,779.49,0.0,0.736
+2024-01,250000027,Claire,Fischer,Internal Medicine,MT,MT01,West,B,1,Commercial,Commercial,100,5,1,10,2953.44,0.2,0.638
+2024-01,250000028,Jennifer,Williams,Psychiatry,MT,MT01,West,B,1,Commercial,Commercial,150,15,6,15,5437.79,0.4,0.592
+2024-01,250000029,Steven,Rodriguez,Internal Medicine,MT,MT01,West,C,0,Managed Medicaid,Government,200,7,2,7,2926.9,0.286,0.668
+2024-01,260000000,Justin,Turner,Psychiatry,NE,NE01,Midwest,B,1,Managed Medicaid,Government,200,17,4,17,6220.36,0.235,0.849
+2024-01,260000001,Karen,Vargas,Neurology,NE,NE01,Midwest,A,1,Medicaid,Government,100,20,8,40,16878.43,0.4,0.613
+2024-01,260000002,Anthony,Ibarra,Neurology,NE,NE01,Midwest,A,1,Commercial,Commercial,200,23,6,46,15185.55,0.261,0.622
+2024-01,260000003,Andrew,Jr.,Internal Medicine,NE,NE01,Midwest,B,1,Commercial,Commercial,150,17,6,17,8105.42,0.353,0.716
+2024-01,260000004,Jamie,Medina,Internal Medicine,NE,NE01,Midwest,C,0,Medicaid,Government,150,3,1,3,1380.89,0.333,0.582
+2024-01,260000005,Barbara,Rose,Neurology,NE,NE01,Midwest,B,1,Medicaid,Government,200,13,5,13,3239.82,0.385,0.519
+2024-01,260000006,Cynthia,Graham,Neurology,NE,NE01,Midwest,A,1,Medicare,Government,100,11,4,22,8808.51,0.364,0.539
+2024-01,260000007,Mary,Roberts,Internal Medicine,NE,NE01,Midwest,B,1,Commercial,Commercial,150,9,4,9,3711.63,0.444,0.574
+2024-01,260000008,Heather,Evans,Neurology,NE,NE01,Midwest,C,0,Medicare,Government,200,2,0,4,1527.96,0.0,0.847
+2024-01,260000009,Stephanie,Miller,Neurology,NE,NE01,Midwest,C,0,Commercial,Commercial,150,11,4,11,3150.61,0.364,0.521
+2024-01,260000010,Gabrielle,Williams,Psychiatry,NE,NE01,Midwest,C,0,Medicare,Government,100,9,2,18,7024.27,0.222,0.503
+2024-01,260000011,Catherine,Rivera,Internal Medicine,NE,NE01,Midwest,C,0,Medicare,Government,200,3,1,6,2668.28,0.333,0.507
+2024-01,260000012,Stephanie,Johnson,Neurology,NE,NE01,Midwest,B,1,Medicaid,Government,150,28,12,28,12740.19,0.429,0.67
+2024-01,260000013,Alvin,Mahoney,Neurology,NE,NE01,Midwest,C,0,Commercial,Commercial,100,2,1,2,700.34,0.5,0.66
+2024-01,260000014,Craig,Garcia,Neurology,NE,NE01,Midwest,A,1,Commercial,Commercial,100,24,6,48,14722.95,0.25,0.638
+2024-01,260000015,Christopher,Rojas,Psychiatry,NE,NE01,Midwest,A,1,Medicare,Government,200,25,10,50,15619.92,0.4,0.606
+2024-01,260000016,Thomas,Newman,Neurology,NE,NE01,Midwest,B,1,Commercial,Commercial,200,20,8,40,17938.24,0.4,0.812
+2024-01,260000017,Julie,Baker,Psychiatry,NE,NE01,Midwest,C,0,Medicare,Government,100,2,0,2,617.73,0.0,0.637
+2024-01,260000018,Kevin,Palmer,Psychiatry,NE,NE01,Midwest,A,1,Managed Medicaid,Government,200,16,4,16,5256.11,0.25,0.701
+2024-01,260000019,Michael,Williams,Internal Medicine,NE,NE01,Midwest,B,1,Medicare,Government,150,18,4,18,4927.62,0.222,0.549
+2024-01,260000020,Christopher,Mays,Neurology,NE,NE01,Midwest,C,0,Medicaid,Government,100,0,0,0,0.0,0.0,0.815
+2024-01,260000021,Steven,Arnold,Psychiatry,NE,NE01,Midwest,B,1,Medicaid,Government,200,13,6,13,3933.14,0.462,0.695
+2024-01,260000022,Derrick,Johnston,Neurology,NE,NE01,Midwest,A,1,Medicaid,Government,150,12,3,12,4908.49,0.25,0.768
+2024-01,260000023,Sara,Young,Internal Medicine,NE,NE01,Midwest,B,1,Medicare,Government,150,20,5,40,10380.35,0.25,0.566
+2024-01,260000024,Gary,Carr,Psychiatry,NE,NE01,Midwest,A,1,Commercial,Commercial,200,23,7,46,17363.03,0.304,0.714
+2024-01,260000025,Steven,Norman,Neurology,NE,NE01,Midwest,A,1,Medicaid,Government,200,21,5,21,6581.57,0.238,0.741
+2024-01,260000026,Christopher,Cruz,Internal Medicine,NE,NE01,Midwest,A,1,Managed Medicaid,Government,200,22,9,44,11784.69,0.409,0.636
+2024-01,260000027,Jeffrey,Holder,Internal Medicine,NE,NE01,Midwest,A,1,Medicaid,Government,100,14,5,14,3197.32,0.357,0.768
+2024-01,260000028,April,Hill,Psychiatry,NE,NE01,Midwest,B,1,Managed Medicaid,Government,100,16,6,16,6672.35,0.375,0.523
+2024-01,260000029,Mandy,Murphy,Internal Medicine,NE,NE01,Midwest,C,0,Managed Medicaid,Government,200,4,1,8,3562.89,0.25,0.811
+2024-01,270000000,Karen,Smith,Internal Medicine,NV,NV01,West,B,1,Commercial,Commercial,200,20,5,40,16290.09,0.25,0.638
+2024-01,270000001,Brooke,Campos,Neurology,NV,NV01,West,C,0,Commercial,Commercial,200,16,8,16,5398.7,0.5,0.789
+2024-01,270000002,Timothy,Roberts,Psychiatry,NV,NV01,West,A,1,Managed Medicaid,Government,200,14,7,14,5110.03,0.5,0.681
+2024-01,270000003,Stephanie,Thompson,Neurology,NV,NV01,West,A,1,Medicaid,Government,150,22,9,44,14233.58,0.409,0.607
+2024-01,270000004,Jennifer,Novak,Internal Medicine,NV,NV01,West,B,1,Medicaid,Government,150,25,12,50,18970.75,0.48,0.519
+2024-01,270000005,Mark,Goodwin,Neurology,NV,NV01,West,A,1,Managed Medicaid,Government,200,20,8,40,9740.58,0.4,0.675
+2024-01,270000006,Lindsey,Ray,Psychiatry,NV,NV01,West,C,0,Medicaid,Government,150,4,2,8,2432.8,0.5,0.509
+2024-01,270000007,Steven,Williams,Internal Medicine,NV,NV01,West,C,0,Medicaid,Government,150,1,0,1,285.02,0.0,0.742
+2024-01,270000008,Michael,Campbell,Neurology,NV,NV01,West,A,1,Commercial,Commercial,100,12,4,12,4843.43,0.333,0.722
+2024-01,270000009,David,Shields,Psychiatry,NV,NV01,West,C,0,Managed Medicaid,Government,200,0,0,0,0.0,0.0,0.633
+2024-01,270000010,Lisa,Rivera,Psychiatry,NV,NV01,West,B,1,Medicaid,Government,100,16,8,16,4264.09,0.5,0.749
+2024-01,270000011,Julie,Martinez,Internal Medicine,NV,NV01,West,B,1,Medicare,Government,200,16,7,32,9442.65,0.438,0.563
+2024-01,270000012,Carmen,Clarke,Psychiatry,NV,NV01,West,A,1,Commercial,Commercial,200,22,11,44,9819.66,0.5,0.674
+2024-01,270000013,Robin,Montoya,Internal Medicine,NV,NV01,West,C,0,Commercial,Commercial,200,3,1,6,1691.09,0.333,0.706
+2024-01,270000014,Timothy,Cole,Internal Medicine,NV,NV01,West,B,1,Managed Medicaid,Government,150,17,8,17,6397.38,0.471,0.502
+2024-01,270000015,William,Phelps,Neurology,NV,NV01,West,B,1,Medicaid,Government,100,19,7,19,4912.39,0.368,0.729
+2024-01,270000016,Michael,Dougherty,Psychiatry,NV,NV01,West,A,1,Commercial,Commercial,200,20,9,40,12243.56,0.45,0.531
+2024-01,270000017,Michael,Gray,Psychiatry,NV,NV01,West,B,1,Medicaid,Government,100,21,9,42,15913.1,0.429,0.742
+2024-01,270000018,Mike,Moore,Neurology,NV,NV01,West,C,0,Medicaid,Government,150,6,3,12,5546.22,0.5,0.533
+2024-01,270000019,Michael,Wade,Internal Medicine,NV,NV01,West,B,1,Medicare,Government,150,11,5,11,4589.14,0.455,0.795
+2024-01,270000020,Katelyn,Castillo,Psychiatry,NV,NV01,West,B,1,Managed Medicaid,Government,100,19,9,19,7611.42,0.474,0.596
+2024-01,270000021,Lauren,Graham,Neurology,NV,NV01,West,B,1,Medicaid,Government,200,14,4,14,5307.88,0.286,0.538
+2024-01,270000022,Zachary,Floyd,Neurology,NV,NV01,West,C,0,Commercial,Commercial,150,12,5,24,7944.81,0.417,0.797
+2024-01,270000023,Alison,Mcclain,Internal Medicine,NV,NV01,West,C,0,Medicare,Government,100,6,2,12,4261.48,0.333,0.721
+2024-01,270000024,Troy,Bishop,Internal Medicine,NV,NV01,West,A,1,Medicaid,Government,200,19,6,38,18035.07,0.316,0.501
+2024-01,270000025,John,Dixon,Psychiatry,NV,NV01,West,B,1,Commercial,Commercial,200,31,13,31,13264.49,0.419,0.85
+2024-01,270000026,Robert,Walker,Internal Medicine,NV,NV01,West,A,1,Medicare,Government,150,21,9,21,4681.68,0.429,0.57
+2024-01,270000027,Jamie,Green,Internal Medicine,NV,NV01,West,B,1,Commercial,Commercial,150,19,9,38,13366.09,0.474,0.613
+2024-01,270000028,Jack,Davis,Psychiatry,NV,NV01,West,A,1,Medicare,Government,150,17,4,34,13883.67,0.235,0.716
+2024-01,270000029,Christine,Smith,Psychiatry,NV,NV01,West,A,1,Medicaid,Government,150,11,3,22,10115.44,0.273,0.668
+2024-01,280000000,Leslie,Pope,Internal Medicine,NH,NH01,Northeast,A,1,Medicaid,Government,150,16,7,16,6129.15,0.438,0.812
+2024-01,280000001,Edgar,Morgan,Neurology,NH,NH01,Northeast,B,1,Managed Medicaid,Government,150,13,4,13,5682.66,0.308,0.605
+2024-01,280000002,William,Grant,Neurology,NH,NH01,Northeast,C,0,Medicare,Government,200,14,6,14,3838.08,0.429,0.74
+2024-01,280000003,Jennifer,MD,Internal Medicine,NH,NH01,Northeast,A,1,Medicaid,Government,150,19,5,19,5855.41,0.263,0.631
+2024-01,280000004,Dr.,Gomez,Neurology,NH,NH01,Northeast,A,1,Managed Medicaid,Government,100,23,9,23,10230.27,0.391,0.763
+2024-01,280000005,David,Miller,Neurology,NH,NH01,Northeast,B,1,Commercial,Commercial,150,14,3,28,6791.89,0.214,0.807
+2024-01,280000006,Patricia,DDS,Internal Medicine,NH,NH01,Northeast,B,1,Medicare,Government,100,14,7,28,7434.09,0.5,0.631
+2024-01,280000007,Monica,Wells,Psychiatry,NH,NH01,Northeast,A,1,Commercial,Commercial,150,21,7,21,8982.68,0.333,0.817
+2024-01,280000008,Sherry,Glass,Psychiatry,NH,NH01,Northeast,A,1,Medicare,Government,150,13,4,26,10962.6,0.308,0.55
+2024-01,280000009,Michelle,Gonzales,Psychiatry,NH,NH01,Northeast,C,0,Medicaid,Government,100,3,1,3,1018.31,0.333,0.75
+2024-01,280000010,Brandon,Davis,Neurology,NH,NH01,Northeast,A,1,Commercial,Commercial,150,26,13,26,10364.47,0.5,0.708
+2024-01,280000011,Ryan,Thompson,Psychiatry,NH,NH01,Northeast,B,1,Managed Medicaid,Government,100,16,6,16,5685.6,0.375,0.731
+2024-01,280000012,Veronica,Casey,Internal Medicine,NH,NH01,Northeast,A,1,Medicare,Government,200,10,4,10,3034.29,0.4,0.567
+2024-01,280000013,Donald,Atkinson,Internal Medicine,NH,NH01,Northeast,C,0,Medicare,Government,150,0,0,0,0.0,0.0,0.555
+2024-01,280000014,Danielle,Benjamin,Psychiatry,NH,NH01,Northeast,A,1,Commercial,Commercial,100,10,4,20,7256.7,0.4,0.595
+2024-01,280000015,Elizabeth,Smith,Neurology,NH,NH01,Northeast,B,1,Medicaid,Government,100,24,6,24,7223.0,0.25,0.812
+2024-01,280000016,Joshua,Rowland,Neurology,NH,NH01,Northeast,B,1,Commercial,Commercial,100,15,6,15,5135.87,0.4,0.736
+2024-01,280000017,Zachary,Irwin,Psychiatry,NH,NH01,Northeast,B,1,Commercial,Commercial,100,30,8,60,19313.9,0.267,0.747
+2024-01,280000018,Christina,Deleon,Neurology,NH,NH01,Northeast,C,0,Managed Medicaid,Government,200,13,5,26,7832.1,0.385,0.786
+2024-01,280000019,Douglas,Scott,Neurology,NH,NH01,Northeast,C,0,Commercial,Commercial,150,16,6,16,3906.53,0.375,0.781
+2024-01,280000020,Heather,Barajas,Neurology,NH,NH01,Northeast,B,1,Commercial,Commercial,150,23,7,46,18306.36,0.304,0.749
+2024-01,280000021,Daniel,Dougherty,Internal Medicine,NH,NH01,Northeast,B,1,Medicaid,Government,100,20,9,20,8877.7,0.45,0.716
+2024-01,280000022,Laura,Cochran,Internal Medicine,NH,NH01,Northeast,B,1,Medicaid,Government,200,13,3,26,11052.14,0.231,0.809
+2024-01,280000023,Andrew,Alexander,Internal Medicine,NH,NH01,Northeast,B,1,Commercial,Commercial,100,17,5,34,8477.92,0.294,0.668
+2024-01,280000024,William,Brown,Psychiatry,NH,NH01,Northeast,B,1,Medicare,Government,200,21,10,21,7393.41,0.476,0.642
+2024-01,280000025,Thomas,Olson,Neurology,NH,NH01,Northeast,A,1,Medicare,Government,200,22,8,22,9372.7,0.364,0.686
+2024-01,280000026,Emma,Lutz,Internal Medicine,NH,NH01,Northeast,C,0,Managed Medicaid,Government,100,0,0,0,0.0,0.0,0.841
+2024-01,280000027,Joseph,Kim,Internal Medicine,NH,NH01,Northeast,A,1,Medicare,Government,100,17,6,34,14413.34,0.353,0.652
+2024-01,280000028,Michael,Harris,Internal Medicine,NH,NH01,Northeast,C,0,Medicaid,Government,100,5,2,5,2061.18,0.4,0.749
+2024-01,280000029,Kelsey,Berry,Internal Medicine,NH,NH01,Northeast,A,1,Managed Medicaid,Government,150,17,8,17,7373.34,0.471,0.562
+2024-01,290000000,Alfred,Nicholson,Internal Medicine,NJ,NJ01,Northeast,A,1,Commercial,Commercial,200,12,5,24,7323.03,0.417,0.726
+2024-01,290000001,Shelby,Smith,Psychiatry,NJ,NJ01,Northeast,A,1,Medicaid,Government,100,27,13,27,11254.69,0.481,0.731
+2024-01,290000002,Adrian,Conrad,Internal Medicine,NJ,NJ01,Northeast,C,0,Medicare,Government,150,4,2,8,2166.99,0.5,0.739
+2024-01,290000003,Heather,Jackson,Internal Medicine,NJ,NJ01,Northeast,B,1,Medicare,Government,150,13,4,26,12414.36,0.308,0.704
+2024-01,290000004,Laura,Wallace,Neurology,NJ,NJ01,Northeast,C,0,Managed Medicaid,Government,100,15,4,30,7086.8,0.267,0.815
+2024-01,290000005,Nathan,Martinez,Psychiatry,NJ,NJ01,Northeast,A,1,Medicare,Government,100,25,8,50,22253.84,0.32,0.582
+2024-01,290000006,Douglas,Wilson,Neurology,NJ,NJ01,Northeast,C,0,Managed Medicaid,Government,200,6,2,12,4860.73,0.333,0.642
+2024-01,290000007,Melissa,White,Internal Medicine,NJ,NJ01,Northeast,C,0,Medicaid,Government,200,0,0,0,0.0,0.0,0.566
+2024-01,290000008,William,Mcdonald,Internal Medicine,NJ,NJ01,Northeast,B,1,Managed Medicaid,Government,100,15,7,30,14380.16,0.467,0.735
+2024-01,290000009,Michelle,Nelson,Psychiatry,NJ,NJ01,Northeast,A,1,Commercial,Commercial,200,10,5,10,2574.39,0.5,0.81
+2024-01,290000010,Jerome,Nichols,Neurology,NJ,NJ01,Northeast,B,1,Medicaid,Government,100,20,7,20,7739.66,0.35,0.646
+2024-01,290000011,Kim,Mills,Internal Medicine,NJ,NJ01,Northeast,C,0,Managed Medicaid,Government,200,3,1,3,1014.43,0.333,0.648
+2024-01,290000012,Katrina,Best,Internal Medicine,NJ,NJ01,Northeast,B,1,Medicare,Government,100,17,6,17,5617.49,0.353,0.503
+2024-01,290000013,Matthew,Mathews,Internal Medicine,NJ,NJ01,Northeast,C,0,Medicaid,Government,200,14,6,28,9150.9,0.429,0.691
+2024-01,290000014,Dalton,Wong,Internal Medicine,NJ,NJ01,Northeast,A,1,Commercial,Commercial,200,14,6,28,11291.54,0.429,0.54
+2024-01,290000015,Laurie,Diaz,Internal Medicine,NJ,NJ01,Northeast,C,0,Commercial,Commercial,100,8,2,16,5454.14,0.25,0.527
+2024-01,290000016,Amy,Boyer,Neurology,NJ,NJ01,Northeast,A,1,Medicaid,Government,150,21,11,21,8355.04,0.524,0.689
+2024-01,290000017,James,Henderson,Neurology,NJ,NJ01,Northeast,B,1,Commercial,Commercial,150,24,6,24,8205.74,0.25,0.679
+2024-01,290000018,Ronald,Rodriguez,Internal Medicine,NJ,NJ01,Northeast,C,0,Medicare,Government,150,5,1,10,4697.51,0.2,0.779
+2024-01,290000019,Taylor,Rivera,Internal Medicine,NJ,NJ01,Northeast,A,1,Commercial,Commercial,200,16,5,32,13088.4,0.312,0.697
+2024-01,290000020,Jason,Parker,Psychiatry,NJ,NJ01,Northeast,C,0,Managed Medicaid,Government,200,4,1,4,1475.77,0.25,0.73
+2024-01,290000021,Christina,Flores,Internal Medicine,NJ,NJ01,Northeast,C,0,Commercial,Commercial,150,7,3,14,3380.34,0.429,0.677
+2024-01,290000022,David,Lewis,Internal Medicine,NJ,NJ01,Northeast,B,1,Medicaid,Government,200,25,6,50,14577.82,0.24,0.59
+2024-01,290000023,Kelly,Anderson,Neurology,NJ,NJ01,Northeast,A,1,Medicaid,Government,200,16,6,16,6262.09,0.375,0.629
+2024-01,290000024,Natalie,Hughes,Psychiatry,NJ,NJ01,Northeast,B,1,Medicaid,Government,150,5,1,5,2139.18,0.2,0.802
+2024-01,290000025,Michelle,Osborne,Internal Medicine,NJ,NJ01,Northeast,A,1,Medicaid,Government,200,22,11,22,9631.15,0.5,0.763
+2024-01,290000026,Rachel,Bailey,Internal Medicine,NJ,NJ01,Northeast,B,1,Medicaid,Government,200,18,9,36,14715.35,0.5,0.559
+2024-01,290000027,Joshua,Moran,Neurology,NJ,NJ01,Northeast,C,0,Medicare,Government,100,8,2,16,6662.81,0.25,0.541
+2024-01,290000028,Alexandria,Smith,Psychiatry,NJ,NJ01,Northeast,B,1,Managed Medicaid,Government,150,10,4,20,6876.58,0.4,0.832
+2024-01,290000029,Tiffany,Mclean,Neurology,NJ,NJ01,Northeast,A,1,Managed Medicaid,Government,200,15,8,30,10301.8,0.533,0.551
+2024-01,300000000,Sue,Skinner,Internal Medicine,NM,NM01,West,A,1,Medicare,Government,150,21,6,42,16649.15,0.286,0.837
+2024-01,300000001,Krystal,Morris,Neurology,NM,NM01,West,A,1,Commercial,Commercial,200,11,4,22,10309.37,0.364,0.651
+2024-01,300000002,Alex,Lutz,Neurology,NM,NM01,West,B,1,Medicare,Government,150,20,8,40,17144.09,0.4,0.589
+2024-01,300000003,Patrick,Hall,Neurology,NM,NM01,West,B,1,Managed Medicaid,Government,200,17,6,17,6985.67,0.353,0.706
+2024-01,300000004,Elizabeth,Cross,Psychiatry,NM,NM01,West,C,0,Medicare,Government,200,2,1,2,602.9,0.5,0.504
+2024-01,300000005,Lisa,Mills,Psychiatry,NM,NM01,West,A,1,Commercial,Commercial,150,13,5,13,4635.39,0.385,0.74
+2024-01,300000006,Phyllis,Freeman,Internal Medicine,NM,NM01,West,A,1,Medicare,Government,150,12,6,12,2746.21,0.5,0.717
+2024-01,300000007,Nathan,Potts,Psychiatry,NM,NM01,West,C,0,Medicaid,Government,200,6,2,6,2424.6,0.333,0.542
+2024-01,300000008,Nancy,Price,Neurology,NM,NM01,West,A,1,Managed Medicaid,Government,200,18,7,18,8153.29,0.389,0.743
+2024-01,300000009,Felicia,Griffith,Internal Medicine,NM,NM01,West,B,1,Managed Medicaid,Government,200,16,4,16,6177.33,0.25,0.823
+2024-01,300000010,Derek,Galvan,Internal Medicine,NM,NM01,West,B,1,Medicare,Government,150,12,3,12,5075.88,0.25,0.597
+2024-01,300000011,Brianna,Henderson,Psychiatry,NM,NM01,West,B,1,Managed Medicaid,Government,150,3,1,3,861.43,0.333,0.784
+2024-01,300000012,Mark,Palmer,Psychiatry,NM,NM01,West,B,1,Commercial,Commercial,150,20,7,20,7573.57,0.35,0.562
+2024-01,300000013,Carol,Phelps,Internal Medicine,NM,NM01,West,A,1,Medicaid,Government,200,22,8,44,12178.34,0.364,0.725
+2024-01,300000014,Kylie,Clayton,Internal Medicine,NM,NM01,West,C,0,Medicare,Government,100,9,2,9,2150.63,0.222,0.7
+2024-01,300000015,Michelle,Garcia,Internal Medicine,NM,NM01,West,B,1,Commercial,Commercial,150,28,11,28,10912.86,0.393,0.5
+2024-01,300000016,Alison,Farmer,Psychiatry,NM,NM01,West,C,0,Managed Medicaid,Government,150,5,1,5,2010.07,0.2,0.817
+2024-01,300000017,Catherine,Ponce,Neurology,NM,NM01,West,A,1,Managed Medicaid,Government,150,24,11,48,15600.83,0.458,0.755
+2024-01,300000018,Melissa,Meadows,Psychiatry,NM,NM01,West,C,0,Medicaid,Government,100,2,0,4,1872.32,0.0,0.786
+2024-01,300000019,Scott,Dunlap,Internal Medicine,NM,NM01,West,A,1,Medicare,Government,150,14,4,28,9076.48,0.286,0.721
+2024-01,300000020,Angela,Anthony,Neurology,NM,NM01,West,A,1,Medicare,Government,200,18,5,36,8673.08,0.278,0.661
+2024-01,300000021,Manuel,Munoz,Internal Medicine,NM,NM01,West,C,0,Medicaid,Government,100,14,7,14,6601.75,0.5,0.731
+2024-01,300000022,Debra,Warren,Internal Medicine,NM,NM01,West,C,0,Managed Medicaid,Government,100,4,2,8,2771.93,0.5,0.81
+2024-01,300000023,Matthew,Park,Internal Medicine,NM,NM01,West,C,0,Medicaid,Government,100,0,0,0,0.0,0.0,0.752
+2024-01,300000024,Tommy,Wiley,Neurology,NM,NM01,West,A,1,Managed Medicaid,Government,150,22,9,22,9374.47,0.409,0.725
+2024-01,300000025,Carrie,Leblanc,Internal Medicine,NM,NM01,West,C,0,Managed Medicaid,Government,100,5,1,5,1541.07,0.2,0.618
+2024-01,300000026,Todd,PhD,Neurology,NM,NM01,West,A,1,Managed Medicaid,Government,100,19,9,19,8167.09,0.474,0.734
+2024-01,300000027,Jason,Butler,Internal Medicine,NM,NM01,West,C,0,Medicaid,Government,200,2,0,2,920.9,0.0,0.513
+2024-01,300000028,Gerald,Ramirez,Psychiatry,NM,NM01,West,B,1,Commercial,Commercial,150,18,6,18,5095.75,0.333,0.727
+2024-01,300000029,Tonya,Baker,Psychiatry,NM,NM01,West,A,1,Commercial,Commercial,150,10,4,10,3386.08,0.4,0.56
+2024-01,310000000,Kimberly,Griffin,Neurology,NY,NY01,Northeast,A,1,Commercial,Commercial,100,27,13,54,20233.48,0.481,0.715
+2024-01,310000001,Mr.,MD,Psychiatry,NY,NY01,Northeast,A,1,Managed Medicaid,Government,150,23,8,46,13997.85,0.348,0.842
+2024-01,310000002,Deanna,Ward,Neurology,NY,NY01,Northeast,C,0,Medicaid,Government,150,6,1,6,2512.2,0.167,0.708
+2024-01,310000003,Brittany,Thomas,Internal Medicine,NY,NY01,Northeast,A,1,Commercial,Commercial,150,22,10,22,9173.19,0.455,0.559
+2024-01,310000004,Kevin,Brooks,Internal Medicine,NY,NY01,Northeast,C,0,Medicaid,Government,150,2,1,2,921.35,0.5,0.514
+2024-01,310000005,Alicia,Parks,Psychiatry,NY,NY01,Northeast,C,0,Managed Medicaid,Government,100,11,5,11,4935.73,0.455,0.528
+2024-01,310000006,Michelle,Porter,Psychiatry,NY,NY01,Northeast,A,1,Commercial,Commercial,200,16,4,32,10502.97,0.25,0.783
+2024-01,310000007,Randy,DDS,Internal Medicine,NY,NY01,Northeast,C,0,Medicaid,Government,100,3,1,3,1159.06,0.333,0.683
+2024-01,310000008,Carlos,Fuller,Internal Medicine,NY,NY01,Northeast,A,1,Medicaid,Government,200,13,4,13,4875.4,0.308,0.751
+2024-01,310000009,Zachary,Mendoza,Neurology,NY,NY01,Northeast,A,1,Medicare,Government,150,20,8,40,8847.53,0.4,0.582
+2024-01,310000010,Mary,Briggs,Psychiatry,NY,NY01,Northeast,C,0,Commercial,Commercial,200,6,3,12,5331.72,0.5,0.845
+2024-01,310000011,Patrick,Gill,Neurology,NY,NY01,Northeast,A,1,Managed Medicaid,Government,200,25,9,25,7296.77,0.36,0.568
+2024-01,310000012,Joseph,Horn,Psychiatry,NY,NY01,Northeast,C,0,Managed Medicaid,Government,150,0,0,0,0.0,0.0,0.823
+2024-01,310000013,Mercedes,Wyatt,Psychiatry,NY,NY01,Northeast,C,0,Medicare,Government,150,8,3,8,2664.12,0.375,0.617
+2024-01,310000014,Mary,Gonzales,Internal Medicine,NY,NY01,Northeast,A,1,Commercial,Commercial,200,23,10,23,10590.67,0.435,0.562
+2024-01,310000015,Todd,Simmons,Psychiatry,NY,NY01,Northeast,B,1,Commercial,Commercial,100,30,15,30,12226.94,0.5,0.707
+2024-01,310000016,Benjamin,Hughes,Internal Medicine,NY,NY01,Northeast,B,1,Medicaid,Government,200,18,5,36,10073.39,0.278,0.539
+2024-01,310000017,Kristina,Steele,Psychiatry,NY,NY01,Northeast,A,1,Medicaid,Government,200,16,8,32,14277.45,0.5,0.631
+2024-01,310000018,Dr.,Yoder,Psychiatry,NY,NY01,Northeast,A,1,Managed Medicaid,Government,200,18,8,36,8428.62,0.444,0.653
+2024-01,310000019,Brandon,Jordan,Psychiatry,NY,NY01,Northeast,C,0,Managed Medicaid,Government,100,12,4,24,7610.55,0.333,0.66
+2024-01,310000020,Kayla,Morgan,Psychiatry,NY,NY01,Northeast,C,0,Medicare,Government,150,12,4,12,3687.98,0.333,0.511
+2024-01,310000021,Michelle,Robinson,Neurology,NY,NY01,Northeast,A,1,Medicare,Government,100,17,6,17,7504.3,0.353,0.661
+2024-01,310000022,Nicholas,Harper,Psychiatry,NY,NY01,Northeast,B,1,Medicaid,Government,150,24,8,24,10206.77,0.333,0.723
+2024-01,310000023,Kyle,Russell,Neurology,NY,NY01,Northeast,A,1,Medicaid,Government,100,17,5,34,15055.65,0.294,0.671
+2024-01,310000024,Judith,Dominguez,Psychiatry,NY,NY01,Northeast,C,0,Managed Medicaid,Government,150,10,2,20,4475.42,0.2,0.65
+2024-01,310000025,James,Dougherty,Psychiatry,NY,NY01,Northeast,A,1,Medicare,Government,150,20,6,20,9037.48,0.3,0.707
+2024-01,310000026,Kristen,Hughes,Psychiatry,NY,NY01,Northeast,C,0,Commercial,Commercial,150,4,1,4,921.66,0.25,0.665
+2024-01,310000027,Kyle,Gonzalez,Neurology,NY,NY01,Northeast,A,1,Managed Medicaid,Government,200,13,6,26,8959.86,0.462,0.779
+2024-01,310000028,Donna,Summers,Psychiatry,NY,NY01,Northeast,B,1,Managed Medicaid,Government,100,24,8,24,8764.96,0.333,0.504
+2024-01,310000029,Rebecca,MD,Neurology,NY,NY01,Northeast,B,1,Medicaid,Government,100,25,12,50,14845.28,0.48,0.727
+2024-01,320000000,Debra,Nielsen,Psychiatry,NC,NC01,South,A,1,Managed Medicaid,Government,200,20,8,40,10482.75,0.4,0.661
+2024-01,320000001,Francis,Brown,Neurology,NC,NC01,South,C,0,Commercial,Commercial,150,5,1,10,4206.77,0.2,0.806
+2024-01,320000002,Melissa,Becker,Internal Medicine,NC,NC01,South,A,1,Medicare,Government,200,12,5,24,9672.35,0.417,0.5
+2024-01,320000003,Jared,Chambers,Neurology,NC,NC01,South,A,1,Managed Medicaid,Government,200,23,6,46,16469.81,0.261,0.604
+2024-01,320000004,Ashley,Cohen,Internal Medicine,NC,NC01,South,C,0,Medicaid,Government,200,7,2,7,2669.23,0.286,0.617
+2024-01,320000005,Amber,Rodriguez,Psychiatry,NC,NC01,South,C,0,Medicare,Government,100,4,2,4,1278.27,0.5,0.663
+2024-01,320000006,Kelly,Rodriguez,Psychiatry,NC,NC01,South,B,1,Medicare,Government,100,22,10,22,8047.54,0.455,0.771
+2024-01,320000007,Stacy,Watson,Psychiatry,NC,NC01,South,B,1,Medicaid,Government,200,11,4,11,4276.25,0.364,0.758
+2024-01,320000008,Taylor,Pace,Neurology,NC,NC01,South,C,0,Medicaid,Government,200,0,0,0,0.0,0.0,0.814
+2024-01,320000009,Justin,Lee,Neurology,NC,NC01,South,C,0,Managed Medicaid,Government,150,2,0,2,472.95,0.0,0.621
+2024-01,320000010,Carla,Bradford,Internal Medicine,NC,NC01,South,C,0,Commercial,Commercial,150,8,4,16,5400.23,0.5,0.629
+2024-01,320000011,Keith,Ramos,Neurology,NC,NC01,South,C,0,Commercial,Commercial,100,6,2,12,2912.4,0.333,0.637
+2024-01,320000012,Autumn,Kemp,Psychiatry,NC,NC01,South,B,1,Commercial,Commercial,100,21,6,21,6126.65,0.286,0.744
+2024-01,320000013,Steven,Porter,Internal Medicine,NC,NC01,South,A,1,Medicaid,Government,200,23,12,23,6813.15,0.522,0.839
+2024-01,320000014,April,Green,Neurology,NC,NC01,South,A,1,Managed Medicaid,Government,150,21,5,42,14086.95,0.238,0.726
+2024-01,320000015,Tommy,Anderson,Internal Medicine,NC,NC01,South,A,1,Commercial,Commercial,100,27,10,27,11801.33,0.37,0.682
+2024-01,320000016,Aaron,Mathews,Internal Medicine,NC,NC01,South,B,1,Medicare,Government,200,23,9,46,15934.33,0.391,0.733
+2024-01,320000017,Stephanie,Scott,Neurology,NC,NC01,South,C,0,Managed Medicaid,Government,150,5,1,10,3674.85,0.2,0.814
+2024-01,320000018,Karen,Brewer,Internal Medicine,NC,NC01,South,A,1,Medicare,Government,100,15,7,30,9500.84,0.467,0.601
+2024-01,320000019,David,Taylor,Psychiatry,NC,NC01,South,A,1,Medicare,Government,150,17,8,34,15932.93,0.471,0.717
+2024-01,320000020,Drew,Martin,Psychiatry,NC,NC01,South,C,0,Medicare,Government,100,9,3,9,3944.04,0.333,0.743
+2024-01,320000021,Andrew,Cole,Neurology,NC,NC01,South,A,1,Medicaid,Government,100,15,7,15,3460.49,0.467,0.611
+2024-01,320000022,Denise,Williams,Psychiatry,NC,NC01,South,B,1,Medicare,Government,150,21,5,21,5740.15,0.238,0.747
+2024-01,320000023,Colton,Atkins,Neurology,NC,NC01,South,B,1,Medicare,Government,100,21,11,42,14136.85,0.524,0.841
+2024-01,320000024,Lee,Steele,Neurology,NC,NC01,South,B,1,Commercial,Commercial,100,13,6,26,12014.03,0.462,0.769
+2024-01,320000025,Christopher,Montoya,Internal Medicine,NC,NC01,South,B,1,Medicaid,Government,100,23,7,46,17861.04,0.304,0.603
+2024-01,320000026,Christopher,Castaneda,Internal Medicine,NC,NC01,South,C,0,Medicaid,Government,200,7,1,14,4312.81,0.143,0.539
+2024-01,320000027,Kari,Buchanan,Internal Medicine,NC,NC01,South,A,1,Medicaid,Government,200,27,8,27,8102.74,0.296,0.641
+2024-01,320000028,Karen,Davis,Psychiatry,NC,NC01,South,B,1,Medicare,Government,100,17,5,34,7966.5,0.294,0.724
+2024-01,320000029,Russell,Myers,Neurology,NC,NC01,South,C,0,Medicaid,Government,150,4,1,4,903.45,0.25,0.688
+2024-01,330000000,Steven,Griffin,Internal Medicine,ND,ND01,Midwest,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.611
+2024-01,330000001,Stacey,Carson,Neurology,ND,ND01,Midwest,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.751
+2024-01,330000002,Hannah,Bates,Internal Medicine,ND,ND01,Midwest,B,1,Managed Medicaid,Government,150,22,11,22,6468.2,0.5,0.623
+2024-01,330000003,Brittany,Bryant,Internal Medicine,ND,ND01,Midwest,C,0,Commercial,Commercial,100,14,4,28,11558.32,0.286,0.645
+2024-01,330000004,Ronnie,Hammond,Internal Medicine,ND,ND01,Midwest,B,1,Medicaid,Government,200,17,8,34,13920.87,0.471,0.645
+2024-01,330000005,Melissa,Gregory,Neurology,ND,ND01,Midwest,C,0,Commercial,Commercial,100,5,1,5,1494.2,0.2,0.846
+2024-01,330000006,Nancy,Greene,Neurology,ND,ND01,Midwest,B,1,Commercial,Commercial,200,18,4,36,8747.88,0.222,0.643
+2024-01,330000007,Richard,Brown,Internal Medicine,ND,ND01,Midwest,B,1,Medicaid,Government,200,23,11,46,18614.55,0.478,0.764
+2024-01,330000008,Stephanie,Jackson,Psychiatry,ND,ND01,Midwest,A,1,Medicaid,Government,150,13,3,26,9464.14,0.231,0.515
+2024-01,330000009,Robert,Nash,Internal Medicine,ND,ND01,Midwest,C,0,Medicare,Government,150,7,3,14,3897.25,0.429,0.777
+2024-01,330000010,Ruth,Vasquez,Psychiatry,ND,ND01,Midwest,B,1,Medicare,Government,200,22,11,44,11100.58,0.5,0.733
+2024-01,330000011,Jennifer,Shields,Internal Medicine,ND,ND01,Midwest,B,1,Medicaid,Government,150,20,8,20,4547.9,0.4,0.768
+2024-01,330000012,Jennifer,Wright,Internal Medicine,ND,ND01,Midwest,A,1,Medicare,Government,200,4,1,8,2936.4,0.25,0.804
+2024-01,330000013,Alan,Barrett,Neurology,ND,ND01,Midwest,C,0,Managed Medicaid,Government,200,9,3,9,2853.29,0.333,0.757
+2024-01,330000014,Brittany,Carey,Psychiatry,ND,ND01,Midwest,B,1,Medicaid,Government,200,20,10,20,5159.91,0.5,0.661
+2024-01,330000015,Michael,Wright,Neurology,ND,ND01,Midwest,A,1,Medicare,Government,100,24,9,24,6981.46,0.375,0.647
+2024-01,330000016,Adrienne,Murphy,Internal Medicine,ND,ND01,Midwest,A,1,Medicare,Government,150,26,11,26,9193.74,0.423,0.768
+2024-01,330000017,Jordan,Miller,Psychiatry,ND,ND01,Midwest,A,1,Medicaid,Government,200,24,11,48,21448.09,0.458,0.789
+2024-01,330000018,Jessica,Lynch,Neurology,ND,ND01,Midwest,B,1,Medicare,Government,200,18,5,36,8817.0,0.278,0.703
+2024-01,330000019,Mr.,Munoz,Psychiatry,ND,ND01,Midwest,A,1,Medicaid,Government,200,9,3,18,5705.71,0.333,0.67
+2024-01,330000020,Kevin,Ortiz,Internal Medicine,ND,ND01,Midwest,A,1,Commercial,Commercial,100,28,14,28,9824.63,0.5,0.791
+2024-01,330000021,John,Pearson,Neurology,ND,ND01,Midwest,C,0,Commercial,Commercial,150,5,2,10,4581.68,0.4,0.541
+2024-01,330000022,Kathleen,Day,Psychiatry,ND,ND01,Midwest,A,1,Managed Medicaid,Government,150,18,7,36,14388.23,0.389,0.549
+2024-01,330000023,Karen,Wilson,Internal Medicine,ND,ND01,Midwest,C,0,Medicare,Government,100,14,3,28,6369.37,0.214,0.785
+2024-01,330000024,Mr.,Hernandez,Psychiatry,ND,ND01,Midwest,A,1,Medicaid,Government,200,14,5,14,4199.04,0.357,0.573
+2024-01,330000025,Andrea,Briggs,Psychiatry,ND,ND01,Midwest,B,1,Commercial,Commercial,100,11,2,11,4635.62,0.182,0.765
+2024-01,330000026,Erin,Vaughn,Psychiatry,ND,ND01,Midwest,A,1,Commercial,Commercial,100,15,8,15,5129.42,0.533,0.818
+2024-01,330000027,William,MD,Psychiatry,ND,ND01,Midwest,A,1,Medicare,Government,200,14,4,14,5826.56,0.286,0.774
+2024-01,330000028,Amanda,Schaefer,Neurology,ND,ND01,Midwest,A,1,Medicaid,Government,100,10,4,20,4552.15,0.4,0.551
+2024-01,330000029,Bradley,Lee,Neurology,ND,ND01,Midwest,B,1,Medicare,Government,150,17,5,17,7519.71,0.294,0.773
+2024-01,340000000,Douglas,Harris,Neurology,OH,OH01,Midwest,A,1,Commercial,Commercial,100,18,4,18,6434.97,0.222,0.751
+2024-01,340000001,Holly,Mays,Internal Medicine,OH,OH01,Midwest,A,1,Commercial,Commercial,200,10,2,10,4603.0,0.2,0.822
+2024-01,340000002,Grace,Dominguez,Neurology,OH,OH01,Midwest,B,1,Medicare,Government,200,16,7,16,5349.01,0.438,0.835
+2024-01,340000003,Casey,Bond,Psychiatry,OH,OH01,Midwest,B,1,Managed Medicaid,Government,150,14,5,14,4951.87,0.357,0.643
+2024-01,340000004,Victoria,Spears,Internal Medicine,OH,OH01,Midwest,A,1,Managed Medicaid,Government,100,8,4,8,2791.3,0.5,0.626
+2024-01,340000005,Kyle,Jr.,Internal Medicine,OH,OH01,Midwest,C,0,Commercial,Commercial,100,6,2,12,4180.38,0.333,0.635
+2024-01,340000006,Joseph,Kidd,Internal Medicine,OH,OH01,Midwest,C,0,Medicare,Government,200,7,1,14,3902.18,0.143,0.643
+2024-01,340000007,Daniel,Ramos,Internal Medicine,OH,OH01,Midwest,A,1,Commercial,Commercial,150,14,4,28,7465.28,0.286,0.85
+2024-01,340000008,Thomas,Welch,Internal Medicine,OH,OH01,Midwest,C,0,Commercial,Commercial,150,11,4,22,7829.63,0.364,0.737
+2024-01,340000009,Sarah,Nichols,Psychiatry,OH,OH01,Midwest,A,1,Managed Medicaid,Government,150,18,8,18,7429.9,0.444,0.812
+2024-01,340000010,Brenda,Poole,Psychiatry,OH,OH01,Midwest,A,1,Medicare,Government,100,14,5,28,7617.92,0.357,0.795
+2024-01,340000011,Samantha,Johns,Internal Medicine,OH,OH01,Midwest,A,1,Medicaid,Government,150,10,3,20,5848.3,0.3,0.75
+2024-01,340000012,Robert,Butler,Neurology,OH,OH01,Midwest,C,0,Medicare,Government,200,7,3,14,4376.19,0.429,0.733
+2024-01,340000013,Karen,Nelson,Internal Medicine,OH,OH01,Midwest,B,1,Medicare,Government,100,20,6,40,9923.58,0.3,0.588
+2024-01,340000014,Heather,Jennings,Internal Medicine,OH,OH01,Midwest,A,1,Medicaid,Government,100,15,4,15,6177.41,0.267,0.791
+2024-01,340000015,Mark,Mills,Internal Medicine,OH,OH01,Midwest,C,0,Commercial,Commercial,100,6,1,12,4526.3,0.167,0.614
+2024-01,340000016,Natalie,Davis,Internal Medicine,OH,OH01,Midwest,C,0,Commercial,Commercial,100,14,3,28,11931.08,0.214,0.571
+2024-01,340000017,Theresa,Shepherd,Neurology,OH,OH01,Midwest,B,1,Managed Medicaid,Government,200,22,8,44,15885.49,0.364,0.783
+2024-01,340000018,Lydia,Riley,Neurology,OH,OH01,Midwest,C,0,Commercial,Commercial,100,0,0,0,0.0,0.0,0.542
+2024-01,340000019,Keith,Leonard,Internal Medicine,OH,OH01,Midwest,B,1,Managed Medicaid,Government,150,14,5,28,6421.94,0.357,0.562
+2024-01,340000020,Janice,Sparks,Neurology,OH,OH01,Midwest,B,1,Medicaid,Government,150,17,4,34,8668.88,0.235,0.751
+2024-01,340000021,Andrew,Hernandez,Internal Medicine,OH,OH01,Midwest,A,1,Managed Medicaid,Government,200,18,6,36,12374.53,0.333,0.799
+2024-01,340000022,Edward,Long,Neurology,OH,OH01,Midwest,A,1,Managed Medicaid,Government,150,18,8,36,13452.18,0.444,0.632
+2024-01,340000023,Roy,Hodge,Neurology,OH,OH01,Midwest,B,1,Medicare,Government,150,20,7,20,4546.36,0.35,0.516
+2024-01,340000024,Susan,Williams,Internal Medicine,OH,OH01,Midwest,B,1,Commercial,Commercial,200,17,7,34,10844.27,0.412,0.65
+2024-01,340000025,Kristen,Cabrera,Internal Medicine,OH,OH01,Midwest,B,1,Medicare,Government,100,18,9,18,5118.83,0.5,0.727
+2024-01,340000026,Margaret,Wilson,Neurology,OH,OH01,Midwest,A,1,Commercial,Commercial,150,22,10,22,6771.04,0.455,0.507
+2024-01,340000027,Juan,Beck,Internal Medicine,OH,OH01,Midwest,A,1,Managed Medicaid,Government,200,19,5,38,13972.33,0.263,0.815
+2024-01,340000028,Dustin,Sims,Internal Medicine,OH,OH01,Midwest,A,1,Managed Medicaid,Government,200,12,3,12,5715.59,0.25,0.632
+2024-01,340000029,Bryan,Gibson,Internal Medicine,OH,OH01,Midwest,B,1,Commercial,Commercial,150,18,6,18,7193.24,0.333,0.572
+2024-01,350000000,Dana,Moore,Internal Medicine,OK,OK01,South,C,0,Medicare,Government,100,5,2,10,3144.67,0.4,0.653
+2024-01,350000001,Kayla,Jones,Internal Medicine,OK,OK01,South,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.517
+2024-01,350000002,Daniel,Chung,Neurology,OK,OK01,South,B,1,Medicaid,Government,200,18,6,18,7318.87,0.333,0.702
+2024-01,350000003,Ruben,Malone,Neurology,OK,OK01,South,B,1,Medicare,Government,100,12,5,24,7945.14,0.417,0.622
+2024-01,350000004,Adam,Thornton,Psychiatry,OK,OK01,South,C,0,Medicare,Government,200,10,4,20,6651.13,0.4,0.689
+2024-01,350000005,Joshua,Fox,Psychiatry,OK,OK01,South,B,1,Managed Medicaid,Government,150,20,7,40,15784.23,0.35,0.692
+2024-01,350000006,Tara,Martin,Psychiatry,OK,OK01,South,C,0,Medicaid,Government,200,0,0,0,0.0,0.0,0.837
+2024-01,350000007,Wayne,Gallegos,Neurology,OK,OK01,South,B,1,Medicare,Government,200,22,10,44,20372.24,0.455,0.754
+2024-01,350000008,Joseph,Gutierrez,Psychiatry,OK,OK01,South,C,0,Medicaid,Government,150,12,5,24,6201.92,0.417,0.553
+2024-01,350000009,Joseph,Burgess,Neurology,OK,OK01,South,B,1,Managed Medicaid,Government,150,16,8,32,14196.75,0.5,0.819
+2024-01,350000010,Kayla,Pace,Neurology,OK,OK01,South,A,1,Managed Medicaid,Government,150,17,5,34,13191.02,0.294,0.59
+2024-01,350000011,Michelle,Gonzalez,Neurology,OK,OK01,South,A,1,Managed Medicaid,Government,100,22,9,22,5697.78,0.409,0.51
+2024-01,350000012,Gregory,DVM,Internal Medicine,OK,OK01,South,B,1,Managed Medicaid,Government,200,24,11,48,15826.8,0.458,0.817
+2024-01,350000013,Katelyn,Jackson,Psychiatry,OK,OK01,South,A,1,Medicare,Government,100,9,4,9,2584.65,0.444,0.781
+2024-01,350000014,Joseph,James,Neurology,OK,OK01,South,C,0,Medicaid,Government,200,0,0,0,0.0,0.0,0.67
+2024-01,350000015,Amy,White,Psychiatry,OK,OK01,South,A,1,Commercial,Commercial,150,15,4,30,13363.94,0.267,0.815
+2024-01,350000016,Donna,Mccoy,Internal Medicine,OK,OK01,South,B,1,Commercial,Commercial,150,16,4,16,4501.93,0.25,0.7
+2024-01,350000017,Robin,Ortiz,Neurology,OK,OK01,South,A,1,Medicare,Government,150,21,5,21,5919.9,0.238,0.543
+2024-01,350000018,Monica,Perez,Internal Medicine,OK,OK01,South,B,1,Managed Medicaid,Government,200,24,8,24,11117.52,0.333,0.576
+2024-01,350000019,Matthew,Johnson,Psychiatry,OK,OK01,South,A,1,Medicaid,Government,150,24,6,48,15656.53,0.25,0.802
+2024-01,350000020,William,Lane,Psychiatry,OK,OK01,South,B,1,Medicare,Government,200,9,4,9,2720.59,0.444,0.648
+2024-01,350000021,Alyssa,Arnold,Neurology,OK,OK01,South,A,1,Medicare,Government,100,13,5,26,8932.5,0.385,0.629
+2024-01,350000022,Amy,Parker,Internal Medicine,OK,OK01,South,A,1,Commercial,Commercial,200,11,6,11,4395.35,0.545,0.776
+2024-01,350000023,Johnathan,Waters,Psychiatry,OK,OK01,South,B,1,Managed Medicaid,Government,150,15,5,30,13644.63,0.333,0.74
+2024-01,350000024,Christopher,Blake,Neurology,OK,OK01,South,A,1,Managed Medicaid,Government,150,13,5,13,5935.09,0.385,0.638
+2024-01,350000025,John,Steele,Internal Medicine,OK,OK01,South,B,1,Commercial,Commercial,100,20,5,40,10988.02,0.25,0.812
+2024-01,350000026,Brandon,Harrison,Internal Medicine,OK,OK01,South,C,0,Medicare,Government,200,8,2,16,6803.56,0.25,0.596
+2024-01,350000027,Jonathan,Shelton,Psychiatry,OK,OK01,South,B,1,Managed Medicaid,Government,200,18,4,36,16592.01,0.222,0.616
+2024-01,350000028,Theresa,Walls,Internal Medicine,OK,OK01,South,A,1,Medicaid,Government,200,17,5,34,11956.0,0.294,0.623
+2024-01,350000029,Victoria,Mitchell,Neurology,OK,OK01,South,C,0,Medicare,Government,150,4,1,4,1672.45,0.25,0.724
+2024-01,360000000,Natalie,Fuller,Psychiatry,OR,OR01,West,C,0,Managed Medicaid,Government,200,4,1,4,883.2,0.25,0.57
+2024-01,360000001,Lisa,Taylor,Internal Medicine,OR,OR01,West,B,1,Commercial,Commercial,100,25,13,25,7122.42,0.52,0.75
+2024-01,360000002,Katherine,Powell,Neurology,OR,OR01,West,A,1,Managed Medicaid,Government,150,21,9,42,14463.75,0.429,0.757
+2024-01,360000003,Tanner,Keller,Internal Medicine,OR,OR01,West,A,1,Medicare,Government,150,16,7,16,3871.1,0.438,0.629
+2024-01,360000004,Tanya,Ryan,Internal Medicine,OR,OR01,West,B,1,Medicaid,Government,100,17,6,17,7820.16,0.353,0.726
+2024-01,360000005,Travis,Harrison,Neurology,OR,OR01,West,A,1,Commercial,Commercial,150,20,7,20,5761.27,0.35,0.798
+2024-01,360000006,David,Rich,Psychiatry,OR,OR01,West,B,1,Managed Medicaid,Government,200,12,4,24,6211.33,0.333,0.835
+2024-01,360000007,Jeffrey,Harper,Psychiatry,OR,OR01,West,C,0,Commercial,Commercial,100,6,2,12,5052.88,0.333,0.825
+2024-01,360000008,Sarah,Villanueva,Neurology,OR,OR01,West,B,1,Commercial,Commercial,100,21,8,21,5660.37,0.381,0.802
+2024-01,360000009,Lisa,Williams,Internal Medicine,OR,OR01,West,B,1,Managed Medicaid,Government,150,20,6,20,6642.8,0.3,0.572
+2024-01,360000010,Stephanie,Moyer,Psychiatry,OR,OR01,West,B,1,Medicaid,Government,150,14,3,14,4567.03,0.214,0.551
+2024-01,360000011,Michael,Elliott,Internal Medicine,OR,OR01,West,B,1,Medicaid,Government,200,14,4,28,12765.35,0.286,0.629
+2024-01,360000012,Nathan,Frank,Neurology,OR,OR01,West,C,0,Managed Medicaid,Government,100,0,0,0,0.0,0.0,0.805
+2024-01,360000013,Gary,Watkins,Neurology,OR,OR01,West,B,1,Medicaid,Government,200,21,6,42,16976.31,0.286,0.758
+2024-01,360000014,William,Dominguez,Internal Medicine,OR,OR01,West,A,1,Commercial,Commercial,200,28,11,28,6539.38,0.393,0.826
+2024-01,360000015,David,Roth,Internal Medicine,OR,OR01,West,B,1,Commercial,Commercial,100,13,4,26,9130.7,0.308,0.633
+2024-01,360000016,Jared,Bernard,Internal Medicine,OR,OR01,West,C,0,Medicare,Government,100,11,4,11,4080.19,0.364,0.591
+2024-01,360000017,Yolanda,Hull,Neurology,OR,OR01,West,B,1,Medicare,Government,150,27,8,27,6569.33,0.296,0.749
+2024-01,360000018,Ashley,Wall,Internal Medicine,OR,OR01,West,A,1,Medicare,Government,100,15,5,30,6944.46,0.333,0.545
+2024-01,360000019,Matthew,Moody,Internal Medicine,OR,OR01,West,C,0,Medicare,Government,150,5,2,10,4547.26,0.4,0.592
+2024-01,360000020,Kristina,Caldwell,Internal Medicine,OR,OR01,West,C,0,Medicare,Government,150,7,2,7,2114.29,0.286,0.848
+2024-01,360000021,Sheila,Davis,Psychiatry,OR,OR01,West,C,0,Managed Medicaid,Government,100,8,4,8,2069.13,0.5,0.58
+2024-01,360000022,Rachel,Ross,Psychiatry,OR,OR01,West,B,1,Medicare,Government,100,19,5,38,12671.93,0.263,0.848
+2024-01,360000023,Angela,Wood,Internal Medicine,OR,OR01,West,A,1,Managed Medicaid,Government,150,16,7,32,10848.56,0.438,0.539
+2024-01,360000024,Mary,Booth,Neurology,OR,OR01,West,A,1,Commercial,Commercial,150,21,11,21,5732.39,0.524,0.599
+2024-01,360000025,Megan,Henderson,Psychiatry,OR,OR01,West,C,0,Medicare,Government,200,4,1,4,1486.89,0.25,0.84
+2024-01,360000026,Kimberly,Velez,Neurology,OR,OR01,West,C,0,Medicaid,Government,150,7,2,7,1988.01,0.286,0.674
+2024-01,360000027,Thomas,Perry,Psychiatry,OR,OR01,West,B,1,Commercial,Commercial,150,17,8,17,5482.23,0.471,0.707
+2024-01,360000028,George,Washington,Psychiatry,OR,OR01,West,B,1,Medicaid,Government,100,9,3,9,3056.95,0.333,0.748
+2024-01,360000029,Jeffrey,Bullock,Internal Medicine,OR,OR01,West,B,1,Medicare,Government,200,24,7,24,7335.62,0.292,0.515
+2024-01,370000000,Steven,Hoover,Neurology,PA,PA01,Northeast,B,1,Medicare,Government,200,15,6,15,4124.33,0.4,0.517
+2024-01,370000001,Thomas,Burnett,Neurology,PA,PA01,Northeast,B,1,Medicare,Government,100,24,9,24,8694.25,0.375,0.711
+2024-01,370000002,Kenneth,Harris,Psychiatry,PA,PA01,Northeast,B,1,Medicare,Government,100,23,12,23,10830.99,0.522,0.803
+2024-01,370000003,David,Collins,Psychiatry,PA,PA01,Northeast,A,1,Medicaid,Government,100,19,7,38,16061.39,0.368,0.6
+2024-01,370000004,Shawn,Wilcox,Neurology,PA,PA01,Northeast,A,1,Commercial,Commercial,150,20,8,40,17131.44,0.4,0.758
+2024-01,370000005,Eric,Wang,Internal Medicine,PA,PA01,Northeast,C,0,Medicaid,Government,150,9,4,9,3927.0,0.444,0.679
+2024-01,370000006,Mary,Medina,Internal Medicine,PA,PA01,Northeast,B,1,Managed Medicaid,Government,150,17,8,34,12457.42,0.471,0.648
+2024-01,370000007,Cathy,Hull,Internal Medicine,PA,PA01,Northeast,B,1,Medicaid,Government,150,17,6,34,8301.66,0.353,0.68
+2024-01,370000008,Raymond,Lyons,Internal Medicine,PA,PA01,Northeast,C,0,Medicaid,Government,200,8,3,8,3695.79,0.375,0.685
+2024-01,370000009,Erin,Jacobson,Neurology,PA,PA01,Northeast,C,0,Commercial,Commercial,150,0,0,0,0.0,0.0,0.818
+2024-01,370000010,Kenneth,Mills,Internal Medicine,PA,PA01,Northeast,B,1,Medicaid,Government,100,17,7,34,14919.2,0.412,0.683
+2024-01,370000011,Megan,Jenkins,Internal Medicine,PA,PA01,Northeast,C,0,Commercial,Commercial,200,4,1,4,1833.99,0.25,0.68
+2024-01,370000012,Tyler,Anderson,Neurology,PA,PA01,Northeast,B,1,Managed Medicaid,Government,100,14,4,28,10971.03,0.286,0.699
+2024-01,370000013,Allison,Braun,Internal Medicine,PA,PA01,Northeast,B,1,Medicare,Government,200,20,7,20,8396.96,0.35,0.506
+2024-01,370000014,Angela,Dunn,Neurology,PA,PA01,Northeast,C,0,Managed Medicaid,Government,100,2,0,2,878.31,0.0,0.516
+2024-01,370000015,Eric,Taylor,Internal Medicine,PA,PA01,Northeast,C,0,Medicare,Government,150,10,5,20,8338.24,0.5,0.657
+2024-01,370000016,Andrea,Thomas,Internal Medicine,PA,PA01,Northeast,B,1,Medicaid,Government,100,22,7,22,5287.42,0.318,0.844
+2024-01,370000017,Danielle,Ramirez,Internal Medicine,PA,PA01,Northeast,C,0,Commercial,Commercial,150,8,2,8,1772.16,0.25,0.541
+2024-01,370000018,Jaclyn,Clark,Psychiatry,PA,PA01,Northeast,C,0,Managed Medicaid,Government,150,9,4,18,8025.89,0.444,0.838
+2024-01,370000019,Randy,Harvey,Neurology,PA,PA01,Northeast,C,0,Managed Medicaid,Government,150,8,2,16,6393.16,0.25,0.837
+2024-01,370000020,Lauren,Hall,Neurology,PA,PA01,Northeast,B,1,Medicare,Government,100,22,9,22,5612.85,0.409,0.567
+2024-01,370000021,Heather,Leonard,Psychiatry,PA,PA01,Northeast,C,0,Medicaid,Government,100,9,4,9,3105.81,0.444,0.551
+2024-01,370000022,John,Proctor,Psychiatry,PA,PA01,Northeast,B,1,Medicaid,Government,100,19,5,38,15964.84,0.263,0.552
+2024-01,370000023,Kathryn,Whitney,Internal Medicine,PA,PA01,Northeast,A,1,Commercial,Commercial,100,23,9,23,9477.91,0.391,0.656
+2024-01,370000024,Mark,Lopez,Internal Medicine,PA,PA01,Northeast,B,1,Commercial,Commercial,150,17,6,17,4629.92,0.353,0.699
+2024-01,370000025,Ashley,Davis,Internal Medicine,PA,PA01,Northeast,A,1,Medicare,Government,100,14,3,14,5374.69,0.214,0.75
+2024-01,370000026,Thomas,Hernandez,Internal Medicine,PA,PA01,Northeast,B,1,Medicare,Government,100,14,6,28,9069.67,0.429,0.68
+2024-01,370000027,Robert,Copeland,Neurology,PA,PA01,Northeast,C,0,Managed Medicaid,Government,100,4,2,4,1429.44,0.5,0.648
+2024-01,370000028,Michael,Kelly,Internal Medicine,PA,PA01,Northeast,C,0,Commercial,Commercial,150,0,0,0,0.0,0.0,0.541
+2024-01,370000029,Crystal,King,Neurology,PA,PA01,Northeast,C,0,Medicare,Government,150,7,2,14,3155.74,0.286,0.601
+2024-01,380000000,Jeremy,Smith,Psychiatry,RI,RI01,Northeast,B,1,Medicare,Government,150,21,5,21,7391.69,0.238,0.706
+2024-01,380000001,Anthony,Sullivan,Neurology,RI,RI01,Northeast,B,1,Managed Medicaid,Government,100,22,5,44,17951.06,0.227,0.637
+2024-01,380000002,Stephanie,Bates,Internal Medicine,RI,RI01,Northeast,C,0,Medicare,Government,150,0,0,0,0.0,0.0,0.599
+2024-01,380000003,Alexandria,Warren,Neurology,RI,RI01,Northeast,A,1,Managed Medicaid,Government,100,14,4,14,3806.12,0.286,0.712
+2024-01,380000004,Ruben,Davis,Psychiatry,RI,RI01,Northeast,B,1,Managed Medicaid,Government,150,22,7,22,6037.96,0.318,0.516
+2024-01,380000005,Amy,Hamilton,Psychiatry,RI,RI01,Northeast,B,1,Medicare,Government,150,17,6,17,4512.24,0.353,0.801
+2024-01,380000006,Hunter,Garcia,Neurology,RI,RI01,Northeast,A,1,Commercial,Commercial,150,21,11,42,10484.54,0.524,0.579
+2024-01,380000007,Sarah,Patterson,Neurology,RI,RI01,Northeast,A,1,Managed Medicaid,Government,150,11,4,22,9329.55,0.364,0.769
+2024-01,380000008,Mr.,DDS,Neurology,RI,RI01,Northeast,B,1,Medicaid,Government,200,24,6,24,9687.97,0.25,0.824
+2024-01,380000009,Christina,Terry,Internal Medicine,RI,RI01,Northeast,B,1,Commercial,Commercial,100,11,5,11,4775.53,0.455,0.515
+2024-01,380000010,Meagan,Thomas,Psychiatry,RI,RI01,Northeast,A,1,Commercial,Commercial,100,2,0,4,1043.31,0.0,0.602
+2024-01,380000011,Emily,Moore,Internal Medicine,RI,RI01,Northeast,C,0,Managed Medicaid,Government,200,6,2,6,1560.7,0.333,0.627
+2024-01,380000012,Denise,MD,Psychiatry,RI,RI01,Northeast,A,1,Medicaid,Government,150,19,6,38,15959.89,0.316,0.502
+2024-01,380000013,David,Barnes,Internal Medicine,RI,RI01,Northeast,B,1,Medicare,Government,200,15,6,15,3632.41,0.4,0.63
+2024-01,380000014,Kimberly,Hayes,Internal Medicine,RI,RI01,Northeast,B,1,Medicaid,Government,100,20,8,40,16987.04,0.4,0.548
+2024-01,380000015,George,Lucas,Internal Medicine,RI,RI01,Northeast,B,1,Managed Medicaid,Government,150,20,8,40,18614.9,0.4,0.655
+2024-01,380000016,Bonnie,Moore,Psychiatry,RI,RI01,Northeast,C,0,Commercial,Commercial,100,7,2,14,4225.89,0.286,0.844
+2024-01,380000017,Christopher,Rodriguez,Psychiatry,RI,RI01,Northeast,B,1,Commercial,Commercial,150,15,5,15,5874.69,0.333,0.725
+2024-01,380000018,Cheryl,Blake,Neurology,RI,RI01,Northeast,A,1,Medicare,Government,150,14,6,28,12608.5,0.429,0.745
+2024-01,380000019,Ryan,Shepard,Internal Medicine,RI,RI01,Northeast,C,0,Medicare,Government,150,3,0,3,1305.06,0.0,0.815
+2024-01,380000020,Brenda,Rodriguez,Neurology,RI,RI01,Northeast,A,1,Managed Medicaid,Government,150,13,3,13,5860.02,0.231,0.719
+2024-01,380000021,David,Brown,Neurology,RI,RI01,Northeast,C,0,Managed Medicaid,Government,200,11,4,22,9917.5,0.364,0.774
+2024-01,380000022,William,Smith,Internal Medicine,RI,RI01,Northeast,A,1,Medicare,Government,100,16,8,16,5755.72,0.5,0.636
+2024-01,380000023,Vicki,Robinson,Neurology,RI,RI01,Northeast,C,0,Medicaid,Government,200,6,1,12,3306.85,0.167,0.679
+2024-01,380000024,Douglas,Foster,Internal Medicine,RI,RI01,Northeast,C,0,Medicare,Government,200,10,3,10,2260.9,0.3,0.812
+2024-01,380000025,Janet,Sloan,Neurology,RI,RI01,Northeast,C,0,Medicare,Government,100,1,0,2,817.78,0.0,0.845
+2024-01,380000026,Cindy,Simpson,Psychiatry,RI,RI01,Northeast,C,0,Commercial,Commercial,150,0,0,0,0.0,0.0,0.624
+2024-01,380000027,David,Simpson,Psychiatry,RI,RI01,Northeast,C,0,Commercial,Commercial,150,1,0,2,737.67,0.0,0.502
+2024-01,380000028,Alexis,Mcintyre,Internal Medicine,RI,RI01,Northeast,A,1,Medicaid,Government,150,19,7,38,11171.21,0.368,0.775
+2024-01,380000029,Charles,Ford,Neurology,RI,RI01,Northeast,C,0,Medicaid,Government,200,6,3,12,4261.36,0.5,0.587
+2024-01,390000000,Austin,Brooks,Internal Medicine,SC,SC01,South,C,0,Medicaid,Government,150,7,1,14,3436.68,0.143,0.749
+2024-01,390000001,Jason,White,Internal Medicine,SC,SC01,South,A,1,Commercial,Commercial,100,17,7,34,15334.42,0.412,0.667
+2024-01,390000002,Tamara,Russell,Internal Medicine,SC,SC01,South,A,1,Medicare,Government,200,5,2,10,3729.42,0.4,0.682
+2024-01,390000003,Rhonda,Burns,Internal Medicine,SC,SC01,South,B,1,Managed Medicaid,Government,200,17,7,34,16289.16,0.412,0.741
+2024-01,390000004,James,Orozco,Internal Medicine,SC,SC01,South,C,0,Managed Medicaid,Government,100,10,5,10,3515.04,0.5,0.67
+2024-01,390000005,Denise,Sullivan,Internal Medicine,SC,SC01,South,A,1,Commercial,Commercial,200,24,11,24,8121.9,0.458,0.511
+2024-01,390000006,Thomas,Bowman,Psychiatry,SC,SC01,South,C,0,Medicare,Government,100,6,2,12,2984.25,0.333,0.629
+2024-01,390000007,Nicholas,Johnson,Internal Medicine,SC,SC01,South,A,1,Medicaid,Government,100,18,5,36,10774.09,0.278,0.631
+2024-01,390000008,Jason,Jackson,Internal Medicine,SC,SC01,South,B,1,Commercial,Commercial,100,21,5,21,8899.51,0.238,0.648
+2024-01,390000009,Stephanie,Price,Internal Medicine,SC,SC01,South,B,1,Medicaid,Government,100,24,8,48,10586.03,0.333,0.692
+2024-01,390000010,Kenneth,Adkins,Psychiatry,SC,SC01,South,A,1,Managed Medicaid,Government,150,18,6,36,13215.55,0.333,0.815
+2024-01,390000011,Valerie,Stewart,Internal Medicine,SC,SC01,South,B,1,Medicaid,Government,100,21,8,42,17557.53,0.381,0.734
+2024-01,390000012,Johnny,Mitchell,Psychiatry,SC,SC01,South,C,0,Medicare,Government,100,3,1,6,1924.09,0.333,0.815
+2024-01,390000013,Judy,Barker,Internal Medicine,SC,SC01,South,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.726
+2024-01,390000014,Nathan,Bright,Psychiatry,SC,SC01,South,C,0,Commercial,Commercial,200,3,1,6,2195.23,0.333,0.543
+2024-01,390000015,Shannon,Cunningham,Neurology,SC,SC01,South,A,1,Medicaid,Government,200,25,12,25,11722.4,0.48,0.683
+2024-01,390000016,Jennifer,Hensley,Internal Medicine,SC,SC01,South,C,0,Commercial,Commercial,100,9,3,9,4231.96,0.333,0.596
+2024-01,390000017,Erica,Zimmerman,Psychiatry,SC,SC01,South,A,1,Managed Medicaid,Government,100,12,6,24,7787.22,0.5,0.516
+2024-01,390000018,Timothy,Roy,Psychiatry,SC,SC01,South,B,1,Managed Medicaid,Government,100,21,9,42,9502.7,0.429,0.685
+2024-01,390000019,Gary,Hansen,Internal Medicine,SC,SC01,South,B,1,Commercial,Commercial,100,12,4,12,4330.35,0.333,0.6
+2024-01,390000020,Adrienne,Thornton,Psychiatry,SC,SC01,South,B,1,Commercial,Commercial,100,19,8,38,17767.39,0.421,0.738
+2024-01,390000021,Katherine,Wells,Psychiatry,SC,SC01,South,C,0,Medicare,Government,100,1,0,1,405.46,0.0,0.604
+2024-01,390000022,Alyssa,Cohen,Psychiatry,SC,SC01,South,B,1,Medicaid,Government,150,12,5,24,6889.51,0.417,0.83
+2024-01,390000023,David,Pineda,Psychiatry,SC,SC01,South,A,1,Medicaid,Government,100,26,8,26,9052.54,0.308,0.763
+2024-01,390000024,Tanner,Austin,Internal Medicine,SC,SC01,South,A,1,Medicare,Government,100,16,5,32,10907.33,0.312,0.642
+2024-01,390000025,Alexis,Dawson,Internal Medicine,SC,SC01,South,A,1,Managed Medicaid,Government,200,21,5,21,9608.99,0.238,0.507
+2024-01,390000026,David,Bush,Neurology,SC,SC01,South,C,0,Commercial,Commercial,100,6,1,6,1795.2,0.167,0.642
+2024-01,390000027,Crystal,Edwards,Psychiatry,SC,SC01,South,C,0,Medicaid,Government,100,0,0,0,0.0,0.0,0.559
+2024-01,390000028,Zachary,Hudson,Psychiatry,SC,SC01,South,C,0,Managed Medicaid,Government,200,4,1,8,1846.93,0.25,0.784
+2024-01,390000029,Tracy,Gonzales,Neurology,SC,SC01,South,B,1,Medicaid,Government,100,13,4,13,6015.25,0.308,0.669
+2024-01,400000000,Daniel,Small,Neurology,SD,SD01,Midwest,B,1,Managed Medicaid,Government,150,30,7,30,11164.24,0.233,0.679
+2024-01,400000001,Brianna,Ferguson,Psychiatry,SD,SD01,Midwest,A,1,Commercial,Commercial,150,21,8,21,6778.36,0.381,0.543
+2024-01,400000002,John,Campos,Psychiatry,SD,SD01,Midwest,C,0,Medicare,Government,150,6,2,6,2272.29,0.333,0.835
+2024-01,400000003,Tammy,Walsh,Internal Medicine,SD,SD01,Midwest,C,0,Medicare,Government,200,8,2,16,7595.3,0.25,0.748
+2024-01,400000004,Brent,Elliott,Internal Medicine,SD,SD01,Midwest,A,1,Medicare,Government,150,21,8,21,7130.5,0.381,0.71
+2024-01,400000005,Tracy,Collins,Psychiatry,SD,SD01,Midwest,C,0,Medicaid,Government,200,9,4,9,3404.56,0.444,0.501
+2024-01,400000006,Bobby,Jackson,Psychiatry,SD,SD01,Midwest,C,0,Medicaid,Government,150,9,2,18,7528.34,0.222,0.688
+2024-01,400000007,Eric,Brown,Neurology,SD,SD01,Midwest,C,0,Commercial,Commercial,200,8,2,8,3616.55,0.25,0.786
+2024-01,400000008,Scott,Hurst,Internal Medicine,SD,SD01,Midwest,C,0,Commercial,Commercial,150,6,2,12,5221.7,0.333,0.625
+2024-01,400000009,Jason,Lewis,Psychiatry,SD,SD01,Midwest,C,0,Commercial,Commercial,100,13,4,26,8224.45,0.308,0.568
+2024-01,400000010,Briana,Ellis,Psychiatry,SD,SD01,Midwest,A,1,Commercial,Commercial,150,18,9,36,9712.55,0.5,0.786
+2024-01,400000011,Mark,Garcia,Neurology,SD,SD01,Midwest,B,1,Medicaid,Government,100,18,4,36,16973.9,0.222,0.513
+2024-01,400000012,Mark,Powers,Internal Medicine,SD,SD01,Midwest,C,0,Medicaid,Government,100,6,2,6,2855.45,0.333,0.723
+2024-01,400000013,Mr.,Pittman,Psychiatry,SD,SD01,Midwest,B,1,Managed Medicaid,Government,100,19,7,19,7439.6,0.368,0.698
+2024-01,400000014,Ricky,Taylor,Neurology,SD,SD01,Midwest,C,0,Medicaid,Government,100,0,0,0,0.0,0.0,0.545
+2024-01,400000015,Eric,Smith,Neurology,SD,SD01,Midwest,A,1,Medicare,Government,100,13,4,13,6212.8,0.308,0.743
+2024-01,400000016,David,West,Neurology,SD,SD01,Midwest,C,0,Medicare,Government,200,5,2,10,2205.08,0.4,0.649
+2024-01,400000017,Steven,Washington,Neurology,SD,SD01,Midwest,C,0,Commercial,Commercial,150,0,0,0,0.0,0.0,0.642
+2024-01,400000018,Erik,Contreras,Psychiatry,SD,SD01,Midwest,C,0,Managed Medicaid,Government,150,6,3,12,4253.84,0.5,0.515
+2024-01,400000019,Erin,Mckinney,Neurology,SD,SD01,Midwest,A,1,Commercial,Commercial,150,19,5,38,13620.21,0.263,0.611
+2024-01,400000020,Lisa,Garcia,Internal Medicine,SD,SD01,Midwest,A,1,Medicare,Government,100,11,3,11,5252.16,0.273,0.579
+2024-01,400000021,Melody,MD,Neurology,SD,SD01,Midwest,B,1,Commercial,Commercial,100,14,4,14,3678.71,0.286,0.609
+2024-01,400000022,Mary,Anderson,Neurology,SD,SD01,Midwest,C,0,Commercial,Commercial,100,12,5,24,7975.36,0.417,0.508
+2024-01,400000023,Larry,Williams,Neurology,SD,SD01,Midwest,B,1,Medicare,Government,100,20,5,20,6862.6,0.25,0.836
+2024-01,400000024,Paige,Welch,Psychiatry,SD,SD01,Midwest,B,1,Medicaid,Government,100,20,7,40,16746.63,0.35,0.719
+2024-01,400000025,Mary,Weber,Neurology,SD,SD01,Midwest,A,1,Commercial,Commercial,100,23,10,23,7316.82,0.435,0.812
+2024-01,400000026,Richard,Thompson,Neurology,SD,SD01,Midwest,A,1,Medicaid,Government,100,13,6,26,6090.37,0.462,0.714
+2024-01,400000027,Jason,Parrish,Internal Medicine,SD,SD01,Midwest,A,1,Commercial,Commercial,200,11,3,11,4019.48,0.273,0.603
+2024-01,400000028,James,MD,Internal Medicine,SD,SD01,Midwest,B,1,Commercial,Commercial,200,22,10,44,12346.8,0.455,0.71
+2024-01,400000029,Gerald,Lewis,Neurology,SD,SD01,Midwest,C,0,Commercial,Commercial,150,5,1,10,3406.94,0.2,0.65
+2024-01,410000000,Charles,Jr.,Neurology,TN,TN01,South,C,0,Commercial,Commercial,150,1,0,1,338.06,0.0,0.615
+2024-01,410000001,Melissa,Gardner,Psychiatry,TN,TN01,South,A,1,Commercial,Commercial,100,28,15,28,10476.21,0.536,0.794
+2024-01,410000002,Emily,Burns,Neurology,TN,TN01,South,A,1,Medicare,Government,150,9,3,18,6212.95,0.333,0.717
+2024-01,410000003,Tracy,Thompson,Psychiatry,TN,TN01,South,A,1,Medicaid,Government,100,18,8,18,4557.55,0.444,0.705
+2024-01,410000004,Julie,Brown,Neurology,TN,TN01,South,C,0,Medicare,Government,150,5,2,5,1291.63,0.4,0.608
+2024-01,410000005,Jennifer,George,Internal Medicine,TN,TN01,South,B,1,Medicare,Government,100,16,6,16,3758.44,0.375,0.677
+2024-01,410000006,Erin,Sanders,Neurology,TN,TN01,South,A,1,Managed Medicaid,Government,150,6,1,6,2843.36,0.167,0.724
+2024-01,410000007,Heather,King,Psychiatry,TN,TN01,South,A,1,Medicare,Government,100,25,7,50,20032.16,0.28,0.844
+2024-01,410000008,Kimberly,Torres,Neurology,TN,TN01,South,C,0,Medicare,Government,200,0,0,0,0.0,0.0,0.647
+2024-01,410000009,Lisa,Allen,Psychiatry,TN,TN01,South,A,1,Managed Medicaid,Government,100,16,8,32,8865.46,0.5,0.501
+2024-01,410000010,Alice,Douglas,Psychiatry,TN,TN01,South,C,0,Medicaid,Government,150,3,1,3,846.43,0.333,0.757
+2024-01,410000011,Mark,Moody,Internal Medicine,TN,TN01,South,C,0,Managed Medicaid,Government,100,8,2,16,4286.46,0.25,0.846
+2024-01,410000012,Johnathan,Sloan,Internal Medicine,TN,TN01,South,A,1,Commercial,Commercial,150,10,3,10,3642.2,0.3,0.55
+2024-01,410000013,Laura,Stephens,Internal Medicine,TN,TN01,South,A,1,Medicare,Government,100,20,8,20,5435.44,0.4,0.599
+2024-01,410000014,James,Lewis,Psychiatry,TN,TN01,South,B,1,Medicaid,Government,150,18,9,18,4795.57,0.5,0.508
+2024-01,410000015,Kayla,Russell,Internal Medicine,TN,TN01,South,A,1,Commercial,Commercial,200,14,4,14,4459.28,0.286,0.776
+2024-01,410000016,Julie,Miller,Psychiatry,TN,TN01,South,B,1,Medicaid,Government,150,20,9,40,11297.56,0.45,0.783
+2024-01,410000017,Rebecca,Terry,Neurology,TN,TN01,South,A,1,Managed Medicaid,Government,200,18,5,18,4514.55,0.278,0.809
+2024-01,410000018,Jeremiah,Bell,Psychiatry,TN,TN01,South,A,1,Medicaid,Government,200,27,8,54,21628.73,0.296,0.611
+2024-01,410000019,Andrea,Lawrence,Internal Medicine,TN,TN01,South,C,0,Medicaid,Government,100,5,2,5,2210.77,0.4,0.603
+2024-01,410000020,David,Medina,Psychiatry,TN,TN01,South,B,1,Medicaid,Government,100,13,5,26,11620.48,0.385,0.798
+2024-01,410000021,Grace,James,Neurology,TN,TN01,South,B,1,Medicaid,Government,200,20,9,20,8480.26,0.45,0.777
+2024-01,410000022,Jeffrey,Patterson,Neurology,TN,TN01,South,A,1,Medicaid,Government,200,16,4,32,13290.88,0.25,0.726
+2024-01,410000023,Aimee,Bradley,Neurology,TN,TN01,South,B,1,Managed Medicaid,Government,200,17,6,34,9062.35,0.353,0.749
+2024-01,410000024,Karen,Molina,Neurology,TN,TN01,South,C,0,Managed Medicaid,Government,200,0,0,0,0.0,0.0,0.703
+2024-01,410000025,Laura,Miller,Neurology,TN,TN01,South,C,0,Commercial,Commercial,100,9,4,9,4074.03,0.444,0.658
+2024-01,410000026,Daniel,Avery,Psychiatry,TN,TN01,South,B,1,Medicaid,Government,150,15,5,30,13531.93,0.333,0.7
+2024-01,410000027,Joyce,Nunez,Internal Medicine,TN,TN01,South,B,1,Commercial,Commercial,100,19,4,19,5637.54,0.211,0.682
+2024-01,410000028,Theresa,Mora,Psychiatry,TN,TN01,South,C,0,Commercial,Commercial,150,16,4,32,10585.17,0.25,0.664
+2024-01,410000029,Anna,Bridges,Internal Medicine,TN,TN01,South,B,1,Managed Medicaid,Government,150,16,5,32,10221.33,0.312,0.563
+2024-01,420000000,Sharon,Garrett,Psychiatry,TX,TX01,South,B,1,Commercial,Commercial,150,21,11,21,6228.07,0.524,0.676
+2024-01,420000001,Thomas,Williams,Neurology,TX,TX01,South,C,0,Commercial,Commercial,150,5,1,5,1227.93,0.2,0.525
+2024-01,420000002,Mario,Porter,Psychiatry,TX,TX01,South,C,0,Medicaid,Government,150,2,0,2,791.06,0.0,0.588
+2024-01,420000003,David,Jones,Neurology,TX,TX01,South,C,0,Medicare,Government,100,12,5,12,5755.02,0.417,0.763
+2024-01,420000004,Lisa,Garcia,Neurology,TX,TX01,South,C,0,Medicare,Government,100,0,0,0,0.0,0.0,0.621
+2024-01,420000005,Neil,Rivera,Internal Medicine,TX,TX01,South,B,1,Commercial,Commercial,150,23,7,23,10235.49,0.304,0.58
+2024-01,420000006,Theresa,Jones,Neurology,TX,TX01,South,C,0,Medicaid,Government,150,0,0,0,0.0,0.0,0.775
+2024-01,420000007,Tammy,Gomez,Internal Medicine,TX,TX01,South,C,0,Managed Medicaid,Government,150,10,3,10,3013.99,0.3,0.566
+2024-01,420000008,Sheila,DDS,Neurology,TX,TX01,South,B,1,Medicaid,Government,150,18,5,36,15903.56,0.278,0.511
+2024-01,420000009,Clinton,Brown,Psychiatry,TX,TX01,South,C,0,Medicaid,Government,150,1,0,1,349.95,0.0,0.731
+2024-01,420000010,Stephen,Mendez,Internal Medicine,TX,TX01,South,B,1,Medicaid,Government,150,15,8,30,11948.95,0.533,0.641
+2024-01,420000011,Kelly,Leon,Neurology,TX,TX01,South,C,0,Medicare,Government,150,9,3,9,3308.13,0.333,0.511
+2024-01,420000012,Brian,Webb,Psychiatry,TX,TX01,South,A,1,Medicare,Government,200,27,10,54,25641.62,0.37,0.571
+2024-01,420000013,Ellen,Cruz,Internal Medicine,TX,TX01,South,A,1,Managed Medicaid,Government,100,10,4,20,4964.92,0.4,0.699
+2024-01,420000014,Sabrina,Palmer,Internal Medicine,TX,TX01,South,C,0,Medicare,Government,100,1,0,1,247.12,0.0,0.694
+2024-01,420000015,Corey,Hardy,Psychiatry,TX,TX01,South,C,0,Managed Medicaid,Government,100,0,0,0,0.0,0.0,0.819
+2024-01,420000016,Mary,Wheeler,Internal Medicine,TX,TX01,South,B,1,Medicaid,Government,100,17,8,34,13310.6,0.471,0.524
+2024-01,420000017,Dustin,Cook,Psychiatry,TX,TX01,South,B,1,Commercial,Commercial,100,22,8,44,19515.05,0.364,0.644
+2024-01,420000018,Elaine,Webb,Psychiatry,TX,TX01,South,A,1,Medicaid,Government,200,10,4,20,6886.91,0.4,0.524
+2024-01,420000019,Lori,DDS,Psychiatry,TX,TX01,South,A,1,Medicaid,Government,150,17,5,34,14710.2,0.294,0.733
+2024-01,420000020,Ms.,Burns,Psychiatry,TX,TX01,South,C,0,Medicare,Government,200,10,3,10,3506.44,0.3,0.74
+2024-01,420000021,Jennifer,Bennett,Internal Medicine,TX,TX01,South,A,1,Commercial,Commercial,100,15,4,30,7098.97,0.267,0.64
+2024-01,420000022,Arthur,Baker,Psychiatry,TX,TX01,South,C,0,Medicare,Government,200,0,0,0,0.0,0.0,0.702
+2024-01,420000023,Kristin,Ortiz,Neurology,TX,TX01,South,A,1,Medicare,Government,200,18,9,36,11165.88,0.5,0.795
+2024-01,420000024,Deanna,Johnson,Internal Medicine,TX,TX01,South,B,1,Medicaid,Government,150,24,11,24,6400.57,0.458,0.716
+2024-01,420000025,Yvonne,Schmidt,Internal Medicine,TX,TX01,South,B,1,Managed Medicaid,Government,200,12,5,12,4819.39,0.417,0.533
+2024-01,420000026,Jason,Cox,Neurology,TX,TX01,South,A,1,Medicaid,Government,100,9,3,18,8090.36,0.333,0.688
+2024-01,420000027,Alexis,Baker,Neurology,TX,TX01,South,A,1,Medicaid,Government,150,19,4,38,18164.81,0.211,0.693
+2024-01,420000028,Jonathon,Farrell,Internal Medicine,TX,TX01,South,A,1,Commercial,Commercial,200,19,4,38,12411.75,0.211,0.558
+2024-01,420000029,Sarah,White,Psychiatry,TX,TX01,South,C,0,Commercial,Commercial,150,3,1,3,717.09,0.333,0.743
+2024-01,430000000,Danielle,Strong,Neurology,UT,UT01,West,B,1,Managed Medicaid,Government,150,14,7,28,12390.03,0.5,0.639
+2024-01,430000001,Jay,Brown,Psychiatry,UT,UT01,West,B,1,Commercial,Commercial,200,18,5,18,5490.88,0.278,0.762
+2024-01,430000002,Jody,Vaughan,Internal Medicine,UT,UT01,West,B,1,Commercial,Commercial,100,12,3,12,4866.37,0.25,0.653
+2024-01,430000003,Lisa,Smith,Internal Medicine,UT,UT01,West,B,1,Medicaid,Government,100,12,3,12,4533.8,0.25,0.562
+2024-01,430000004,Michael,Shelton,Psychiatry,UT,UT01,West,C,0,Managed Medicaid,Government,100,9,4,9,3551.06,0.444,0.504
+2024-01,430000005,Kathryn,Boyer,Internal Medicine,UT,UT01,West,A,1,Managed Medicaid,Government,150,12,6,12,3316.02,0.5,0.512
+2024-01,430000006,Victoria,Torres,Neurology,UT,UT01,West,C,0,Medicaid,Government,150,0,0,0,0.0,0.0,0.784
+2024-01,430000007,Cameron,Vazquez,Neurology,UT,UT01,West,C,0,Commercial,Commercial,150,2,0,4,1341.75,0.0,0.709
+2024-01,430000008,Joshua,Collier,Psychiatry,UT,UT01,West,B,1,Medicaid,Government,100,15,5,30,13688.3,0.333,0.57
+2024-01,430000009,Dr.,Murray,Psychiatry,UT,UT01,West,B,1,Commercial,Commercial,100,20,10,40,17333.48,0.5,0.738
+2024-01,430000010,Kayla,Bennett,Psychiatry,UT,UT01,West,A,1,Commercial,Commercial,200,15,6,15,6123.64,0.4,0.515
+2024-01,430000011,Lori,Thompson,Neurology,UT,UT01,West,A,1,Medicare,Government,150,25,11,25,9560.38,0.44,0.827
+2024-01,430000012,Jon,Nelson,Internal Medicine,UT,UT01,West,B,1,Commercial,Commercial,100,18,8,18,4455.54,0.444,0.613
+2024-01,430000013,Tonya,DDS,Psychiatry,UT,UT01,West,B,1,Medicare,Government,100,13,3,26,7158.31,0.231,0.577
+2024-01,430000014,Donna,Jackson,Neurology,UT,UT01,West,B,1,Medicare,Government,100,20,10,20,9004.39,0.5,0.644
+2024-01,430000015,James,Coleman,Neurology,UT,UT01,West,B,1,Commercial,Commercial,200,25,6,25,7137.61,0.24,0.533
+2024-01,430000016,Alexis,Dalton,Internal Medicine,UT,UT01,West,C,0,Managed Medicaid,Government,200,9,3,9,2756.99,0.333,0.722
+2024-01,430000017,Chelsea,Watkins,Neurology,UT,UT01,West,B,1,Managed Medicaid,Government,100,10,4,20,4491.77,0.4,0.819
+2024-01,430000018,Jennifer,Roman,Internal Medicine,UT,UT01,West,B,1,Medicaid,Government,200,16,6,16,4487.64,0.375,0.716
+2024-01,430000019,Jackie,Howard,Psychiatry,UT,UT01,West,B,1,Medicaid,Government,200,19,7,38,15841.59,0.368,0.717
+2024-01,430000020,Denise,Jenkins,Psychiatry,UT,UT01,West,A,1,Medicare,Government,150,21,10,42,11445.97,0.476,0.632
+2024-01,430000021,Daniel,Murphy,Neurology,UT,UT01,West,A,1,Medicaid,Government,200,17,7,34,14015.02,0.412,0.615
+2024-01,430000022,Kristine,Little,Internal Medicine,UT,UT01,West,B,1,Commercial,Commercial,200,16,8,32,12431.75,0.5,0.601
+2024-01,430000023,Stuart,Miller,Psychiatry,UT,UT01,West,A,1,Medicare,Government,150,26,11,26,7111.33,0.423,0.519
+2024-01,430000024,Samantha,Perry,Neurology,UT,UT01,West,A,1,Medicaid,Government,200,21,6,42,14934.47,0.286,0.564
+2024-01,430000025,Rhonda,Jackson,Neurology,UT,UT01,West,A,1,Commercial,Commercial,150,20,9,20,9359.04,0.45,0.518
+2024-01,430000026,Destiny,Curtis,Psychiatry,UT,UT01,West,A,1,Medicaid,Government,100,15,5,15,5611.26,0.333,0.791
+2024-01,430000027,Beth,Smith,Psychiatry,UT,UT01,West,A,1,Commercial,Commercial,150,12,6,24,7223.53,0.5,0.753
+2024-01,430000028,Mark,Matthews,Psychiatry,UT,UT01,West,B,1,Medicaid,Government,200,20,9,20,5976.12,0.45,0.702
+2024-01,430000029,Tiffany,Brown,Neurology,UT,UT01,West,A,1,Medicare,Government,150,21,8,21,9812.53,0.381,0.626
+2024-01,440000000,Michelle,Webb,Internal Medicine,VT,VT01,Northeast,A,1,Managed Medicaid,Government,150,17,6,34,11946.79,0.353,0.757
+2024-01,440000001,Mark,Campbell,Psychiatry,VT,VT01,Northeast,B,1,Commercial,Commercial,150,21,6,42,18566.14,0.286,0.766
+2024-01,440000002,Erica,Henry,Internal Medicine,VT,VT01,Northeast,C,0,Medicaid,Government,200,9,3,9,2582.06,0.333,0.662
+2024-01,440000003,Jimmy,Burch,Internal Medicine,VT,VT01,Northeast,B,1,Managed Medicaid,Government,200,22,5,44,10502.99,0.227,0.548
+2024-01,440000004,Kaitlyn,Dalton,Internal Medicine,VT,VT01,Northeast,A,1,Medicaid,Government,100,10,4,10,2233.37,0.4,0.675
+2024-01,440000005,Timothy,Shepard,Neurology,VT,VT01,Northeast,B,1,Managed Medicaid,Government,150,16,7,32,14863.17,0.438,0.84
+2024-01,440000006,Elizabeth,Flores,Internal Medicine,VT,VT01,Northeast,B,1,Managed Medicaid,Government,150,20,5,20,6525.7,0.25,0.514
+2024-01,440000007,Amy,Francis,Psychiatry,VT,VT01,Northeast,B,1,Medicaid,Government,100,18,7,36,16878.43,0.389,0.77
+2024-01,440000008,Antonio,Molina,Neurology,VT,VT01,Northeast,B,1,Managed Medicaid,Government,200,21,6,42,16845.29,0.286,0.728
+2024-01,440000009,Mary,Mercer,Internal Medicine,VT,VT01,Northeast,C,0,Medicaid,Government,100,8,3,16,3663.55,0.375,0.785
+2024-01,440000010,Holly,Clark,Neurology,VT,VT01,Northeast,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.659
+2024-01,440000011,Renee,Garner,Neurology,VT,VT01,Northeast,A,1,Medicare,Government,100,23,11,23,5133.78,0.478,0.77
+2024-01,440000012,James,Peck,Neurology,VT,VT01,Northeast,C,0,Managed Medicaid,Government,150,3,1,3,1064.46,0.333,0.566
+2024-01,440000013,Theresa,Beck,Internal Medicine,VT,VT01,Northeast,A,1,Managed Medicaid,Government,150,13,6,26,9104.37,0.462,0.687
+2024-01,440000014,Jill,Doyle,Internal Medicine,VT,VT01,Northeast,C,0,Medicare,Government,200,11,3,22,9144.08,0.273,0.824
+2024-01,440000015,Matthew,Brown,Psychiatry,VT,VT01,Northeast,A,1,Medicare,Government,100,21,9,42,17416.13,0.429,0.826
+2024-01,440000016,Elizabeth,Olson,Internal Medicine,VT,VT01,Northeast,C,0,Medicare,Government,100,12,6,12,5187.13,0.5,0.501
+2024-01,440000017,Scott,Beck,Psychiatry,VT,VT01,Northeast,C,0,Managed Medicaid,Government,200,7,1,14,5462.46,0.143,0.757
+2024-01,440000018,John,Mcclure,Psychiatry,VT,VT01,Northeast,A,1,Medicare,Government,100,16,6,16,4343.77,0.375,0.564
+2024-01,440000019,Anthony,Perez,Psychiatry,VT,VT01,Northeast,B,1,Medicaid,Government,100,18,6,18,4236.04,0.333,0.564
+2024-01,440000020,Kathryn,Frazier,Psychiatry,VT,VT01,Northeast,B,1,Managed Medicaid,Government,150,12,5,12,5349.29,0.417,0.558
+2024-01,440000021,Joan,Baird,Internal Medicine,VT,VT01,Northeast,A,1,Managed Medicaid,Government,100,11,3,22,5207.58,0.273,0.51
+2024-01,440000022,Dorothy,Gonzales,Psychiatry,VT,VT01,Northeast,B,1,Managed Medicaid,Government,200,14,3,14,3114.6,0.214,0.593
+2024-01,440000023,Albert,Andrews,Psychiatry,VT,VT01,Northeast,C,0,Commercial,Commercial,100,13,6,13,4625.49,0.462,0.503
+2024-01,440000024,Luis,Meyer,Neurology,VT,VT01,Northeast,C,0,Medicare,Government,150,3,1,6,2500.78,0.333,0.712
+2024-01,440000025,Ronald,Calderon,Internal Medicine,VT,VT01,Northeast,B,1,Medicare,Government,150,9,3,9,4181.92,0.333,0.733
+2024-01,440000026,Sarah,Wood,Internal Medicine,VT,VT01,Northeast,C,0,Commercial,Commercial,150,5,2,10,4296.3,0.4,0.501
+2024-01,440000027,Erin,Hardy,Neurology,VT,VT01,Northeast,B,1,Medicaid,Government,100,15,6,15,6689.12,0.4,0.598
+2024-01,440000028,Kevin,Thomas,Neurology,VT,VT01,Northeast,A,1,Medicare,Government,150,23,7,46,16278.37,0.304,0.731
+2024-01,440000029,Alex,Hood,Psychiatry,VT,VT01,Northeast,C,0,Medicare,Government,100,13,4,26,11624.42,0.308,0.839
+2024-01,450000000,Angela,Miller,Neurology,VA,VA01,South,B,1,Managed Medicaid,Government,100,15,5,30,9721.29,0.333,0.714
+2024-01,450000001,Paul,Austin,Psychiatry,VA,VA01,South,B,1,Managed Medicaid,Government,150,19,6,19,7807.33,0.316,0.603
+2024-01,450000002,Michael,Jones,Psychiatry,VA,VA01,South,C,0,Medicaid,Government,200,7,1,7,1772.71,0.143,0.779
+2024-01,450000003,Walter,Martin,Internal Medicine,VA,VA01,South,C,0,Managed Medicaid,Government,100,5,2,10,4683.13,0.4,0.669
+2024-01,450000004,Nicole,Reilly,Neurology,VA,VA01,South,A,1,Medicaid,Government,100,16,7,16,6653.53,0.438,0.731
+2024-01,450000005,Robert,Patel,Psychiatry,VA,VA01,South,A,1,Managed Medicaid,Government,200,13,5,13,3401.6,0.385,0.825
+2024-01,450000006,William,Moreno,Internal Medicine,VA,VA01,South,B,1,Medicaid,Government,200,8,2,16,6290.28,0.25,0.833
+2024-01,450000007,Richard,Juarez,Neurology,VA,VA01,South,A,1,Medicaid,Government,200,13,4,26,6331.39,0.308,0.742
+2024-01,450000008,Linda,Taylor,Psychiatry,VA,VA01,South,C,0,Commercial,Commercial,200,5,1,10,3180.23,0.2,0.751
+2024-01,450000009,Lori,Miller,Neurology,VA,VA01,South,C,0,Managed Medicaid,Government,200,0,0,0,0.0,0.0,0.578
+2024-01,450000010,William,Arnold,Psychiatry,VA,VA01,South,B,1,Commercial,Commercial,100,19,8,19,5860.77,0.421,0.707
+2024-01,450000011,Christina,Andrews,Psychiatry,VA,VA01,South,C,0,Commercial,Commercial,200,6,1,12,3037.54,0.167,0.61
+2024-01,450000012,Marc,Lopez,Internal Medicine,VA,VA01,South,C,0,Commercial,Commercial,150,3,1,3,1120.25,0.333,0.566
+2024-01,450000013,Elaine,Hodges,Internal Medicine,VA,VA01,South,B,1,Medicare,Government,150,16,6,16,5682.17,0.375,0.711
+2024-01,450000014,Jacqueline,Allison,Psychiatry,VA,VA01,South,A,1,Managed Medicaid,Government,100,11,2,22,6647.1,0.182,0.786
+2024-01,450000015,Connie,Miller,Internal Medicine,VA,VA01,South,A,1,Managed Medicaid,Government,200,22,11,44,11366.55,0.5,0.599
+2024-01,450000016,Kevin,Drake,Neurology,VA,VA01,South,C,0,Commercial,Commercial,200,10,4,20,6006.24,0.4,0.847
+2024-01,450000017,Mrs.,Steele,Psychiatry,VA,VA01,South,B,1,Managed Medicaid,Government,200,12,5,12,4184.48,0.417,0.746
+2024-01,450000018,Andrew,Rodriguez,Internal Medicine,VA,VA01,South,A,1,Medicare,Government,100,12,5,12,5285.98,0.417,0.827
+2024-01,450000019,Jessica,Orozco,Psychiatry,VA,VA01,South,C,0,Commercial,Commercial,100,1,0,2,818.25,0.0,0.605
+2024-01,450000020,Dr.,Kelly,Neurology,VA,VA01,South,A,1,Commercial,Commercial,200,20,6,40,12309.07,0.3,0.737
+2024-01,450000021,Amy,Michael,Internal Medicine,VA,VA01,South,B,1,Managed Medicaid,Government,100,19,8,38,11149.76,0.421,0.823
+2024-01,450000022,Natalie,Bell,Neurology,VA,VA01,South,C,0,Managed Medicaid,Government,100,11,4,11,3344.98,0.364,0.777
+2024-01,450000023,Christopher,Clark,Psychiatry,VA,VA01,South,C,0,Medicare,Government,150,11,2,11,4070.67,0.182,0.655
+2024-01,450000024,Andrew,Ali,Internal Medicine,VA,VA01,South,B,1,Medicaid,Government,100,10,3,10,4291.33,0.3,0.568
+2024-01,450000025,Dylan,Alvarez,Neurology,VA,VA01,South,A,1,Medicare,Government,200,20,10,20,7927.25,0.5,0.846
+2024-01,450000026,Stephanie,Walker,Psychiatry,VA,VA01,South,B,1,Managed Medicaid,Government,200,23,7,23,10597.39,0.304,0.534
+2024-01,450000027,Reginald,Lee,Internal Medicine,VA,VA01,South,A,1,Commercial,Commercial,100,16,7,32,11977.02,0.438,0.839
+2024-01,450000028,Christina,Peterson,Neurology,VA,VA01,South,C,0,Managed Medicaid,Government,100,5,1,5,1254.44,0.2,0.639
+2024-01,450000029,Brian,Miller,Internal Medicine,VA,VA01,South,C,0,Medicaid,Government,200,5,2,10,4217.21,0.4,0.847
+2024-01,460000000,Monica,Johnson,Neurology,WA,WA01,West,C,0,Commercial,Commercial,150,5,1,10,2915.56,0.2,0.729
+2024-01,460000001,Samantha,Gutierrez,Internal Medicine,WA,WA01,West,A,1,Commercial,Commercial,100,22,8,22,5538.13,0.364,0.724
+2024-01,460000002,Tyler,Becker,Neurology,WA,WA01,West,A,1,Commercial,Commercial,200,26,11,52,15140.76,0.423,0.761
+2024-01,460000003,Cheryl,Nolan,Neurology,WA,WA01,West,A,1,Managed Medicaid,Government,150,24,7,48,14283.57,0.292,0.544
+2024-01,460000004,Jacqueline,Roberts,Internal Medicine,WA,WA01,West,A,1,Medicaid,Government,150,15,4,15,4835.81,0.267,0.786
+2024-01,460000005,Matthew,White,Neurology,WA,WA01,West,B,1,Commercial,Commercial,200,19,9,19,7902.33,0.474,0.573
+2024-01,460000006,Scott,Bernard,Neurology,WA,WA01,West,A,1,Medicaid,Government,200,14,4,14,3099.38,0.286,0.657
+2024-01,460000007,Mark,Davis,Internal Medicine,WA,WA01,West,A,1,Commercial,Commercial,100,14,4,14,5455.61,0.286,0.531
+2024-01,460000008,Jenna,Huff,Internal Medicine,WA,WA01,West,A,1,Commercial,Commercial,100,17,7,34,10693.87,0.412,0.691
+2024-01,460000009,David,Goodwin,Internal Medicine,WA,WA01,West,C,0,Commercial,Commercial,100,2,0,4,928.01,0.0,0.831
+2024-01,460000010,Sarah,Frye,Internal Medicine,WA,WA01,West,C,0,Managed Medicaid,Government,100,3,1,6,2404.36,0.333,0.683
+2024-01,460000011,Tara,Hanna,Internal Medicine,WA,WA01,West,C,0,Medicaid,Government,200,7,3,7,2745.96,0.429,0.516
+2024-01,460000012,Ann,Evans,Psychiatry,WA,WA01,West,A,1,Medicaid,Government,150,20,10,20,9378.6,0.5,0.711
+2024-01,460000013,Joseph,Hobbs,Psychiatry,WA,WA01,West,C,0,Medicare,Government,150,8,3,8,3276.54,0.375,0.648
+2024-01,460000014,Wanda,Mendoza,Neurology,WA,WA01,West,B,1,Medicare,Government,150,20,9,20,6480.31,0.45,0.529
+2024-01,460000015,Jessica,Burgess,Internal Medicine,WA,WA01,West,C,0,Managed Medicaid,Government,200,0,0,0,0.0,0.0,0.525
+2024-01,460000016,Joel,Miller,Neurology,WA,WA01,West,B,1,Medicaid,Government,200,14,5,28,10263.31,0.357,0.727
+2024-01,460000017,Rhonda,Thompson,Neurology,WA,WA01,West,C,0,Medicaid,Government,150,6,3,6,1813.52,0.5,0.776
+2024-01,460000018,Dr.,Stephens,Internal Medicine,WA,WA01,West,A,1,Medicaid,Government,100,23,7,46,11610.47,0.304,0.538
+2024-01,460000019,Mr.,MD,Neurology,WA,WA01,West,B,1,Commercial,Commercial,150,29,10,29,9115.66,0.345,0.617
+2024-01,460000020,Jose,Tapia,Internal Medicine,WA,WA01,West,A,1,Medicaid,Government,150,19,9,19,4663.86,0.474,0.843
+2024-01,460000021,Cynthia,Cox,Psychiatry,WA,WA01,West,B,1,Commercial,Commercial,100,21,8,21,7494.56,0.381,0.806
+2024-01,460000022,Gregory,Petersen,Neurology,WA,WA01,West,B,1,Commercial,Commercial,200,11,5,22,8846.61,0.455,0.803
+2024-01,460000023,Michelle,Crawford,Neurology,WA,WA01,West,B,1,Commercial,Commercial,100,21,7,21,6356.26,0.333,0.763
+2024-01,460000024,Scott,Guerrero,Psychiatry,WA,WA01,West,B,1,Managed Medicaid,Government,150,27,14,27,7758.61,0.519,0.74
+2024-01,460000025,Tara,Brown,Neurology,WA,WA01,West,A,1,Medicaid,Government,100,14,3,28,10291.84,0.214,0.594
+2024-01,460000026,Rachel,Jenkins,Neurology,WA,WA01,West,C,0,Medicare,Government,200,3,1,3,1189.01,0.333,0.646
+2024-01,460000027,Erik,Moreno,Internal Medicine,WA,WA01,West,A,1,Managed Medicaid,Government,150,22,5,44,15425.5,0.227,0.597
+2024-01,460000028,Crystal,Chavez,Internal Medicine,WA,WA01,West,C,0,Medicaid,Government,150,6,1,6,2798.03,0.167,0.642
+2024-01,460000029,Cindy,Jackson,Internal Medicine,WA,WA01,West,A,1,Commercial,Commercial,100,8,3,8,3725.32,0.375,0.558
+2024-01,470000000,Jacob,Daniels,Psychiatry,WV,WV01,South,A,1,Medicare,Government,200,15,6,30,12905.11,0.4,0.504
+2024-01,470000001,Yvonne,Ortiz,Internal Medicine,WV,WV01,South,C,0,Medicaid,Government,150,13,4,26,9201.48,0.308,0.849
+2024-01,470000002,Daniel,Hayes,Neurology,WV,WV01,South,C,0,Commercial,Commercial,150,4,1,4,1520.94,0.25,0.819
+2024-01,470000003,Laura,Miller,Neurology,WV,WV01,South,A,1,Managed Medicaid,Government,200,16,4,32,9071.96,0.25,0.759
+2024-01,470000004,Denise,Hanson,Neurology,WV,WV01,South,C,0,Commercial,Commercial,200,9,4,18,8474.55,0.444,0.736
+2024-01,470000005,Luke,Smith,Neurology,WV,WV01,South,A,1,Medicaid,Government,100,19,8,38,16653.36,0.421,0.68
+2024-01,470000006,Michael,Peterson,Psychiatry,WV,WV01,South,B,1,Managed Medicaid,Government,150,16,5,16,5072.86,0.312,0.54
+2024-01,470000007,Stephen,Perez,Neurology,WV,WV01,South,A,1,Commercial,Commercial,150,14,4,28,9677.15,0.286,0.593
+2024-01,470000008,Carly,Padilla,Psychiatry,WV,WV01,South,C,0,Managed Medicaid,Government,100,20,7,40,18462.73,0.35,0.836
+2024-01,470000009,Kyle,Odom,Neurology,WV,WV01,South,A,1,Managed Medicaid,Government,200,24,8,48,11277.56,0.333,0.502
+2024-01,470000010,Renee,Flores,Internal Medicine,WV,WV01,South,B,1,Medicare,Government,150,20,6,20,4426.8,0.3,0.812
+2024-01,470000011,Mary,Sexton,Psychiatry,WV,WV01,South,B,1,Medicare,Government,100,20,10,20,6640.18,0.5,0.569
+2024-01,470000012,Paige,Larsen,Neurology,WV,WV01,South,C,0,Medicaid,Government,150,5,1,5,2287.04,0.2,0.502
+2024-01,470000013,Randall,Hernandez,Neurology,WV,WV01,South,B,1,Medicaid,Government,150,19,7,38,12058.18,0.368,0.628
+2024-01,470000014,Scott,Russell,Psychiatry,WV,WV01,South,C,0,Medicare,Government,100,4,1,8,3125.06,0.25,0.654
+2024-01,470000015,Patricia,Orr,Psychiatry,WV,WV01,South,B,1,Managed Medicaid,Government,100,13,5,26,11692.98,0.385,0.748
+2024-01,470000016,Mary,Walker,Psychiatry,WV,WV01,South,A,1,Medicare,Government,100,19,8,19,6129.06,0.421,0.76
+2024-01,470000017,Nicholas,Jones,Psychiatry,WV,WV01,South,A,1,Medicaid,Government,150,16,8,32,8028.35,0.5,0.671
+2024-01,470000018,Roy,Mcconnell,Internal Medicine,WV,WV01,South,C,0,Medicaid,Government,150,8,3,16,5607.73,0.375,0.823
+2024-01,470000019,Joseph,Williams,Internal Medicine,WV,WV01,South,A,1,Commercial,Commercial,100,21,9,21,5308.63,0.429,0.62
+2024-01,470000020,Gregory,Castaneda,Psychiatry,WV,WV01,South,C,0,Medicaid,Government,100,8,2,16,5307.41,0.25,0.709
+2024-01,470000021,Tina,Short,Psychiatry,WV,WV01,South,B,1,Managed Medicaid,Government,150,13,5,26,9004.88,0.385,0.766
+2024-01,470000022,Sarah,Cummings,Psychiatry,WV,WV01,South,C,0,Medicaid,Government,200,3,0,3,854.58,0.0,0.768
+2024-01,470000023,Rachel,Thomas,Internal Medicine,WV,WV01,South,C,0,Medicaid,Government,200,4,1,8,2172.7,0.25,0.747
+2024-01,470000024,Scott,Hall,Psychiatry,WV,WV01,South,C,0,Medicaid,Government,100,10,4,10,2796.4,0.4,0.546
+2024-01,470000025,Charles,Rodriguez,Psychiatry,WV,WV01,South,B,1,Medicaid,Government,100,22,6,44,9882.05,0.273,0.57
+2024-01,470000026,John,Hall,Psychiatry,WV,WV01,South,B,1,Managed Medicaid,Government,200,14,3,28,11257.16,0.214,0.843
+2024-01,470000027,Laura,Hudson,Psychiatry,WV,WV01,South,B,1,Managed Medicaid,Government,150,11,3,11,3878.21,0.273,0.725
+2024-01,470000028,Cheyenne,Shannon,Internal Medicine,WV,WV01,South,A,1,Medicare,Government,150,30,9,60,27910.78,0.3,0.749
+2024-01,470000029,Matthew,Rodriguez,Psychiatry,WV,WV01,South,B,1,Commercial,Commercial,100,20,5,20,4402.79,0.25,0.731
+2024-01,480000000,Henry,Bass,Internal Medicine,WI,WI01,Midwest,A,1,Medicare,Government,150,11,3,22,10036.52,0.273,0.535
+2024-01,480000001,Taylor,Munoz,Psychiatry,WI,WI01,Midwest,B,1,Managed Medicaid,Government,150,15,8,30,8973.98,0.533,0.534
+2024-01,480000002,Mason,Howell,Psychiatry,WI,WI01,Midwest,C,0,Medicaid,Government,150,11,4,22,9080.19,0.364,0.626
+2024-01,480000003,Casey,Woods,Neurology,WI,WI01,Midwest,C,0,Medicare,Government,100,16,6,32,8787.48,0.375,0.634
+2024-01,480000004,Anna,Hubbard,Psychiatry,WI,WI01,Midwest,A,1,Commercial,Commercial,100,27,12,27,7294.35,0.444,0.656
+2024-01,480000005,Jennifer,Manning,Psychiatry,WI,WI01,Midwest,A,1,Medicare,Government,150,19,5,38,18137.69,0.263,0.571
+2024-01,480000006,Stephanie,Robertson,Neurology,WI,WI01,Midwest,A,1,Commercial,Commercial,100,4,2,4,1314.94,0.5,0.749
+2024-01,480000007,Stacy,Martin,Neurology,WI,WI01,Midwest,B,1,Medicare,Government,150,18,7,18,8222.77,0.389,0.524
+2024-01,480000008,Cindy,Mitchell,Internal Medicine,WI,WI01,Midwest,C,0,Commercial,Commercial,100,0,0,0,0.0,0.0,0.545
+2024-01,480000009,Janet,Mcdaniel,Psychiatry,WI,WI01,Midwest,C,0,Commercial,Commercial,200,6,1,6,2475.52,0.167,0.639
+2024-01,480000010,Robert,Rivera,Neurology,WI,WI01,Midwest,C,0,Commercial,Commercial,100,1,0,2,830.38,0.0,0.634
+2024-01,480000011,Catherine,Jefferson,Internal Medicine,WI,WI01,Midwest,B,1,Medicare,Government,100,15,4,15,3314.04,0.267,0.7
+2024-01,480000012,Corey,Vaughan,Neurology,WI,WI01,Midwest,C,0,Commercial,Commercial,200,10,3,20,7019.85,0.3,0.752
+2024-01,480000013,Carol,Schwartz,Internal Medicine,WI,WI01,Midwest,B,1,Medicaid,Government,150,16,6,32,11633.9,0.375,0.56
+2024-01,480000014,Jeffery,Poole,Psychiatry,WI,WI01,Midwest,C,0,Medicaid,Government,150,4,1,4,1545.2,0.25,0.83
+2024-01,480000015,Andrew,Smith,Internal Medicine,WI,WI01,Midwest,A,1,Medicare,Government,100,17,4,17,8113.75,0.235,0.573
+2024-01,480000016,Charles,Wilson,Psychiatry,WI,WI01,Midwest,A,1,Medicare,Government,200,31,13,62,18871.94,0.419,0.831
+2024-01,480000017,Darrell,Brown,Neurology,WI,WI01,Midwest,B,1,Medicaid,Government,150,12,5,24,7305.72,0.417,0.52
+2024-01,480000018,William,Martin,Psychiatry,WI,WI01,Midwest,B,1,Medicaid,Government,200,19,9,38,10106.14,0.474,0.84
+2024-01,480000019,April,Walker,Neurology,WI,WI01,Midwest,C,0,Commercial,Commercial,200,14,6,28,13044.38,0.429,0.59
+2024-01,480000020,Steven,Mendoza,Neurology,WI,WI01,Midwest,C,0,Medicaid,Government,150,5,1,5,1521.54,0.2,0.571
+2024-01,480000021,Joseph,Gomez,Neurology,WI,WI01,Midwest,B,1,Medicaid,Government,150,24,11,24,9834.03,0.458,0.652
+2024-01,480000022,Kelly,Robinson,Psychiatry,WI,WI01,Midwest,B,1,Commercial,Commercial,150,11,5,11,3733.86,0.455,0.785
+2024-01,480000023,Logan,Chen,Psychiatry,WI,WI01,Midwest,A,1,Managed Medicaid,Government,200,16,8,16,6213.87,0.5,0.507
+2024-01,480000024,Amy,Robinson,Psychiatry,WI,WI01,Midwest,A,1,Managed Medicaid,Government,200,13,4,13,3094.75,0.308,0.525
+2024-01,480000025,Jesus,Armstrong,Psychiatry,WI,WI01,Midwest,B,1,Managed Medicaid,Government,100,17,8,17,6952.3,0.471,0.783
+2024-01,480000026,Matthew,Cantu,Neurology,WI,WI01,Midwest,A,1,Managed Medicaid,Government,150,17,4,17,4226.36,0.235,0.505
+2024-01,480000027,David,Myers,Neurology,WI,WI01,Midwest,A,1,Medicaid,Government,100,18,9,18,5212.63,0.5,0.829
+2024-01,480000028,Lisa,Russell,Neurology,WI,WI01,Midwest,A,1,Commercial,Commercial,100,22,11,44,19435.12,0.5,0.53
+2024-01,480000029,Angel,Cooke,Psychiatry,WI,WI01,Midwest,B,1,Managed Medicaid,Government,100,6,1,12,3675.08,0.167,0.554
+2024-01,490000000,Rodney,Rios,Psychiatry,WY,WY01,West,C,0,Medicare,Government,200,2,0,2,451.03,0.0,0.516
+2024-01,490000001,Stephen,Haney,Neurology,WY,WY01,West,B,1,Commercial,Commercial,200,19,9,38,9761.33,0.474,0.819
+2024-01,490000002,Angela,Williams,Psychiatry,WY,WY01,West,A,1,Managed Medicaid,Government,150,8,2,8,2494.88,0.25,0.6
+2024-01,490000003,Taylor,Hamilton,Neurology,WY,WY01,West,B,1,Commercial,Commercial,150,21,7,21,10029.59,0.333,0.579
+2024-01,490000004,Melissa,Wright,Internal Medicine,WY,WY01,West,B,1,Commercial,Commercial,200,14,5,28,7021.6,0.357,0.823
+2024-01,490000005,Joshua,Rivera,Psychiatry,WY,WY01,West,A,1,Medicaid,Government,100,17,6,34,12169.45,0.353,0.71
+2024-01,490000006,Kelly,Villa,Neurology,WY,WY01,West,B,1,Medicaid,Government,200,22,10,44,16827.23,0.455,0.6
+2024-01,490000007,Marie,Gallagher,Psychiatry,WY,WY01,West,B,1,Managed Medicaid,Government,200,24,6,48,22202.37,0.25,0.784
+2024-01,490000008,Martin,Fisher,Neurology,WY,WY01,West,A,1,Commercial,Commercial,100,21,8,21,6368.6,0.381,0.637
+2024-01,490000009,Colin,Jr.,Neurology,WY,WY01,West,B,1,Commercial,Commercial,100,12,3,24,11267.81,0.25,0.597
+2024-01,490000010,Carolyn,PhD,Psychiatry,WY,WY01,West,B,1,Medicaid,Government,100,20,8,40,12467.13,0.4,0.673
+2024-01,490000011,Katherine,Rodgers,Internal Medicine,WY,WY01,West,C,0,Managed Medicaid,Government,200,9,2,18,4606.88,0.222,0.83
+2024-01,490000012,Kevin,Williams,Psychiatry,WY,WY01,West,B,1,Managed Medicaid,Government,200,20,9,40,14402.97,0.45,0.672
+2024-01,490000013,Ronald,Glover,Neurology,WY,WY01,West,A,1,Managed Medicaid,Government,100,25,11,50,17850.3,0.44,0.772
+2024-01,490000014,Jesse,Barrera,Neurology,WY,WY01,West,A,1,Commercial,Commercial,100,18,5,36,7946.83,0.278,0.848
+2024-01,490000015,Rebecca,Mccarthy,Psychiatry,WY,WY01,West,B,1,Managed Medicaid,Government,100,25,11,25,5887.25,0.44,0.622
+2024-01,490000016,Felicia,Reyes,Psychiatry,WY,WY01,West,B,1,Managed Medicaid,Government,100,25,7,50,14152.47,0.28,0.79
+2024-01,490000017,Joshua,Lozano,Psychiatry,WY,WY01,West,C,0,Medicaid,Government,100,9,2,9,2863.26,0.222,0.509
+2024-01,490000018,Carrie,Collins,Internal Medicine,WY,WY01,West,B,1,Commercial,Commercial,200,19,9,19,7453.97,0.474,0.526
+2024-01,490000019,Michelle,Sanchez,Neurology,WY,WY01,West,A,1,Commercial,Commercial,100,20,9,40,10269.29,0.45,0.586
+2024-01,490000020,Brian,Rogers,Psychiatry,WY,WY01,West,C,0,Managed Medicaid,Government,100,14,7,14,4789.94,0.5,0.549
+2024-01,490000021,Carolyn,Young,Neurology,WY,WY01,West,C,0,Medicare,Government,150,11,4,22,8973.03,0.364,0.655
+2024-01,490000022,Vicki,Harris,Neurology,WY,WY01,West,C,0,Commercial,Commercial,150,0,0,0,0.0,0.0,0.808
+2024-01,490000023,Elizabeth,Ferguson,Psychiatry,WY,WY01,West,C,0,Medicaid,Government,200,7,3,7,1559.78,0.429,0.791
+2024-01,490000024,Carolyn,Martin,Neurology,WY,WY01,West,B,1,Medicare,Government,200,13,4,26,10515.23,0.308,0.648
+2024-01,490000025,Phillip,Owen,Psychiatry,WY,WY01,West,B,1,Commercial,Commercial,200,14,4,28,13279.3,0.286,0.544
+2024-01,490000026,Lucas,Thomas,Psychiatry,WY,WY01,West,B,1,Commercial,Commercial,100,16,8,32,8568.33,0.5,0.761
+2024-01,490000027,Maria,Levy,Neurology,WY,WY01,West,C,0,Commercial,Commercial,200,0,0,0,0.0,0.0,0.728
+2024-01,490000028,Lisa,Hernandez,Internal Medicine,WY,WY01,West,B,1,Medicaid,Government,100,13,6,26,10091.34,0.462,0.568
+2024-01,490000029,Jennifer,Robertson,Psychiatry,WY,WY01,West,A,1,Commercial,Commercial,150,25,11,50,11364.64,0.44,0.599
