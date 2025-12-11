@@ -5,6 +5,9 @@ _End-to-end data pipeline, analytics modeling & Power BI dashboard_
 
 This project simulates a **pharmaceutical analytics workflow** for medicine, **Motpoly XR**, covering U.S. prescription activity from **2023–2025**. The process is the same in real-world pharmaceutical companies. However, for security reasons, I built the data and system by myself to replicate the process.
 
+This project solves the problem of manually piecing together monthly prescription data by providing an automated end-to-end pipeline—from raw data ingestion to analytics dashboards. It built a scalable, structured, and clean star-schema data warehouse and a monthly updation and refreshing solution. The Power BI dashboards then help brand and commercial teams quickly identify perscription and sales performance changes and help spot the reason. This turns raw data into a repeatable, scalable insight-generation system.
+
+
 It contains:
 
 - Design and build a **SQL analytical database** (SQLite)
@@ -163,3 +166,4 @@ This page allows teams to answer:
 
 ---
 Enjoy!
+
